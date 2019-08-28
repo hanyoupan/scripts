@@ -1,0 +1,16 @@
+#PBS -S /bin/bash
+#PBS -A ACF-UTHSC0013
+#PBS -l nodes=1:ppn=40,walltime=1:00:00
+#PBS -m abe
+#PBS -M hanyou@umich.edu
+#PBS -j oe
+#PBS -l partition=general,feature=skylake
+#PBS -N 2019-05-27_1_long_ranger_testrun.qsub
+
+source /nics/c/home/hanyou/.bashrc
+cd
+
+mkdir -p /lustre/haven/proj/UTHSC0013/UM/data/long_ranger/rat_genome_03/tiny_testrun
+cd /lustre/haven/proj/UTHSC0013/UM/data/long_ranger/rat_genome_03/tiny_testrun
+
+longranger testrun --id=tiny

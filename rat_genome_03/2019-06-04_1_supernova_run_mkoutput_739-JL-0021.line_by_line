@@ -1,0 +1,26 @@
+#!/bin/bash
+
+qsub -I -A ACF-UTHSC0013 -l nodes=1:ppn=24,walltime=140:00:00 -m abe -M hanyou@umich.edu -l partition=monster,qos=long -N supernova_21
+
+source /nics/c/home/hanyou/.bashrc
+cd
+
+mkdir -p /lustre/haven/proj/UTHSC0013/UM/data/supernova/rat_genome_03/5739-JL-0021
+cd /lustre/haven/proj/UTHSC0013/UM/data/supernova/rat_genome_03/5739-JL-0021
+ 
+supernova run --id=5739-JL-0021 \
+--fastqs=/lustre/haven/proj/UTHSC0013/UM/data/sequences/rat_genome_03/5739-JL-0021/ \
+--sample=5739-JL-0021_1,5739-JL-0021_2,5739-JL-0021_3,5739-JL-0021_4 \
+--maxreads=1640000000
+
+# maxread = 2.87e9 * 56 / 151 = 1.64e9
+
+cd /lustre/haven/proj/UTHSC0013/UM/data/supernova/rat_genome_03/5739-JL-0021
+mkdir -p fasta
+
+supernova mkoutput \
+--style=pseudohap \
+--asmdir=/lustre/haven/proj/UTHSC0013/UM/data/supernova/rat_genome_03/5739-JL-0021/5739-JL-0021/outs/assembly \
+--outprefix=5739-JL-0021_pseudohap \
+--minsize=10000 \
+--headers=short

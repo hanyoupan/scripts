@@ -1,0 +1,11 @@
+#!/bin/bash
+
+qsub -I -A ACF-UTHSC0013 -l nodes=1:ppn=24,walltime=140:00:00 -m abe -M hanyou@umich.edu -l partition=monster,qos=long -N supernova_testrun
+
+source /nics/c/home/hanyou/.bashrc
+cd
+
+mkdir -p /lustre/haven/proj/UTHSC0013/UM/data/supernova/rat_genome_03/tiny_testrun
+cd /lustre/haven/proj/UTHSC0013/UM/data/supernova/rat_genome_03/tiny_testrun
+ 
+supernova testrun --id=tiny

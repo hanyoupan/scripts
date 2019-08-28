@@ -1,0 +1,4 @@
+cd /nics/c/home/hanyou/UM/resources/references/refdata-rn6.fa.concatenate/fasta
+java -jar /nics/c/home/hanyou/UM/resources/apps/picard_2.20.2/picard.jar  CreateSequenceDictionary \
+R=genome.fa \
+O=genome.dict

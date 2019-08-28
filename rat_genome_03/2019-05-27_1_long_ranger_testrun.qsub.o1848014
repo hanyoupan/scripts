@@ -1,0 +1,203 @@
+longranger testrun (2.2.2)
+Copyright (c) 2018 10x Genomics, Inc.  All rights reserved.
+-------------------------------------------------------------------------------
+
+Running Long Ranger in test mode...
+
+Martian Runtime - '2.2.2-2.3.2'
+Serving UI at http://acf-sk022:40993?auth=JKPwN3AbXN_VXmn6C4Flss3HZ97YziPoyqJElQXKnNU
+
+Running preflight checks (please wait)...
+2019-06-04 13:25:52 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._ALIGNER.SETUP_CHUNKS
+2019-06-04 13:25:52 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER.SORT_GROUND_TRUTH
+2019-06-04 13:25:55 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER.SORT_GROUND_TRUTH
+2019-06-04 13:25:55 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER.SORT_GROUND_TRUTH.fork0.chnk0.main
+2019-06-04 13:25:55 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._ALIGNER.SETUP_CHUNKS
+2019-06-04 13:25:55 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.SETUP_CHUNKS.fork0.chnk0.main
+2019-06-04 13:25:58 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER.SORT_GROUND_TRUTH
+2019-06-04 13:25:58 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._ALIGNER.SETUP_CHUNKS
+2019-06-04 13:26:01 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._ALIGNER.SETUP_CHUNKS
+2019-06-04 13:26:01 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER.SORT_GROUND_TRUTH
+2019-06-04 13:26:04 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._ALIGNER.TRIM_READS
+2019-06-04 13:26:04 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.TRIM_READS.fork0.split
+2019-06-04 13:26:07 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._ALIGNER.TRIM_READS
+2019-06-04 13:26:07 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.TRIM_READS.fork0.chnk0.main
+2019-06-04 13:26:43 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._ALIGNER.TRIM_READS
+2019-06-04 13:26:43 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.TRIM_READS.fork0.join
+2019-06-04 13:27:04 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._ALIGNER.TRIM_READS
+2019-06-04 13:27:07 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._ALIGNER.ALIGN
+2019-06-04 13:27:07 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.ALIGN.fork0.split
+2019-06-04 13:27:10 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._ALIGNER.ALIGN
+2019-06-04 13:27:10 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.ALIGN.fork0.chnk0.main
+2019-06-04 13:27:13 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._ALIGNER.ALIGN
+2019-06-04 13:27:13 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.ALIGN.fork0.join
+2019-06-04 13:27:16 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._ALIGNER.ALIGN
+2019-06-04 13:27:22 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._ALIGNER.ATTACH_BCS
+2019-06-04 13:27:22 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.ATTACH_BCS.fork0.split
+2019-06-04 13:27:25 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._ALIGNER.ATTACH_BCS
+2019-06-04 13:27:25 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.ATTACH_BCS.fork0.chnk0.main
+2019-06-04 13:27:37 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._ALIGNER.ATTACH_BCS
+2019-06-04 13:27:37 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.ATTACH_BCS.fork0.join
+2019-06-04 13:27:40 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._ALIGNER.ATTACH_BCS
+2019-06-04 13:27:43 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._ALIGNER.SORT_BY_POS
+2019-06-04 13:27:43 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.SORT_BY_POS.fork0.split
+2019-06-04 13:27:46 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._ALIGNER.SORT_BY_POS
+2019-06-04 13:27:46 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.SORT_BY_POS.fork0.chnk0.main
+2019-06-04 13:27:49 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._ALIGNER.SORT_BY_POS
+2019-06-04 13:27:49 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.SORT_BY_POS.fork0.join
+2019-06-04 13:27:52 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._ALIGNER.SORT_BY_POS
+2019-06-04 13:27:58 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._ALIGNER.MARK_DUPLICATES
+2019-06-04 13:27:58 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.MARK_DUPLICATES.fork0.split
+2019-06-04 13:28:01 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._ALIGNER.MARK_DUPLICATES
+2019-06-04 13:28:01 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.MARK_DUPLICATES.fork0.chnk0.main
+2019-06-04 13:28:05 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._ALIGNER.MARK_DUPLICATES
+2019-06-04 13:28:05 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.MARK_DUPLICATES.fork0.join
+2019-06-04 13:28:08 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._ALIGNER.MARK_DUPLICATES
+2019-06-04 13:28:11 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER.COPY_BAM
+2019-06-04 13:28:14 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.BUCKET_BY_BC
+2019-06-04 13:28:14 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.BUCKET_BY_BC.fork0.split
+2019-06-04 13:28:14 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER.COPY_BAM
+2019-06-04 13:28:14 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER.COPY_BAM.fork0.chnk0.main
+2019-06-04 13:28:17 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.BUCKET_BY_BC
+2019-06-04 13:28:17 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.BUCKET_BY_BC.fork0.chnk0.main
+2019-06-04 13:28:17 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER.COPY_BAM
+2019-06-04 13:28:20 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER.COPY_BAM
+2019-06-04 13:28:20 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.BUCKET_BY_BC
+2019-06-04 13:28:20 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.BUCKET_BY_BC.fork0.join
+2019-06-04 13:28:23 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.BUCKET_BY_BC
+2019-06-04 13:28:29 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.BUCKET_BY_QNAME
+2019-06-04 13:28:29 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.BUCKET_BY_QNAME.fork0.split
+2019-06-04 13:28:32 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.BUCKET_BY_QNAME
+2019-06-04 13:28:32 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.BUCKET_BY_QNAME.fork0.chnk0.main
+2019-06-04 13:28:35 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.BUCKET_BY_QNAME
+2019-06-04 13:28:35 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.BUCKET_BY_QNAME.fork0.join
+2019-06-04 13:28:38 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.BUCKET_BY_QNAME
+2019-06-04 13:28:44 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC
+2019-06-04 13:28:44 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.split
+2019-06-04 13:28:47 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk00.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk01.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk02.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk03.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk04.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk05.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk06.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk07.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk08.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk09.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk10.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk11.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk12.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk13.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk14.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk15.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk16.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk17.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk18.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk19.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk20.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk21.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk22.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk23.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk24.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk25.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk26.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk27.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk28.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk29.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk30.main
+2019-06-04 13:28:47 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.chnk31.main
+2019-06-04 13:28:50 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC
+2019-06-04 13:28:50 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC.fork0.join
+2019-06-04 13:28:53 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._ALIGNER._BCSORTER.SORT_BY_BC
+2019-06-04 13:28:56 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION
+2019-06-04 13:28:56 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION.fork0.split
+2019-06-04 13:28:56 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_BASIC
+2019-06-04 13:28:56 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_BASIC.fork0.split
+2019-06-04 13:28:59 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION
+2019-06-04 13:28:59 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION.fork0.chnk00.main
+2019-06-04 13:28:59 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION.fork0.chnk01.main
+2019-06-04 13:28:59 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION.fork0.chnk02.main
+2019-06-04 13:28:59 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION.fork0.chnk03.main
+2019-06-04 13:28:59 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION.fork0.chnk04.main
+2019-06-04 13:28:59 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION.fork0.chnk05.main
+2019-06-04 13:28:59 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION.fork0.chnk06.main
+2019-06-04 13:28:59 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION.fork0.chnk07.main
+2019-06-04 13:28:59 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION.fork0.chnk08.main
+2019-06-04 13:28:59 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION.fork0.chnk09.main
+2019-06-04 13:28:59 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION.fork0.chnk10.main
+2019-06-04 13:29:03 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_BASIC
+2019-06-04 13:29:03 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_BASIC.fork0.chnk0.main
+2019-06-04 13:29:03 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_BASIC.fork0.chnk1.main
+2019-06-04 13:29:03 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_BASIC.fork0.chnk2.main
+2019-06-04 13:29:03 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_BASIC.fork0.chnk3.main
+2019-06-04 13:29:03 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION
+2019-06-04 13:29:03 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION.fork0.join
+2019-06-04 13:29:06 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._ALIGNER.REPORT_SINGLE_PARTITION
+2019-06-04 13:29:09 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_BASIC
+2019-06-04 13:29:09 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_BASIC.fork0.join
+2019-06-04 13:29:09 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._REPORTER.FILTER_BARCODES
+2019-06-04 13:29:09 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.FILTER_BARCODES.fork0.split
+2019-06-04 13:29:09 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_LENGTH_MASS
+2019-06-04 13:29:09 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_LENGTH_MASS.fork0.split
+2019-06-04 13:29:09 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._REPORTER.COPY_FRAGMENT_INFO
+2019-06-04 13:29:09 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_COVERAGE
+2019-06-04 13:29:09 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_COVERAGE.fork0.split
+2019-06-04 13:29:12 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._REPORTER.FILTER_BARCODES
+2019-06-04 13:29:12 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.FILTER_BARCODES.fork0.chnk0.main
+2019-06-04 13:29:12 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_LENGTH_MASS
+2019-06-04 13:29:12 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_LENGTH_MASS.fork0.chnk0.main
+2019-06-04 13:29:12 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._REPORTER.COPY_FRAGMENT_INFO
+2019-06-04 13:29:12 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.COPY_FRAGMENT_INFO.fork0.chnk0.main
+2019-06-04 13:29:12 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_COVERAGE
+2019-06-04 13:29:12 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_COVERAGE.fork0.chnk0.main
+2019-06-04 13:29:15 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_BASIC
+2019-06-04 13:29:15 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._REPORTER.FILTER_BARCODES
+2019-06-04 13:29:15 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.FILTER_BARCODES.fork0.join
+2019-06-04 13:29:15 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_LENGTH_MASS
+2019-06-04 13:29:15 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_LENGTH_MASS.fork0.join
+2019-06-04 13:29:15 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._REPORTER.COPY_FRAGMENT_INFO
+2019-06-04 13:29:15 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_COVERAGE
+2019-06-04 13:29:15 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_COVERAGE.fork0.join
+2019-06-04 13:29:18 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_LENGTH_MASS
+2019-06-04 13:29:18 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._REPORTER.REPORT_COVERAGE
+2019-06-04 13:29:18 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._REPORTER.COPY_FRAGMENT_INFO
+2019-06-04 13:29:18 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._REPORTER.FILTER_BARCODES
+2019-06-04 13:29:21 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._SNPINDEL_CALLER.CALL_SNPINDELS
+2019-06-04 13:29:21 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._SNPINDEL_CALLER.CALL_SNPINDELS.fork0.split
+2019-06-04 13:29:24 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._SNPINDEL_CALLER.CALL_SNPINDELS
+2019-06-04 13:29:24 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._SNPINDEL_CALLER.CALL_SNPINDELS.fork0.chnk0.main
+2019-06-04 13:29:27 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._SNPINDEL_CALLER.CALL_SNPINDELS
+2019-06-04 13:29:27 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._SNPINDEL_CALLER.CALL_SNPINDELS.fork0.join
+2019-06-04 13:29:30 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._SNPINDEL_CALLER.CALL_SNPINDELS
+2019-06-04 13:29:36 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER._SNPINDEL_CALLER.POPULATE_INFO_FIELDS
+2019-06-04 13:29:36 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._SNPINDEL_CALLER.POPULATE_INFO_FIELDS.fork0.split
+2019-06-04 13:29:39 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER._SNPINDEL_CALLER.POPULATE_INFO_FIELDS
+2019-06-04 13:29:39 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._SNPINDEL_CALLER.POPULATE_INFO_FIELDS.fork0.chnk0.main
+2019-06-04 13:29:42 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER._SNPINDEL_CALLER.POPULATE_INFO_FIELDS
+2019-06-04 13:29:42 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER._SNPINDEL_CALLER.POPULATE_INFO_FIELDS.fork0.join
+2019-06-04 13:29:45 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER._SNPINDEL_CALLER.POPULATE_INFO_FIELDS
+2019-06-04 13:29:48 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER.ANALYZE_SNPINDEL_CALLS
+2019-06-04 13:29:48 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER.ANALYZE_SNPINDEL_CALLS.fork0.split
+2019-06-04 13:29:51 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER.ANALYZE_SNPINDEL_CALLS
+2019-06-04 13:29:51 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER.ANALYZE_SNPINDEL_CALLS.fork0.chnk0.main
+2019-06-04 13:29:54 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER.ANALYZE_SNPINDEL_CALLS
+2019-06-04 13:29:54 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER.ANALYZE_SNPINDEL_CALLS.fork0.join
+2019-06-04 13:29:57 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER.ANALYZE_SNPINDEL_CALLS
+2019-06-04 13:30:03 [runtime] (ready)           ID.tiny.VCALLER_CS.VCALLER.SUMMARIZE_REPORTS
+2019-06-04 13:30:06 [runtime] (split_complete)  ID.tiny.VCALLER_CS.VCALLER.SUMMARIZE_REPORTS
+2019-06-04 13:30:06 [runtime] (run:local)       ID.tiny.VCALLER_CS.VCALLER.SUMMARIZE_REPORTS.fork0.chnk0.main
+2019-06-04 13:30:09 [runtime] (chunks_complete) ID.tiny.VCALLER_CS.VCALLER.SUMMARIZE_REPORTS
+2019-06-04 13:30:12 [runtime] (join_complete)   ID.tiny.VCALLER_CS.VCALLER.SUMMARIZE_REPORTS
+
+Outputs:
+- Run summary:  /lustre/haven/proj/UTHSC0013/UM/data/long_ranger/rat_genome_03/tiny_testrun/tiny/outs/summary.csv
+- BAM barcoded: /lustre/haven/proj/UTHSC0013/UM/data/long_ranger/rat_genome_03/tiny_testrun/tiny/outs/possorted_bam.bam
+- BAM index:    /lustre/haven/proj/UTHSC0013/UM/data/long_ranger/rat_genome_03/tiny_testrun/tiny/outs/possorted_bam.bam.bai
+- VCF:          /lustre/haven/proj/UTHSC0013/UM/data/long_ranger/rat_genome_03/tiny_testrun/tiny/outs/variants.vcf.gz
+- VCF index:    /lustre/haven/proj/UTHSC0013/UM/data/long_ranger/rat_genome_03/tiny_testrun/tiny/outs/variants.vcf.gz.tbi
+
+Waiting 6 seconds for UI to do final refresh.
+Pipestance completed successfully!
+
+Saving pipestance info to tiny/tiny.mri.tgz

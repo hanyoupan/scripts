@@ -1,0 +1,30 @@
+#!/bin/bash
+
+#PBS -S /bin/bash
+#PBS -A ACF-UTHSC0013
+#PBS -l nodes=1:ppn=24,walltime=140:00:00
+#PBS -m abe
+#PBS -M hanyou@umich.edu
+#PBS -j oe
+#PBS -l partition=monster
+#PBS -N 2019-06-26_1_supernova_run_mkoutput_4512-JFI-0502.qsub
+
+
+source /nics/c/home/hanyou/.bashrc
+cd
+
+mkdir -p /lustre/haven/proj/UTHSC0013/UM/data/supernova/rat_genome_02/4512-JFI-0502
+cd /lustre/haven/proj/UTHSC0013/UM/data/supernova/rat_genome_02/4512-JFI-0502
+
+supernova run --id=4512-JFI-0502 --fastqs=/lustre/haven/proj/UTHSC0013/UM/data/sequences/rat_genome_02/4512-JFI-0502/ --maxreads=1640000000
+
+# maxread = 2.87e9 * 56 / 151 = 1.64e9
+
+cd /lustre/haven/proj/UTHSC0013/UM/data/supernova/rat_genome_02/4512-JFI-0502
+mkdir -p fasta
+cd fasta
+
+supernova mkoutput --style=pseudohap --asmdir=/lustre/haven/proj/UTHSC0013/UM/data/supernova/rat_genome_02/4512-JFI-0502/4512-JFI-0502/outs/assembly --outprefix=4512-JFI-0502_pseudohap --minsize=10000 --headers=short
+
+
+

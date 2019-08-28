@@ -1,0 +1,20 @@
+#!/bin/bash
+
+#PBS -S /bin/bash
+#PBS -A ACF-UTHSC0013
+#PBS -l nodes=1:ppn=40,walltime=140:00:00
+#PBS -m abe
+#PBS -M hanyou@umich.edu
+#PBS -j oe
+#PBS -l partition=general,feature=skylake
+#PBS -N 2019-06-06_x_long_ranger_wgs_5739-JL-0029.qsub
+
+
+source /nics/c/home/hanyou/.bashrc
+cd
+
+mkdir -p /nics/c/home/hanyou/UM/data/long_ranger/rat_genome_03/5739-JL-0029
+cd /nics/c/home/hanyou/UM/data/long_ranger/rat_genome_03/5739-JL-0029
+
+longranger wgs --id=5739-JL-0029 --reference=/nics/c/home/hanyou/UM/resources/references/refdata-rn6.fa.concatenate --fastqs=/lustre/haven/proj/UTHSC0013/UM/data/sequences/rat_genome_03/5739-JL-0029/ --sample=5739-JL-0029_1,5739-JL-0029_2,5739-JL-0029_3,5739-JL-0029_4 --vcmode=gatk:/lustre/haven/proj/UTHSC0013/UM/resources/apps/gatk_4.0.3.0/gatk-4.0.3.0/gatk-package-4.0.3.0-local.jar
+

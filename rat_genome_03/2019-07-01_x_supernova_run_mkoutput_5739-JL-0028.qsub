@@ -1,0 +1,30 @@
+#!/bin/bash
+
+#PBS -S /bin/bash
+#PBS -A ACF-UTHSC0013
+#PBS -l nodes=1:ppn=24,walltime=140:00:00
+#PBS -m abe
+#PBS -M hanyou@umich.edu
+#PBS -j oe
+#PBS -l partition=monster
+#PBS -N 2019-07-01_x_supernova_run_mkoutput_5739-JL-0028.qsub
+
+
+source /nics/c/home/hanyou/.bashrc
+cd
+
+mkdir -p /lustre/haven/proj/UTHSC0013/UM/data/supernova/rat_genome_03/5739-JL-0028
+cd /lustre/haven/proj/UTHSC0013/UM/data/supernova/rat_genome_03/5739-JL-0028
+
+supernova run --id=5739-JL-0028 --fastqs=/lustre/haven/proj/UTHSC0013/UM/data/sequences/rat_genome_03/5739-JL-0028/ --sample=5739-JL-0028_1,5739-JL-0028_2,5739-JL-0028_3,5739-JL-0028_4 --maxreads=1640000000
+
+# maxread = 2.87e9 * 56 / 151 = 1.64e9
+
+cd /lustre/haven/proj/UTHSC0013/UM/data/supernova/rat_genome_03/5739-JL-0028
+mkdir -p fasta
+cd fasta
+
+supernova mkoutput --style=pseudohap --asmdir=/lustre/haven/proj/UTHSC0013/UM/data/supernova/rat_genome_03/5739-JL-0028/5739-JL-0028/outs/assembly --outprefix=5739-JL-0028_pseudohap --minsize=10000 --headers=short
+
+
+
