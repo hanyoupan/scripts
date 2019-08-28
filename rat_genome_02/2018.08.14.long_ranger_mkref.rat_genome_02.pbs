@@ -1,0 +1,28 @@
+#!/bin/bash
+
+#This tells the scheduler what account to use.  Do not change.
+#PBS -A junzli_flux
+#This is the job name.  Feel free to change this at will to whatever you need.
+#PBS -N 2018.08.14.long_ranger_mkref.rat_genome_02.pbs
+#This denotes the queue that the job should be run in.  Do not change if you want to use the flux dedicated nodes
+#PBS -q flux
+#The next two denotes the email address to send jobs to, and under what conditions to send that email.
+#PBS -M hanyou@umich.edu
+#This line says (a) send email if the job fails, (b) when the job starts, and (e) when the job ends.
+#PBS -m abe
+#This line combine e file into o file.
+#PBS -j oe
+#This line sends all environment variables on the login node.
+#PBS -V
+#This denotes the number of nodes and processors that the job should be run on.
+#You should never change the processors per node from the default for the
+#cluster, unless you only need one or two cores.  The max for ppn is currently 12.
+#You should change walltime as you see fit, find out how much you use, and then add 10-15%.
+#It is denoted by hh:mm:ss, and hours can be no more than 376 (or 28 days).
+#PBS -l nodes=1:ppn=1,pmem=11gb,walltime=3:00:00
+#PBS -l qos=flux
+#Your shell script and commands goes here.
+
+cd /scratch/junzli_flux/hanyou/resource/reference/rat_genome_02
+longranger mkref /scratch/junzli_flux/hanyou/resource/reference/rat_genome_02/rn6.clean.fa
+

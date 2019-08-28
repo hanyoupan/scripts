@@ -1,0 +1,43 @@
+qsub -I -V -A junzli_fluxod -q fluxod -l nodes=1:ppn=18:largemem,pmem=8Gb,walltime=400:00:00,qos=flux
+
+"""
+# -V      Declares that all environment variables in the qsub command's environment are to be exported to the batch job.
+# -I      Declares  that  the  job is to be run "interactively".  The job will be queued and scheduled as any PBS batch job, but when executed, the standard input, output,
+               and error streams of the job are connected through qsub to the terminal session in which qsub is running.  Interactive jobs are forced to not rerunable.  See the
+               "Extended Description" paragraph for addition information of interactive jobs.
+# -A account_string
+               Defines  the account string associated with the job.  The account_string is an undefined string of characters and is interpreted by the server which executes the
+               job.  See section 2.7.1 of the PBS ERS.
+# -q destination
+               Defines the destination of the job.  The destination names a queue, a server, or a queue at a server.
+
+               The  qsub  command will submit the script to the server defined by the destination argument.  If the destination is a routing queue, the job may be routed by the
+               server to a new destination.
+
+               If the -q option is not specified, the qsub command will submit the script to the default server.  See PBS_DEFAULT under the  Environment  Variables  section  on
+               this man page and the PBS ERS section 2.7.4, "Default Server".
+
+               If the -q option is specified, it is in one of the following three forms:
+                   queue
+                   @server
+                   queue@server
+
+               If the destination argument names a queue and does not name a server, the job will be submitted to the named queue at the default server.
+
+               If the destination argument names a server and does not name a queue, the job will be submitted to the default queue at the named server.
+
+               If the destination argument names both a queue and a server, the job will be submitted to the named queue at the named server.
+# -l resource_list
+               Defines  the resources that are required by the job and establishes a limit to the amount of resource that can be consumed.  If not set for a generally available
+               resource, such as CPU time, the limit is infinite.  The resource_list argument is of the form:
+                   resource_name[=[value]][,resource_name[=[value]],...]
+"""
+
+source /home/hanyou/script/rat_genome_02/hanyous_modules_02.source
+
+mkdir -p /scratch/junzli_flux/hanyou/data2/long_ranger/rat_genome_02/test
+cd /scratch/junzli_flux/hanyou/data2/long_ranger/rat_genome_02/test
+
+longranger testrun --id=tiny
+
+logout

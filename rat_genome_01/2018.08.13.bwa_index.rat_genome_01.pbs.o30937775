@@ -1,0 +1,68 @@
+[bwa_index] Pack FASTA... 28.88 sec
+[bwa_index] Reverse the packed sequence... 8.12 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 1099.75 seconds elapse.
+[bwa_index] Construct BWT for the reverse packed sequence...
+[BWTIncConstructFromPacked] 10 iterations done. 99999997 characters processed.
+[BWTIncConstructFromPacked] 20 iterations done. 199999997 characters processed.
+[BWTIncConstructFromPacked] 30 iterations done. 299999997 characters processed.
+[BWTIncConstructFromPacked] 40 iterations done. 399999997 characters processed.
+[BWTIncConstructFromPacked] 50 iterations done. 499999997 characters processed.
+[BWTIncConstructFromPacked] 60 iterations done. 599999997 characters processed.
+[BWTIncConstructFromPacked] 70 iterations done. 699999997 characters processed.
+[BWTIncConstructFromPacked] 80 iterations done. 799999997 characters processed.
+[BWTIncConstructFromPacked] 90 iterations done. 899999997 characters processed.
+[BWTIncConstructFromPacked] 100 iterations done. 999999997 characters processed.
+[BWTIncConstructFromPacked] 110 iterations done. 1099999997 characters processed.
+[BWTIncConstructFromPacked] 120 iterations done. 1199999997 characters processed.
+[BWTIncConstructFromPacked] 130 iterations done. 1299999997 characters processed.
+[BWTIncConstructFromPacked] 140 iterations done. 1399999997 characters processed.
+[BWTIncConstructFromPacked] 150 iterations done. 1499999997 characters processed.
+[BWTIncConstructFromPacked] 160 iterations done. 1599999997 characters processed.
+[BWTIncConstructFromPacked] 170 iterations done. 1699999997 characters processed.
+[BWTIncConstructFromPacked] 180 iterations done. 1799999997 characters processed.
+[BWTIncConstructFromPacked] 190 iterations done. 1899999997 characters processed.
+[BWTIncConstructFromPacked] 200 iterations done. 1999999997 characters processed.
+[BWTIncConstructFromPacked] 210 iterations done. 2099999997 characters processed.
+[BWTIncConstructFromPacked] 220 iterations done. 2199999997 characters processed.
+[BWTIncConstructFromPacked] 230 iterations done. 2299999997 characters processed.
+[BWTIncConstructFromPacked] 240 iterations done. 2399999997 characters processed.
+[BWTIncConstructFromPacked] 250 iterations done. 2499999997 characters processed.
+[BWTIncConstructFromPacked] 260 iterations done. 2599999997 characters processed.
+[BWTIncConstructFromPacked] 270 iterations done. 2699999997 characters processed.
+[BWTIncConstructFromPacked] 280 iterations done. 2798747501 characters processed.
+[bwt_gen] Finished constructing BWT in 289 iterations.
+[BWTIncConstructFromPacked] 10 iterations done. 99999997 characters processed.
+[BWTIncConstructFromPacked] 20 iterations done. 199999997 characters processed.
+[BWTIncConstructFromPacked] 30 iterations done. 299999997 characters processed.
+[BWTIncConstructFromPacked] 40 iterations done. 399999997 characters processed.
+[BWTIncConstructFromPacked] 50 iterations done. 499999997 characters processed.
+[BWTIncConstructFromPacked] 60 iterations done. 599999997 characters processed.
+[BWTIncConstructFromPacked] 70 iterations done. 699999997 characters processed.
+[BWTIncConstructFromPacked] 80 iterations done. 799999997 characters processed.
+[BWTIncConstructFromPacked] 90 iterations done. 899999997 characters processed.
+[BWTIncConstructFromPacked] 100 iterations done. 999999997 characters processed.
+[BWTIncConstructFromPacked] 110 iterations done. 1099999997 characters processed.
+[BWTIncConstructFromPacked] 120 iterations done. 1199999997 characters processed.
+[BWTIncConstructFromPacked] 130 iterations done. 1299999997 characters processed.
+[BWTIncConstructFromPacked] 140 iterations done. 1399999997 characters processed.
+[BWTIncConstructFromPacked] 150 iterations done. 1499999997 characters processed.
+[BWTIncConstructFromPacked] 160 iterations done. 1599999997 characters processed.
+[BWTIncConstructFromPacked] 170 iterations done. 1699999997 characters processed.
+[BWTIncConstructFromPacked] 180 iterations done. 1799999997 characters processed.
+[BWTIncConstructFromPacked] 190 iterations done. 1899999997 characters processed.
+[BWTIncConstructFromPacked] 200 iterations done. 1999999997 characters processed.
+[BWTIncConstructFromPacked] 210 iterations done. 2099999997 characters processed.
+[BWTIncConstructFromPacked] 220 iterations done. 2199999997 cha[bwa_index] 1074.32 seconds elapse.
+[bwa_index] Update BWT... 7.93 sec
+[bwa_index] Update reverse BWT... 7.96 sec
+[bwa_index] Construct SA from BWT and Occ... 371.02 sec
+[bwa_index] Construct SA from reverse BWT and Occ... 369.25 sec
+racters processed.
+[BWTIncConstructFromPacked] 230 iterations done. 2299999997 characters processed.
+[BWTIncConstructFromPacked] 240 iterations done. 2399999997 characters processed.
+[BWTIncConstructFromPacked] 250 iterations done. 2499999997 characters processed.
+[BWTIncConstructFromPacked] 260 iterations done. 2599999997 characters processed.
+[BWTIncConstructFromPacked] 270 iterations done. 2699999997 characters processed.
+[BWTIncConstructFromPacked] 280 iterations done. 2798747501 characters processed.
+[bwt_gen] Finished constructing BWT in 289 iterations.

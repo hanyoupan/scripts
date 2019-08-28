@@ -1,0 +1,66 @@
+[Fri Aug 24 14:45:21 EDT 2018] net.sf.picard.sam.SortSam INPUT=/scratch/junzli_flux/hanyou/data2/bwa_sampe/rat_genome_01/s-BN-N_HL53WCCXX_L2.clean.fq.gz.sam OUTPUT=/scratch/junzli_flux/hanyou/data2/picard_sortsam/rat_genome_01/s-BN-N_HL53WCCXX_L2.clean.fq.gz.sam.bam SORT_ORDER=coordinate TMP_DIR=[/scratch/junzli_flux/hanyou/tmp] VALIDATION_STRINGENCY=SILENT CREATE_INDEX=true    VERBOSITY=INFO QUIET=false COMPRESSION_LEVEL=5 MAX_RECORDS_IN_RAM=500000 CREATE_MD5_FILE=false
+[Fri Aug 24 14:45:21 EDT 2018] Executing as hanyou@nyx6149.arc-ts.umich.edu on Linux 3.10.0-693.11.6.el7.x86_64 amd64; Java HotSpot(TM) 64-Bit Server VM 1.8.0_111-b14; Picard version: 1.76(1261)
+INFO	2018-08-24 14:49:52	SortSam	Read    10,000,000 records.  Elapsed time: 00:04:31s.  Time for last 10,000,000:  271s.  Last read position: */*
+INFO	2018-08-24 14:54:36	SortSam	Read    20,000,000 records.  Elapsed time: 00:09:14s.  Time for last 10,000,000:  283s.  Last read position: chr7:77,677,850
+INFO	2018-08-24 14:58:46	SortSam	Read    30,000,000 records.  Elapsed time: 00:13:24s.  Time for last 10,000,000:  250s.  Last read position: chr4:110,652,796
+INFO	2018-08-24 15:03:52	SortSam	Read    40,000,000 records.  Elapsed time: 00:18:31s.  Time for last 10,000,000:  306s.  Last read position: chr2:207,401,316
+INFO	2018-08-24 15:08:03	SortSam	Read    50,000,000 records.  Elapsed time: 00:22:42s.  Time for last 10,000,000:  251s.  Last read position: chr9:84,142,954
+INFO	2018-08-24 15:12:16	SortSam	Read    60,000,000 records.  Elapsed time: 00:26:54s.  Time for last 10,000,000:  252s.  Last read position: chr1:282,120,933
+INFO	2018-08-24 15:16:35	SortSam	Read    70,000,000 records.  Elapsed time: 00:31:13s.  Time for last 10,000,000:  259s.  Last read position: */*
+INFO	2018-08-24 15:21:36	SortSam	Read    80,000,000 records.  Elapsed time: 00:36:15s.  Time for last 10,000,000:  301s.  Last read position: chr2:9,417,963
+INFO	2018-08-24 15:26:53	SortSam	Read    90,000,000 records.  Elapsed time: 00:41:32s.  Time for last 10,000,000:  317s.  Last read position: chr4:124,836,125
+INFO	2018-08-24 15:32:59	SortSam	Read   100,000,000 records.  Elapsed time: 00:47:38s.  Time for last 10,000,000:  365s.  Last read position: chr4:22,861,347
+INFO	2018-08-24 15:38:24	SortSam	Read   110,000,000 records.  Elapsed time: 00:53:02s.  Time for last 10,000,000:  324s.  Last read position: chrUn_KL568360v1:14,989
+INFO	2018-08-24 15:44:04	SortSam	Read   120,000,000 records.  Elapsed time: 00:58:42s.  Time for last 10,000,000:  340s.  Last read position: chr12:35,379,521
+INFO	2018-08-24 15:49:15	SortSam	Read   130,000,000 records.  Elapsed time: 01:03:53s.  Time for last 10,000,000:  310s.  Last read position: chr14:107,831,774
+INFO	2018-08-24 15:54:00	SortSam	Read   140,000,000 records.  Elapsed time: 01:08:39s.  Time for last 10,000,000:  285s.  Last read position: chr2:158,559,275
+INFO	2018-08-24 15:59:36	SortSam	Read   150,000,000 records.  Elapsed time: 01:14:14s.  Time for last 10,000,000:  335s.  Last read position: chr9:43,328,481
+INFO	2018-08-24 16:04:29	SortSam	Read   160,000,000 records.  Elapsed time: 01:19:07s.  Time for last 10,000,000:  292s.  Last read position: chr17:14,767,262
+INFO	2018-08-24 16:09:23	SortSam	Read   170,000,000 records.  Elapsed time: 01:24:01s.  Time for last 10,000,000:  294s.  Last read position: chr3:146,457,819
+INFO	2018-08-24 16:15:39	SortSam	Read   180,000,000 records.  Elapsed time: 01:30:18s.  Time for last 10,000,000:  376s.  Last read position: chr5:156,663,557
+INFO	2018-08-24 16:20:14	SortSam	Read   190,000,000 records.  Elapsed time: 01:34:52s.  Time for last 10,000,000:  274s.  Last read position: chr8:57,980,513
+INFO	2018-08-24 16:24:05	SortSam	Read   200,000,000 records.  Elapsed time: 01:38:44s.  Time for last 10,000,000:  231s.  Last read position: chr19:32,186,342
+INFO	2018-08-24 16:29:19	SortSam	Read   210,000,000 records.  Elapsed time: 01:43:57s.  Time for last 10,000,000:  313s.  Last read position: chr6:4,231,434
+INFO	2018-08-24 16:33:55	SortSam	Read   220,000,000 records.  Elapsed time: 01:48:33s.  Time for last 10,000,000:  276s.  Last read position: chr1:221,120,875
+INFO	2018-08-24 16:39:09	SortSam	Read   230,000,000 records.  Elapsed time: 01:53:47s.  Time for last 10,000,000:  313s.  Last read position: */*
+INFO	2018-08-24 16:43:17	SortSam	Read   240,000,000 records.  Elapsed time: 01:57:56s.  Time for last 10,000,000:  248s.  Last read position: chr9:113,478,565
+INFO	2018-08-24 16:48:21	SortSam	Read   250,000,000 records.  Elapsed time: 02:03:00s.  Time for last 10,000,000:  304s.  Last read position: chr5:165,220,969
+INFO	2018-08-24 16:53:54	SortSam	Read   260,000,000 records.  Elapsed time: 02:08:32s.  Time for last 10,000,000:  332s.  Last read position: chrX:23,781,659
+INFO	2018-08-24 16:58:45	SortSam	Read   270,000,000 records.  Elapsed time: 02:13:24s.  Time for last 10,000,000:  291s.  Last read position: chr13:69,883,517
+INFO	2018-08-24 17:03:29	SortSam	Read   280,000,000 records.  Elapsed time: 02:18:08s.  Time for last 10,000,000:  284s.  Last read position: chr1:80,678,451
+INFO	2018-08-24 17:08:11	SortSam	Read   290,000,000 records.  Elapsed time: 02:22:50s.  Time for last 10,000,000:  281s.  Last read position: chr8:16,785,070
+INFO	2018-08-24 17:12:53	SortSam	Read   300,000,000 records.  Elapsed time: 02:27:32s.  Time for last 10,000,000:  282s.  Last read position: chr1:34,790,459
+INFO	2018-08-24 17:17:23	SortSam	Read   310,000,000 records.  Elapsed time: 02:32:01s.  Time for last 10,000,000:  269s.  Last read position: chr20:28,314,440
+INFO	2018-08-24 17:21:55	SortSam	Read   320,000,000 records.  Elapsed time: 02:36:33s.  Time for last 10,000,000:  272s.  Last read position: chr7:21,011,769
+INFO	2018-08-24 17:26:17	SortSam	Read   330,000,000 records.  Elapsed time: 02:40:56s.  Time for last 10,000,000:  262s.  Last read position: chr6:47,090,318
+INFO	2018-08-24 17:31:12	SortSam	Read   340,000,000 records.  Elapsed time: 02:45:50s.  Time for last 10,000,000:  294s.  Last read position: chr3:168,345,369
+INFO	2018-08-24 17:36:03	SortSam	Read   350,000,000 records.  Elapsed time: 02:50:42s.  Time for last 10,000,000:  291s.  Last read position: chr17:13,056,079
+INFO	2018-08-24 17:41:08	SortSam	Read   360,000,000 records.  Elapsed time: 02:55:46s.  Time for last 10,000,000:  304s.  Last read position: chr14:48,960,026
+INFO	2018-08-24 17:45:10	SortSam	Read   370,000,000 records.  Elapsed time: 02:59:49s.  Time for last 10,000,000:  242s.  Last read position: chr14:72,166,470
+INFO	2018-08-24 17:50:05	SortSam	Read   380,000,000 records.  Elapsed time: 03:04:44s.  Time for last 10,000,000:  294s.  Last read position: chrX:148,669,982
+INFO	2018-08-24 17:55:02	SortSam	Read   390,000,000 records.  Elapsed time: 03:09:40s.  Time for last 10,000,000:  296s.  Last read position: chr5:9,587,153
+INFO	2018-08-24 18:00:26	SortSam	Read   400,000,000 records.  Elapsed time: 03:15:05s.  Time for last 10,000,000:  324s.  Last read position: chr7:27,950,565
+INFO	2018-08-24 18:05:35	SortSam	Read   410,000,000 records.  Elapsed time: 03:20:13s.  Time for last 10,000,000:  308s.  Last read position: chr10:28,564,550
+INFO	2018-08-24 18:11:10	SortSam	Read   420,000,000 records.  Elapsed time: 03:25:48s.  Time for last 10,000,000:  335s.  Last read position: chr18:7,289,125
+INFO	2018-08-24 18:15:52	SortSam	Read   430,000,000 records.  Elapsed time: 03:30:31s.  Time for last 10,000,000:  282s.  Last read position: chrX:17,631,758
+INFO	2018-08-24 18:20:50	SortSam	Read   440,000,000 records.  Elapsed time: 03:35:28s.  Time for last 10,000,000:  297s.  Last read position: chr2:172,481,207
+INFO	2018-08-24 18:26:11	SortSam	Read   450,000,000 records.  Elapsed time: 03:40:49s.  Time for last 10,000,000:  321s.  Last read position: chr8:53,960,990
+INFO	2018-08-24 18:30:35	SortSam	Read   460,000,000 records.  Elapsed time: 03:45:13s.  Time for last 10,000,000:  263s.  Last read position: chr7:63,676,084
+INFO	2018-08-24 18:35:09	SortSam	Read   470,000,000 records.  Elapsed time: 03:49:47s.  Time for last 10,000,000:  274s.  Last read position: chr1:164,856,359
+INFO	2018-08-24 18:39:20	SortSam	Read   480,000,000 records.  Elapsed time: 03:53:58s.  Time for last 10,000,000:  251s.  Last read position: chrX:36,973,842
+INFO	2018-08-24 18:43:43	SortSam	Read   490,000,000 records.  Elapsed time: 03:58:22s.  Time for last 10,000,000:  263s.  Last read position: chr14:101,019,115
+INFO	2018-08-24 18:48:19	SortSam	Read   500,000,000 records.  Elapsed time: 04:02:58s.  Time for last 10,000,000:  275s.  Last read position: */*
+INFO	2018-08-24 18:52:33	SortSam	Read   510,000,000 records.  Elapsed time: 04:07:12s.  Time for last 10,000,000:  254s.  Last read position: chr9:108,356,666
+INFO	2018-08-24 18:57:09	SortSam	Read   520,000,000 records.  Elapsed time: 04:11:48s.  Time for last 10,000,000:  275s.  Last read position: chrX:43,692,228
+INFO	2018-08-24 19:00:56	SortSam	Read   530,000,000 records.  Elapsed time: 04:15:34s.  Time for last 10,000,000:  226s.  Last read position: chr18:58,736,905
+INFO	2018-08-24 19:05:06	SortSam	Read   540,000,000 records.  Elapsed time: 04:19:44s.  Time for last 10,000,000:  249s.  Last read position: chr14:333,938
+INFO	2018-08-24 19:09:20	SortSam	Read   550,000,000 records.  Elapsed time: 04:23:59s.  Time for last 10,000,000:  254s.  Last read position: chr10:66,918,273
+INFO	2018-08-24 19:13:17	SortSam	Read   560,000,000 records.  Elapsed time: 04:27:55s.  Time for last 10,000,000:  236s.  Last read position: chr7:116,537,534
+INFO	2018-08-24 19:17:21	SortSam	Read   570,000,000 records.  Elapsed time: 04:32:00s.  Time for last 10,000,000:  244s.  Last read position: chr8:28,251,980
+INFO	2018-08-24 19:21:48	SortSam	Read   580,000,000 records.  Elapsed time: 04:36:27s.  Time for last 10,000,000:  267s.  Last read position: chr18:32,865,895
+INFO	2018-08-24 19:25:41	SortSam	Read   590,000,000 records.  Elapsed time: 04:40:20s.  Time for last 10,000,000:  233s.  Last read position: chr1:180,705,715
+INFO	2018-08-24 19:29:46	SortSam	Read   600,000,000 records.  Elapsed time: 04:44:24s.  Time for last 10,000,000:  244s.  Last read position: chr15:55,252,174
+INFO	2018-08-24 19:33:24	SortSam	Read   610,000,000 records.  Elapsed time: 04:48:03s.  Time for last 10,000,000:  218s.  Last read position: chr1:73,085,648
+INFO	2018-08-24 19:35:43	SortSam	Finished reading inputs, merging and writing to output now.
+[Sat Aug 25 08:28:19 EDT 2018] net.sf.picard.sam.SortSam done. Elapsed time: 1,062.97 minutes.
+Runtime.totalMemory()=5186781184
