@@ -24,6 +24,3 @@ mkdir -p fasta
 cd fasta
 
 supernova mkoutput --style=pseudohap --asmdir=/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/95-39694/95-39694/outs/assembly --outprefix=95-39694_pseudohap --minsize=10000 --headers=short
-
-
-

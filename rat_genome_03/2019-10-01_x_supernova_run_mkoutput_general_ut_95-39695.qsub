@@ -16,7 +16,7 @@ cd
 mkdir -p /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/95-39695
 cd /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/95-39695
 
-supernova run --id=95-39695 --fastqs=/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/sequences/95-39695/ --sample=sample=95-39695_S57,95-39695_S58,95-39695_S59,95-39695_S60 --maxreads=1640000000
+supernova run --id=95-39695 --fastqs=/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/sequences/95-39695/ --sample=95-39695_S57,95-39695_S58,95-39695_S59,95-39695_S60 --maxreads=1640000000
 
 # maxread = 2.87e9 * 56 / 151 = 1.64e9
 
