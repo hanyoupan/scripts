@@ -1,0 +1,6 @@
+longranger wgs (2.2.2)
+Copyright (c) 2018 10x Genomics, Inc.  All rights reserved.
+-------------------------------------------------------------------------------
+
+Invalid path/prefix combination: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/sequences/95-39695, ['95-39695_S57', '95-39695_S58', '95-39695_S59', '95-39695_S60']
+Samples not detected among FASTQs: 95-39695_S57,95-39695_S58,95-39695_S59,95-39695_S60
