@@ -20,7 +20,6 @@ cd /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/$id
 
 supernova run --id=$id \
 --fastqs=/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/sequences/$id/ \
---sample=${id}_1,${id}_2,${id}_3,${id}_4 \
 --maxreads=1640000000
 
 # maxread = 2.87e9 * 56 / 151 = 1.64e9
@@ -38,6 +37,5 @@ supernova mkoutput \
 
 " >> $file_name
 
-#qsub $file_name
+qsub $file_name
 
-# Change sample name then qsub
