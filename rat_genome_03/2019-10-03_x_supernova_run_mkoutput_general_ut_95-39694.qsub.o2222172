@@ -1513,3 +1513,56 @@ Running preflight checks (please wait)...
 2019-10-12 11:35:40 [runtime] (update)          ID.95-39694.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
 2019-10-12 11:41:44 [runtime] (update)          ID.95-39694.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
 2019-10-12 11:47:46 [runtime] (update)          ID.95-39694.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-10-12 11:53:56 [runtime] (update)          ID.95-39694.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-10-12 11:59:57 [runtime] (update)          ID.95-39694.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-10-12 12:04:17 [runtime] (chunks_complete) ID.95-39694.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR
+2019-10-12 12:04:17 [runtime] (run:local)       ID.95-39694.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0.join
+2019-10-12 12:04:23 [runtime] (join_complete)   ID.95-39694.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR
+Alerts for ID.95-39694.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR:
+The length-weighted mean molecule length is 31481.15 bases. The molecule length estimation was successful, however, ideally we would expect a larger value. Standard methods starting from blood can yield 100 kb or larger DNA, but it can be difficult to obtain long DNA from other sample types. Short molecules may reduce the scaffold and phase block N50 length, and could result in misassemblies. We have observed assembly quality to improve with longer DNA.
+
+
+Outputs:
+- Run summary:        /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/95-39694/95-39694/outs/summary.csv
+- Run report:         /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/95-39694/95-39694/outs/report.txt
+- Raw assembly files: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/95-39694/95-39694/outs/assembly
+
+Alerts:
+The length-weighted mean molecule length is 31481.15 bases. The molecule length estimation was successful, however, ideally we would expect a larger value. Standard methods starting from blood can yield 100 kb or larger DNA, but it can be difficult to obtain long DNA from other sample types. Short molecules may reduce the scaffold and phase block N50 length, and could result in misassemblies. We have observed assembly quality to improve with longer DNA.
+
+
+Running onfinish handler...
+Waiting 6 seconds for UI to do final refresh.
+Pipestance completed successfully!
+
+Saving pipestance info to 95-39694/95-39694.mri.tgz
+supernova mkoutput (2.1.1)
+Copyright (c) 2018 10x Genomics, Inc.  All rights reserved.
+-------------------------------------------------------------------------------
+
+Sat Oct 12 12:06:01 2019: using 1 threads
+
+--------------------------------------------------------------------------------
+Sat Oct 12 12:06:02 2019 on acf-monster, pid=116578 [Aug 28 2018 15:15:30 6bb16452a]
+MakeFasta OUT_HEAD=95-39694_pseudohap                                          \
+          DIR=/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova \
+          /95-39694/95-39694/outs/assembly/a.base/gang/micro/final             \
+          FLAVOR=pseudohap MINSIZE=10000 ABBREV=True
+--------------------------------------------------------------------------------
+
+version=1.10 style=3
+Sat Oct 12 12:06:02 2019: loading assembly files
+Sat Oct 12 12:06:45 2019: cell reinsertion
+Sat Oct 12 12:09:01 2019: building lines-of-lines
+Sat Oct 12 12:09:01 2019: forming lines of lines
+Sat Oct 12 12:09:03 2019: found 400291 lines, and 397863 lines of lines
+Sat Oct 12 12:09:04 2019: writing the FASTA portion of output to 95-39694_pseudohap.fasta
+writing 100 dots in 10 groups of 10:
+.......... .......... .......... .......... ..........
+.......... .......... .......... .......... ..........
+writing gzipped object
+Sat Oct 12 12:15:06 2019: graph info
+final graph has 4640448 edges
+reinserted cells start at edge 4012536
+83 cell(s) at dead-ends
+completed conversion in 9.06 minutes
