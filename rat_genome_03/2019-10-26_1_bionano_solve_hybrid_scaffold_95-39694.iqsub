@@ -1,4 +1,4 @@
-qsub -I -A ACF-UTHSC0013 -l nodes=1:ppn=40,walltime=140:00:00 -m abe -M hanyou@umich.edu -l partition=general,feature=skylake,qos=long
+qsub -I -A ACF-UTHSC0013 -l nodes=1:ppn=40,walltime=140:00:00 -m abe -M hanyou@umich.edu -l partition=general,feature=skylake
 
 . ~/.bashrc
 conda activate bionano
