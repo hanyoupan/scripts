@@ -1,0 +1,449 @@
+**************************
+*****BioNano Genomics*****
+******BNG-NGS Merge*******
+**************************
+
+align_molecules.pl 9218 2019-06-01 01:39:57Z apang
+
+Running on host: acf-monster
+
+Process ID (PID): 166769
+Start time: 2019-11-27 03:24:14
+
+COMMAND
+perl /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/HybridScaffold/09262019/hybridScaffold.pl -n /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/95-39694/fasta/95-39694_pseudohap.fasta -b /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/data/95-39694/contigs/exp_refineFinal1/EXP_REFINEFINAL1.cmap -c /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/HybridScaffold/09262019/hybridScaffold_DLE1_config_monster.xml -r /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner -o /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694 -B 2 -N 2 -f
+
+NGS file: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/95-39694/fasta/95-39694_pseudohap.fasta 
+BNG file: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/data/95-39694/contigs/exp_refineFinal1/EXP_REFINEFINAL1.cmap 
+Configuration file: /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/HybridScaffold/09262019/hybridScaffold_DLE1_config_monster.xml 
+Output folder: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694
+RefAligner binary: /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner
+
+Beginning FASTA to CMAP conversion...
+Using Enzyme: CTTAAG
+Minimum Length: 0 Kb
+Minimum Labels: 0
+Running command: /usr/bin/perl scripts/fa2cmap_multi_color.pl -i /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/95-39694/fasta/95-39694_pseudohap.fasta -m 0 -M 0 -o /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/fa2cmap -e CTTAAG 1
+key file /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/fa2cmap/95-39694_pseudohap_CTTAAG_0kb_0labels_key.txt
+FASTA to CMAP conversion complete in 56 seconds.
+
+Beginning FASTA header conversion...
+Running command: /usr/bin/perl scripts/fa_key_convert.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/95-39694/fasta/95-39694_pseudohap.fasta /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/fa2cmap/95-39694_pseudohap_CTTAAG_0kb_0labels_key.txt
+FASTA header conversion complete in 19 seconds.
+
+New FASTA with CMAP Ids as headers: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/fa2cmap/95-39694_pseudohap_CTTAAG_0kb_0labels_CmapIdHeaders.fa
+NGS map path: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/fa2cmap/95-39694_pseudohap_CTTAAG_0kb_0labels.cmap
+
+Beginning initial NGS CMAP to BioNano CMAP alignment...
+Running command: /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner -ref /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/fa2cmap/95-39694_pseudohap_CTTAAG_0kb_0labels.cmap -i /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/data/95-39694/contigs/exp_refineFinal1/EXP_REFINEFINAL1.cmap -o align0 -stdout -stderr -maxmem 460 -maxthreads 21 -maxvirtmem 0 -RAmem 3 1 -M 1 3 -ScaleDelta 0.02 15 -ScaleDeltaBPP -hashScaleDelta 2 -res 2.9 -FP 0.6 -FN 0.06 -sf 0.20 -sd 0.0 -sr 0.01 -extend 1 -outlier 0.0001 -endoutlier 0.001 -PVendoutlier -deltaX 12 -deltaY 12 -xmapchim 12 -hashgen 5 7 2.4 1.5 0.05 5.0 1 1 4 -hash -hashdelta 26 10 46 -hashMultiMatch 30 10 -insertThreads 4 -nosplit 2 -biaswt 0 -T 1e-10 -S -1000 -indel -PVres 2 -rres 0.9 -MaxSE 0.5 -HSDrange 1.0 -outlierBC -xmapUnique 12 -AlignRes 2. -outlierExtend 12 24 -Kmax 12 -resEstimate -f -mres 0.9
+Initial alignment complete in 43 minutes and 51 seconds.
+
+Rescaling BioNano CMAP...
+Running command: /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner -merge -i /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/data/95-39694/contigs/exp_refineFinal1/EXP_REFINEFINAL1.cmap -o /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align0/EXP_REFINEFINAL1_bppAdjust -readparameters /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align0/align0.errbin -stdout -stderr
+Rescaling complete in 5 seconds.
+
+Beginning initial NGS CMAP to rescaled BioNano CMAP alignment...
+Running command: /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner -ref /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/fa2cmap/95-39694_pseudohap_CTTAAG_0kb_0labels.cmap -i /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align0/EXP_REFINEFINAL1_bppAdjust.cmap -o align1 -stdout -stderr -maxmem 460 -maxthreads 21 -maxvirtmem 0 -RAmem 3 1 -res 2.9 -FP 0.6 -FN 0.06 -sf 0.20 -sd 0.0 -sr 0.01 -extend 1 -outlier 0.0001 -endoutlier 0.001 -PVendoutlier -deltaX 12 -deltaY 12 -xmapchim 12 -hashgen 5 7 2.4 1.5 0.05 5.0 1 1 4 -hash -hashdelta 26 10 46 -hashMultiMatch 30 10 -insertThreads 4 -nosplit 2 -biaswt 0 -T 1e-10 -S -1000 -indel -PVres 2 -rres 0.9 -MaxSE 0.5 -HSDrange 1.0 -outlierBC -xmapUnique 12 -AlignRes 2. -outlierExtend 12 24 -Kmax 12 -resEstimate -f -mres 0.9
+Initial rescaled alignment complete in 4 hours, 19 minutes, and 21 seconds.
+
+1675 alignments found between /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/95-39694/fasta/95-39694_pseudohap.fasta and /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align0/EXP_REFINEFINAL1_bppAdjust.cmap
+
+Beginning AssignAlignType...
+Running command: /usr/bin/perl ./scripts/AssignAlignType.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align1/align1.xmap /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align1/align1_r.cmap /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align1/align1_q.cmap /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/assignAlignType.xmap /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/assignAlignType_r.cmap /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/assignAlignType_q.cmap 11 5 /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/fa2cmap/95-39694_pseudohap_CTTAAG_0kb_0labels.cmap /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align0/EXP_REFINEFINAL1_bppAdjust.cmap /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/conflicts.txt 30
+AssignAlignType complete in 40 seconds.
+34 BNG contigs have been flagged as conflicting
+34 NGS contigs have been flagged as conflicting
+
+Beginning cut_conflicts...
+Running command: /usr/bin/perl ./scripts/cut_conflicts.pl -align1XmapFile /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align1/align1.xmap -align1GMFile /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align1/align1_q.cmap -align1SeqFile /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align1/align1_r.cmap -maxOverhang 10 -breakPointFileShiftAmount 30 -oriGMFile /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align0/EXP_REFINEFINAL1_bppAdjust.cmap -oriSeqFile /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/fa2cmap/95-39694_pseudohap_CTTAAG_0kb_0labels.cmap -conflictFile /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/conflicts.txt -outDir /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/cut_conflicts -outGMFile /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/cut_conflicts/EXP_REFINEFINAL1_bppAdjust_cut.cmap -outSeqFile /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/cut_conflicts/95-39694_pseudohap_CTTAAG_0kb_0labels_cut.cmap -windowSize 10000 -qScoreThreshold 35 -covThreshold 10 -refAligner /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner
+cut_conflicts complete in 34 seconds.
+675 BNG contigs are found after the cut-conflict step
+5380 NGS contigs are found after the cut-conflict step
+
+Beginning MergeNGS_BN...
+*Using conflict-cut BioNano and conflict-cut sequence CMAP*
+Running command: /usr/bin/perl ./scripts/MergeNGS_BN.pl -outputDir /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/mergeNGS_BN -refaligner /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner -logFile mergeNGS_BN_script.log -ngs_cmap_fn /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/cut_conflicts/95-39694_pseudohap_CTTAAG_0kb_0labels_cut.cmap -bng_cmap_fn /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/cut_conflicts/EXP_REFINEFINAL1_bppAdjust_cut.cmap -id_shift 100000 -readparameters /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align1/align1.errbin -xmlFile /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/HybridScaffold/09262019/hybridScaffold_DLE1_config_monster.xml
+MergeNGS_BN complete in 23 minutes and 48 seconds.
+
+Beginning extraction of used and not used NGS contigs in hybrid scaffold pairmerge step...
+Running command: /usr/bin/perl scripts/find_used_not_used_ngs.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/mergeNGS_BN 100000 /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/cut_conflicts/95-39694_pseudohap_CTTAAG_0kb_0labels_cut.cmap /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner
+Extraction of NGS contigs complete in 3 seconds.
+
+Beginning alignment of NGS cmap to Hybrid CMAP...
+Running command: /usr/bin/perl ./scripts/align_final_seq_two_passes.pl -outDir /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align_final -outFilePrefix EXP_REFINEFINAL1_bppAdjust_cmap_95-39694_pseudohap_fasta_NGScontigs_HYBRID_SCAFFOLD -refAligner /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner -xmlFile /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/HybridScaffold/09262019/hybridScaffold_DLE1_config_monster.xml -seqFile /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/cut_conflicts/95-39694_pseudohap_CTTAAG_0kb_0labels_cut.cmap -scaffoldFile /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align_final/step2.hybrid.cmap -logFile /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align_final/align_final_seq_script_log.txt
+align sequences to hybrid scaffolds completed  in 5 hours, 11 minutes, and 13 seconds.
+
+Beginning extraction of used and not used BNG contigs in hybrid scaffold pairmerge step...
+Running command: /usr/bin/perl scripts/find_used_not_used_bn.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/mergeNGS_BN 100000 /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/cut_conflicts/EXP_REFINEFINAL1_bppAdjust_cut.cmap /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner
+Extraction of BNG contigs complete in 10 seconds.
+
+Beginning alignment of BNG cmap to Hybrid CMAP...
+Running command: /usr/bin/perl ./scripts/align_final_bng.pl -outDir /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align_final -outFilePrefix EXP_REFINEFINAL1_bppAdjust_cmap_95-39694_pseudohap_fasta_BNGcontigs_HYBRID_SCAFFOLD -refAligner /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner -xmlFile /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/HybridScaffold/09262019/hybridScaffold_DLE1_config_monster.xml -bngFile /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/cut_conflicts/EXP_REFINEFINAL1_bppAdjust_cut.cmap -scaffoldFile /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align_final/step2.hybrid.cmap -logFile /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align_final/align_final_bng_log.txt
+align Bionano genome maps to hybrid scaffolds completed  in 2 hours, 17 minutes, and 10 seconds.
+
+Merging Hybrid CMAP with NGS not participated in the hybrid scaffold...
+Running command: /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner -f -i /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align_final/step2.hybrid.cmap -i /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/mergeNGS_BN/all_not_used_ngs.cmap -o HYBRID_SCAFFOLD_notUsedNGS_merged -merge -minsites 0 -stdout -stderr
+Merging Hybrid CMAP with naive NGS CMAP complete in 5 seconds.
+
+Merging Hybrid CMAP with BNG CMAP not participated in the hybrid scaffold...
+Running command: /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner -f -i /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align_final/step2.hybrid.cmap -i /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/mergeNGS_BN/all_not_used_bng.cmap -o HYBRID_SCAFFOLD_notUsedBNG_merged -merge -stdout -stderr
+Merging Hybrid CMAP with naive BNG CMAP complete in 5 seconds.
+
+Beginnning construction of AGP and FASTA file of the scaffolded and unscaffolded sequences...
+Running command: /usr/bin/perl scripts/ExportAGP.pl -i /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align_final/EXP_REFINEFINAL1_bppAdjust_cmap_95-39694_pseudohap_fasta_NGScontigs_HYBRID_SCAFFOLD.xmap -c /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align_final/EXP_REFINEFINAL1_bppAdjust_cmap_95-39694_pseudohap_fasta_NGScontigs_HYBRID_SCAFFOLD_r.cmap -o /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/agp_fasta -m /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/fa2cmap/95-39694_pseudohap_CTTAAG_0kb_0labels_key.txt -s /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/fa2cmap/95-39694_pseudohap.fasta -e CTTAAG 1 -r /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/cut_conflicts/auto_cut_NGS_coord_translation.txt
+AGP and FASTA generation complete in 9 minutes and 21 seconds.
+
+Calculating statistics...
+
+Original BioNano Genome Map statistics:
+Running command: /usr/bin/perl ./scripts/calc_cmap_stats.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/data/95-39694/contigs/exp_refineFinal1/EXP_REFINEFINAL1.cmap
+
+Count  = 675
+Min length (Mbp) = 0.086
+Median length (Mbp) = 0.695
+Mean length (Mbp) = 8.199
+N50 length (Mbp) = 86.276
+Max length (Mbp) = 248.815
+Total length (Mbp) = 5534.200
+
+Bpp-adjusted BioNano Genome Map statistics:
+Running command: /usr/bin/perl ./scripts/calc_cmap_stats.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align0/EXP_REFINEFINAL1_bppAdjust.cmap
+
+Count  = 675
+Min length (Mbp) = 0.086
+Median length (Mbp) = 0.695
+Mean length (Mbp) = 8.198
+N50 length (Mbp) = 86.262
+Max length (Mbp) = 248.775
+Total length (Mbp) = 5533.318
+
+Original NGS sequences statistics:
+Running command: /usr/bin/perl ./scripts/calc_cmap_stats.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/fa2cmap/95-39694_pseudohap_CTTAAG_0kb_0labels.cmap
+
+Count  = 5355
+Min length (Mbp) = 0.010
+Median length (Mbp) = 0.016
+Mean length (Mbp) = 0.484
+N50 length (Mbp) = 8.892
+Max length (Mbp) = 36.643
+Total length (Mbp) = 2590.646
+
+Conflict Resolution from BNG-NGS alignment:
+Running command: /usr/bin/perl ./scripts/calc_conflicts_cut_stats.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/cut_conflicts/conflicts_cut_status.txt
+
+Number of conflict cuts made to Bionano maps: 0
+Number of conflict cuts made to NGS sequences: 45
+Number of Bionano maps to be cut: 0
+Number of NGS sequences to be cut: 25
+
+Before merge: BioNano Genome Map statistics:
+Running command: /usr/bin/perl ./scripts/calc_cmap_stats.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/cut_conflicts/EXP_REFINEFINAL1_bppAdjust_cut.cmap
+
+Count  = 675
+Min length (Mbp) = 0.086
+Median length (Mbp) = 0.695
+Mean length (Mbp) = 8.198
+N50 length (Mbp) = 86.262
+Max length (Mbp) = 248.775
+Total length (Mbp) = 5533.318
+
+Before merge: NGS sequences statistics:
+Running command: /usr/bin/perl ./scripts/calc_cmap_stats.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/assignAlignType/cut_conflicts/95-39694_pseudohap_CTTAAG_0kb_0labels_cut.cmap
+
+Count  = 5380
+Min length (Mbp) = 0.010
+Median length (Mbp) = 0.016
+Mean length (Mbp) = 0.482
+N50 length (Mbp) = 8.892
+Max length (Mbp) = 36.643
+Total length (Mbp) = 2590.646
+
+BNG Genome Map in hybrid scaffold statistics:
+Running command: /usr/bin/perl ./scripts/calc_cmap_stats.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align_final/EXP_REFINEFINAL1_bppAdjust_cmap_95-39694_pseudohap_fasta_BNGcontigs_HYBRID_SCAFFOLD_q.cmap
+
+Count  = 585
+Min length (Mbp) = 0.086
+Median length (Mbp) = 0.750
+Mean length (Mbp) = 9.368
+N50 length (Mbp) = 86.262
+Max length (Mbp) = 248.775
+Total length (Mbp) = 5480.438
+
+NGS sequences in hybrid scaffold (CMAP) statistics:
+Running command: /usr/bin/perl ./scripts/calc_cmap_stats.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align_final/EXP_REFINEFINAL1_bppAdjust_cmap_95-39694_pseudohap_fasta_NGScontigs_HYBRID_SCAFFOLD_q.cmap
+
+Count  = 898
+Min length (Mbp) = 0.025
+Median length (Mbp) = 0.644
+Mean length (Mbp) = 2.791
+N50 length (Mbp) = 9.206
+Max length (Mbp) = 36.643
+Total length (Mbp) = 2505.907
+
+Hybrid scaffold Map statistics:
+Running command: /usr/bin/perl ./scripts/calc_cmap_stats.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align_final/step2.hybrid.cmap
+
+Count  = 98
+Min length (Mbp) = 0.638
+Median length (Mbp) = 37.860
+Mean length (Mbp) = 51.953
+N50 length (Mbp) = 104.379
+Max length (Mbp) = 248.775
+Total length (Mbp) = 5091.375
+
+NGS FASTA sequence in hybrid scaffold statistics:
+Running command: /usr/bin/perl scripts/calc_scaffolded_seq_fasta_stats.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/agp_fasta/95-39694_pseudohap.fasta.cut.fasta /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/agp_fasta/EXP_REFINEFINAL1_bppAdjust_cmap_95-39694_pseudohap_fasta_NGScontigs_HYBRID_SCAFFOLD_NOT_SCAFFOLDED.fasta
+
+Count  = 884
+Min length (Mbp) = 0.025
+Median length (Mbp) = 0.669
+Mean length (Mbp) = 2.834
+N50 length (Mbp) = 9.206
+Max length (Mbp) = 36.643
+Total length (Mbp) = 2504.969
+
+Hybrid scaffold FASTA statistics:
+Running command: /usr/bin/perl scripts/calc_fasta_stats.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/agp_fasta/EXP_REFINEFINAL1_bppAdjust_cmap_95-39694_pseudohap_fasta_NGScontigs_HYBRID_SCAFFOLD.fasta
+
+Count  = 95
+Min length (Mbp) = 0.096
+Median length (Mbp) = 36.662
+Mean length (Mbp) = 46.967
+N50 length (Mbp) = 102.549
+Max length (Mbp) = 234.773
+Total length (Mbp) = 4461.826
+
+Hybrid scaffold FASTA plus not scaffolded NGS FASTA statistics:
+Running command: /usr/bin/perl scripts/calc_hybrid_scaffold_not_scaffolded_seq_fasta_stats.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/agp_fasta/EXP_REFINEFINAL1_bppAdjust_cmap_95-39694_pseudohap_fasta_NGScontigs_HYBRID_SCAFFOLD.fasta /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/agp_fasta/EXP_REFINEFINAL1_bppAdjust_cmap_95-39694_pseudohap_fasta_NGScontigs_HYBRID_SCAFFOLD_NOT_SCAFFOLDED.fasta
+
+Count  = 4591
+Min length (Mbp) = 0.010
+Median length (Mbp) = 0.015
+Mean length (Mbp) = 0.991
+N50 length (Mbp) = 99.595
+Max length (Mbp) = 234.773
+Total length (Mbp) = 4547.503
+
+
+Calculating CMAP statistics complete in 2 minutes and 9 seconds.
+
+Calculating XMAP statistics...
+Running command: /usr/bin/perl scripts/calc_xmap_stats.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align_final EXP_REFINEFINAL1_bppAdjust_cmap_95-39694_pseudohap_fasta_NGScontigs_HYBRID_SCAFFOLD.xmap step2.hybrid.cmap EXP_REFINEFINAL1_bppAdjust_cmap_95-39694_pseudohap_fasta_NGScontigs_HYBRID_SCAFFOLD.xmap.stats
+
+refContig	refContig_size	query_cov_bp	query_unique_cov_bp	query_unique_cov_percent
+100251	37860536.9	12199258.1	12199258.1	32.22
+100480	4402587.3	3440608.8	3440608.8	78.15
+100212	46852660.4	29622509.2	29622509.2	63.22
+100322	21283037.3	1870073.2	1870073.2	8.79
+100152	64835874.0	18576623.2	18576623.2	28.65
+100121	72438176.7	31518265.2	31518265.2	43.51
+100101	86261859.5	55650256.2	55650256.2	64.51
+100291	28341201.6	27770840.6	27770840.6	97.99
+100091	104379473.7	76040511.6	76040511.6	72.85
+100131	71588577.0	34231491.4	34231491.4	47.82
+100071	118850074.8	8563624.90000001	8563624.90000001	7.21
+100520	3567341.5	2010754.7	2010754.7	56.37
+102500	637787.8	234549.4	234549.4	36.78
+100072	118903603.2	107721021.2	107721021.2	90.60
+100321	20989644.4	17736620	17736620	84.50
+100272	29798633.6	20276738.1	20276738.1	68.05
+100042	141291010.6	62439674.7	62439674.7	44.19
+100630	1977967.5	681870.6	681870.6	34.47
+100641	1779341.7	618771.1	618771.1	34.78
+100451	4782099.5	4380430.6	4315429.6	90.24
+100161	58629896.7	4383514.09999999	4383514.09999999	7.48
+100262	35296419.0	25060089.9	25060089.9	71.00
+100220	46879765.5	45896233.1	45836916.8	97.78
+100512	3154572.9	93445.9	93445.9	2.96
+100470	4703952.8	3790695	3790695	80.59
+100351	16609460.5	9461042.8	9461042.8	56.96
+100310	22739377.8	21649912.9	21649912.9	95.21
+100271	29697908.0	7038829.9	7038829.9	23.70
+100062	124761734.8	89070591.9	89070591.9	71.39
+100132	71513193.2	34140124.7	34140124.7	47.74
+100431	7840475.5	1993990.3	1993990.3	25.43
+100241	42851489.3	15501098.4	15501098.4	36.17
+100332	18699352.6	10064903.2	10064903.2	53.82
+100831	1423839.6	172296.8	172296.8	12.10
+100561	2706358.3	1217549.9	1217549.9	44.99
+100111	77900056.2	8894779.5	8894779.5	11.42
+100681	1809657.0	142121.3	142121.3	7.85
+100211	47030342.9	9865320.9	9865320.9	20.98
+100112	77991712.9	68216844.1	68216844.1	87.47
+100021	166564738.7	63338127.9	63338127.9	38.03
+100252	37860311.5	24268193.2	24268193.2	64.10
+100041	141320871.5	74603422.5	74542482.5	52.75
+100331	18407087.6	7449258.6	7449258.6	40.47
+100400	11390667.7	9478139.5	9478139.5	83.21
+100282	29616426.1	20054151.8	20054151.8	67.71
+100181	55604083.3	219679.300000004	219679.300000004	0.40
+100300	26128347.0	24428667.2	24422436.8	93.47
+100591	2144272.8	1517402.6	1517402.6	70.77
+101830	862755.0	0	0	0.00
+100051	126791217.3	78473717.5	78372894	61.81
+100082	107342936.1	27694465.1	27694465.1	25.80
+100261	35266486.1	8431262.50000001	8431262.50000001	23.91
+100202	46952464.4	28014069.9	28014069.9	59.66
+100232	45774868.8	14676365.1	14676365.1	32.06
+100531	3335259.9	1925788.9	1925788.9	57.74
+100032	164601352.2	41007030.6	41007030.6	24.91
+100201	46941259.1	16524913.9	16524913.9	35.20
+100292	28311661.5	0	0	0.00
+100191	54440861.4	24432280.6	24432280.6	44.88
+100361	16328558.4	6527506.6	6527506.6	39.98
+100141	65539810.6	23992824	23992824	36.61
+100182	55575982.3	46413011.3	46413011.3	83.51
+101542	920064.0	259532.9	259532.9	28.21
+100501	3671907.9	1169351.8	1169351.8	31.85
+100502	3755831.3	0	0	0.00
+100142	65538928.8	32548968.9	32548968.9	49.66
+101380	1006815.5	156725.1	156725.1	15.57
+100162	58750148.1	53613182.3	53613182.3	91.26
+100741	1702273.7	117400.1	117400.1	6.90
+100242	42854176.0	24638644.8	24638644.8	57.49
+100410	10957973.7	10442838	10376706.2	94.70
+100440	6037385.8	5466219.4	5466219.4	90.54
+100031	164115637.4	113985992.4	113985992.4	69.45
+100342	66861280.8	25211958.5	25211958.5	37.71
+100231	45841078.2	28072828.3	28072828.3	61.24
+100061	124873627.0	32298934.6	32298934.6	25.87
+100011	248681841.8	146226349.8	145970633.9	58.70
+100092	104382493.0	25329592.8	25329592.8	24.27
+100022	166574150.6	98938582.9	98938582.9	59.40
+100012	248775137.8	93019975.5000001	92958072.3000001	37.37
+100081	107356796.2	77083628.5	77083628.5	71.80
+100370	14653311.7	13778561.2	13676641.5	93.33
+100122	72502892.8	39000767	39000767	53.79
+100102	86361674.4	28886401.9	28886401.9	33.45
+100540	3418326.7	2788477.8	2788477.8	81.57
+100380	14424616.6	11410517.5	11410517.5	79.10
+100281	29591454.4	8688566.8	8641927.8	29.20
+100352	16626671.5	4334299	4334299	26.07
+100052	126862118.4	44224360.3	44224360.3	34.86
+100170	58486003.2	57707515.9	57707515.9	98.67
+100432	7862823.5	4123677	4123677	52.45
+100151	64531869.4	32940050	32809229.8	50.84
+100421	9152931.3	8389381	8389381	91.66
+100362	16505323.3	3952086.1	3952086.1	23.94
+100192	54416373.0	19907224.3	19907224.3	36.58
+100390	14139771.1	12951844.4	12951844.4	91.60
+100341	66711171.1	36824355.3	36824355.3	55.20
+100592	2306757.7	547102.8	547102.8	23.72
+
+Running command: /usr/bin/perl scripts/calc_xmap_stats.pl /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/align_final EXP_REFINEFINAL1_bppAdjust_cmap_95-39694_pseudohap_fasta_BNGcontigs_HYBRID_SCAFFOLD.xmap step2.hybrid.cmap EXP_REFINEFINAL1_bppAdjust_cmap_95-39694_pseudohap_fasta_BNGcontigs_HYBRID_SCAFFOLD.xmap.stats
+
+refContig	refContig_size	query_cov_bp	query_unique_cov_bp	query_unique_cov_percent
+100251	37860536.9	37706629.2	37706629.2	99.59
+100480	4402587.3	4195310.6	4195310.6	95.29
+100212	46852660.4	48096182.3	46706493.3	99.69
+100322	21283037.3	32126740.9	21197469	99.60
+100152	64835874.0	70287790.1	64728635	99.83
+100121	72438176.7	72424496.5	72424496.5	99.98
+100101	86261859.5	86107920.6	86107920.6	99.82
+100291	28341201.6	28595663.9	28248658.6	99.67
+100091	104379473.7	105485538.5	104305780.8	99.93
+100131	71588577.0	71556265.5	71556265.5	99.95
+100071	118850074.8	120880212.4	118779409.1	99.94
+100520	3567341.5	5332372.9	3556095.3	99.68
+102500	637787.8	455120.5	455120.5	71.36
+100072	118903603.2	118819423.4	118819423.4	99.93
+100321	20989644.4	22906523.6	20906476.3	99.60
+100272	29798633.6	29668386.1	29668386.1	99.56
+100042	141291010.6	141122877.2	141122877.2	99.88
+100630	1977967.5	1862043.8	1862043.8	94.14
+100641	1779341.7	5435819.7	1766653.9	99.29
+100451	4782099.5	9751668.3	4704722.8	98.38
+100161	58629896.7	58478375.3	58478375.3	99.74
+100262	35296419.0	35198926.9	35198926.9	99.72
+100220	46879765.5	46706758.9	46706758.9	99.63
+100512	3154572.9	9192715.1	3035023.7	96.21
+100470	4703952.8	7524161.7	4687557.3	99.65
+100351	16609460.5	16430275.6	16430275.6	98.92
+100310	22739377.8	24241688.6	22686538.6	99.77
+100271	29697908.0	29517077.2	29517077.2	99.39
+100062	124761734.8	125284946.7	124581763.5	99.86
+100132	71513193.2	71480881.7	71480881.7	99.95
+100431	7840475.5	11023549	7824315.4	99.79
+100241	42851489.3	43839772.2	42700978	99.65
+100332	18699352.6	18617656.6	18617656.6	99.56
+100831	1423839.6	3866244.1	1416088	99.46
+100561	2706358.3	10421676.2	2599035.1	96.03
+100111	77900056.2	77743757.2	77743757.2	99.80
+100681	1809657.0	6381947.3	1795488.1	99.22
+100211	47030342.9	48662348.8	46876420.7	99.67
+100112	77991712.9	77875037.7	77875037.7	99.85
+100021	166564738.7	166469820.9	166469820.9	99.94
+100252	37860311.5	37706403.8	37706403.8	99.59
+100041	141320871.5	141118976.8	141118976.8	99.86
+100331	18407087.6	18630354.2	18316339.6	99.51
+100400	11390667.7	12313082.6	11179135.2	98.14
+100282	29616426.1	29463509.6	29463509.6	99.48
+100181	55604083.3	58055326.1	55518685.1	99.85
+100300	26128347.0	26034863	26034863	99.64
+100591	2144272.8	2137112.2	2137112.2	99.67
+101830	862755.0	20054009.2	850079.9	98.53
+100051	126791217.3	127403349.4	126772331.3	99.99
+100082	107342936.1	107171673.6	107171673.6	99.84
+100261	35266486.1	35198603	35198603	99.81
+100202	46952464.4	46868865.8	46868865.8	99.82
+100232	45774868.8	46147576.7	45604307.6	99.63
+100531	3335259.9	6985300.5	3326144.3	99.73
+100032	164601352.2	165331988	164562367.7	99.98
+100201	46941259.1	47110594.1	46867431.2	99.84
+100292	28311661.5	28211966.6	28211966.6	99.65
+100191	54440861.4	54237158.9	54237158.9	99.63
+100361	16328558.4	16234100.5	16234100.5	99.42
+100141	65539810.6	65360139	65360139	99.73
+100182	55575982.3	57019641.2	55493667.8	99.85
+101542	920064.0	8594732.6	898423.9	97.65
+100501	3671907.9	3511098.1	3511098.1	95.62
+100502	3755831.3	3795866.1	3608052.2	96.07
+100142	65538928.8	65359256.1	65359256.1	99.73
+101380	1006815.5	11634200.2	990339.9	98.36
+100162	58750148.1	58644537.5	58644537.5	99.82
+100741	1702273.7	4114021.9	1605733.1	94.33
+100242	42854176.0	43455030.1	42700548.2	99.64
+100410	10957973.7	10877186.7	10877186.7	99.26
+100440	6037385.8	5940346	5940346	98.39
+100031	164115637.4	164094150	164094150	99.99
+100342	66861280.8	66922484.5	66796916.2	99.90
+100231	45841078.2	49776410.8	45757532.2	99.82
+100061	124873627.0	125379602.9	124778422.7	99.92
+100011	248681841.8	249510706.8	248574745.3	99.96
+100092	104382493.0	105574546.2	104306608.5	99.93
+100022	166574150.6	166479095.4	166479095.4	99.94
+100012	248775137.8	248451011.3	248451011.3	99.87
+100081	107356796.2	107174825.3	107174825.3	99.83
+100370	14653311.7	22821472.5	14560783.8	99.37
+100122	72502892.8	73036583.5	72492041.9	99.99
+100102	86361674.4	86292726.3	86292726.3	99.92
+100540	3418326.7	3323194.2	3323194.2	97.22
+100380	14424616.6	14398870.8	14398870.8	99.82
+100281	29591454.4	29463764	29463764	99.57
+100352	16626671.5	16428755.3	16428755.3	98.81
+100052	126862118.4	127778250.9	126856666.2	100.00
+100170	58486003.2	58393566.7	58393566.7	99.84
+100432	7862823.5	8302697.3	7847133.6	99.80
+100151	64531869.4	69327439.6	64430097.8	99.84
+100421	9152931.3	19348914.5	9054105.2	98.92
+100362	16505323.3	16415625.3	16415625.3	99.46
+100192	54416373.0	54236493	54236493	99.67
+100390	14139771.1	14359845	14026374.9	99.20
+100341	66711171.1	67971121.4	66634774	99.89
+100592	2306757.7	2300253.7	2300253.7	99.72
+
+XMAP statistics calculation complete in 6 seconds.
+
+Beginning archive and zip of result files...
+tar file: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694/hybridScaffold_archive.tar.gz
+The tar zip command completed.
+Archive and zip of result files completed in 21 minutes and 34 seconds.
+
+End time: 2019-11-27 16:56:57
+
+Total elapsed time: 13 hours, 32 minutes, and 43 seconds
+
+
+Merging of /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/data/95-39694/contigs/exp_refineFinal1/EXP_REFINEFINAL1.cmap with /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/95-39694/fasta/95-39694_pseudohap.fasta is complete.
+
+END of output
