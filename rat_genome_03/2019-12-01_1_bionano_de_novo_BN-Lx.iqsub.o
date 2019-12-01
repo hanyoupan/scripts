@@ -13,9 +13,9 @@ Solve Version: N/A
 Pipeline Version: 10026
 RefAligner Version: 10020
 
-Assembly ID: 141
+Assembly ID: 987
 
-  Pipeline start time: Sun Dec  1 13:11:46 2019
+  Pipeline start time: Sun Dec  1 14:57:07 2019
 
 checkScanScaling: autoNoise= False
 Not performing autoNoise (see -y): setting doScanScale = False, hence not using _rescaled.bnx for BNX splits
@@ -32,7 +32,7 @@ Sorting /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/B
  Starting Multi-Threaded Process: SortBNX
   Running 1 jobs with 21 threads, sleepTime=0.05
    START    1:                        SortBNX,   1 Thr,    1 R,    1 T,    0 F,    0 Q
-   STOP     1:                        SortBNX,   1 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=120% host=NA
+   STOP     1:                        SortBNX,   1 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 1.36m  RunTime= 0h 1.36m  CPUload=118% host=NA
  Finished Multi-Threaded Process: SortBNX
 
 calculateNPairwise: Sorted and filtered file has 1104603 molecules, 58177119.0 sites, 337426488988.0 bp length total. blocks= 10 -> 12 (N=4)
@@ -43,7 +43,3 @@ Splitting bnx file: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/biona
 
  Starting Multi-Threaded Process: SplitBNX
   Running 1 jobs with 21 threads, sleepTime=0.05
-SplitBNX: jobName= SplitBNX : Not On Cluster : availableThreads= 21, sJob.maxThreads= 47 (skipping)
-SplitBNX: waited 1800.0 seconds for job completion: UnsubmittedJobs= 1, ActiveJobs= 0, FinishedJobs= 0
-SplitBNX: jobName= SplitBNX : Not On Cluster : availableThreads= 21, sJob.maxThreads= 47 (skipping)
-SplitBNX: waited 3600.0 seconds for job completion: UnsubmittedJobs= 1, ActiveJobs= 0, FinishedJobs= 0
