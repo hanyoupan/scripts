@@ -13,9 +13,9 @@ Solve Version: N/A
 Pipeline Version: 10026
 RefAligner Version: 10020
 
-Assembly ID: 443
+Assembly ID: 790
 
-  Pipeline start time: Sun Dec  1 15:25:18 2019
+  Pipeline start time: Sun Dec  1 15:34:40 2019
 
 checkScanScaling: autoNoise= False
 Not performing autoNoise (see -y): setting doScanScale = False, hence not using _rescaled.bnx for BNX splits
@@ -30,9 +30,9 @@ Label density (/100kb)   :     16.634
 
 Sorting /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/all.bnx into /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/all_sorted
  Starting Multi-Threaded Process: SortBNX
-  Running 1 jobs with 42 threads, sleepTime=0.05
+  Running 1 jobs with 21 threads, sleepTime=0.05
    START    1:                        SortBNX,   1 Thr,    1 R,    1 T,    0 F,    0 Q
-   STOP     1:                        SortBNX,   1 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=120% host=NA
+   STOP     1:                        SortBNX,   1 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 1.32m  RunTime= 0h 1.33m  CPUload=120% host=NA
  Finished Multi-Threaded Process: SortBNX
 
 calculateNPairwise: Sorted and filtered file has 1104603 molecules, 58177119.0 sites, 337426488988.0 bp length total. blocks= 10 -> 12 (N=4)
@@ -42,13 +42,254 @@ Splitting BNX
 Splitting bnx file: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/all_sorted.bnx
 
  Starting Multi-Threaded Process: SplitBNX
-  Running 1 jobs with 42 threads, sleepTime=0.05
-   START    1:                       SplitBNX,  41 Thr,    1 R,    1 T,    0 F,    0 Q
-   STOP     1:                       SplitBNX,  41 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=119% host=NA
+  Running 1 jobs with 21 threads, sleepTime=0.05
+   START    1:                       SplitBNX,  20 Thr,    1 R,    1 T,    0 F,    0 Q
+   STOP     1:                       SplitBNX,  20 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=119% host=NA
  Finished Multi-Threaded Process: SplitBNX
 
 Executing stage number 2 : Pairwise + Alignmolvref
 
  Starting Multi-Threaded Process: Pairwise
-  Running 78 jobs with 42 threads, sleepTime=0.05
-   START    1:               Pairwise 1 of 78,  42 Thr,    1 R,   78 T,    0 F,   77 Q
+  Running 78 jobs with 21 threads, sleepTime=0.05
+   START    1:               Pairwise 1 of 78,  21 Thr,    1 R,   78 T,    0 F,   77 Q
+   STOP     1:               Pairwise 1 of 78,  21 Thr,    0 R,   78 T,    1 F,   77 Q  TotalTime= 0h 4.17m  RunTime= 0h 4.17m  CPUload=2056% host=NA
+   START    2:               Pairwise 2 of 78,  21 Thr,    1 R,   78 T,    1 F,   76 Q
+   STOP     2:               Pairwise 2 of 78,  21 Thr,    0 R,   78 T,    2 F,   76 Q  TotalTime= 0h 7.01m  RunTime= 0h 7.01m  CPUload=2060% host=NA
+   START    3:               Pairwise 3 of 78,  21 Thr,    1 R,   78 T,    2 F,   75 Q
+   STOP     3:               Pairwise 3 of 78,  21 Thr,    0 R,   78 T,    3 F,   75 Q  TotalTime= 0h 7.02m  RunTime= 0h 7.03m  CPUload=2059% host=NA
+   START    4:               Pairwise 4 of 78,  21 Thr,    1 R,   78 T,    3 F,   74 Q
+   STOP     4:               Pairwise 4 of 78,  21 Thr,    0 R,   78 T,    4 F,   74 Q  TotalTime= 0h 7.00m  RunTime= 0h 7.00m  CPUload=2058% host=NA
+   START    5:               Pairwise 5 of 78,  21 Thr,    1 R,   78 T,    4 F,   73 Q
+Pairwise: jobName= Pairwise 6 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 7 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 8 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 9 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 10 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 11 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 12 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 13 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 14 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 15 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 16 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 17 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 18 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 19 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 20 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 21 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 22 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 23 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 24 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 25 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 26 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 27 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 28 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 29 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 30 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 31 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 32 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 33 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 34 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 35 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 36 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 37 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 38 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 39 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 40 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 41 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 42 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 43 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 44 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 45 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 46 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 47 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 48 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 49 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 50 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 51 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 52 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 53 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 54 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 55 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 56 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 57 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 58 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 59 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 60 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 61 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 62 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 63 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 64 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 65 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 66 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 67 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 68 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 69 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 70 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 71 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 72 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 73 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 74 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 75 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 76 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 77 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 78 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: waited 1800.0 seconds for job completion: UnsubmittedJobs= 73, ActiveJobs= 1, FinishedJobs= 4
+   STOP     5:               Pairwise 5 of 78,  21 Thr,    0 R,   78 T,    5 F,   73 Q  TotalTime= 0h 7.23m  RunTime= 0h 7.23m  CPUload=2057% host=NA
+   START    6:               Pairwise 6 of 78,  21 Thr,    1 R,   78 T,    5 F,   72 Q
+   STOP     6:               Pairwise 6 of 78,  21 Thr,    0 R,   78 T,    6 F,   72 Q  TotalTime= 0h 7.27m  RunTime= 0h 7.27m  CPUload=2058% host=NA
+   START    7:               Pairwise 7 of 78,  21 Thr,    1 R,   78 T,    6 F,   71 Q
+   STOP     7:               Pairwise 7 of 78,  21 Thr,    0 R,   78 T,    7 F,   71 Q  TotalTime= 0h 7.13m  RunTime= 0h 7.13m  CPUload=2055% host=NA
+   START    8:               Pairwise 8 of 78,  21 Thr,    1 R,   78 T,    7 F,   70 Q
+   STOP     8:               Pairwise 8 of 78,  21 Thr,    0 R,   78 T,    8 F,   70 Q  TotalTime= 0h 7.25m  RunTime= 0h 7.25m  CPUload=2057% host=NA
+   START    9:               Pairwise 9 of 78,  21 Thr,    1 R,   78 T,    8 F,   69 Q
+Pairwise: jobName= Pairwise 10 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 11 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 12 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 13 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 14 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 15 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 16 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 17 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 18 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 19 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 20 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 21 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 22 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 23 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 24 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 25 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 26 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 27 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 28 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 29 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 30 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 31 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 32 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 33 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 34 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 35 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 36 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 37 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 38 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 39 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 40 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 41 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 42 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 43 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 44 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 45 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 46 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 47 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 48 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 49 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 50 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 51 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 52 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 53 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 54 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 55 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 56 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 57 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 58 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 59 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 60 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 61 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 62 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 63 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 64 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 65 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 66 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 67 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 68 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 69 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 70 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 71 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 72 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 73 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 74 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 75 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 76 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 77 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 78 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: waited 3600.0 seconds for job completion: UnsubmittedJobs= 69, ActiveJobs= 1, FinishedJobs= 8
+   STOP     9:               Pairwise 9 of 78,  21 Thr,    0 R,   78 T,    9 F,   69 Q  TotalTime= 0h 7.05m  RunTime= 0h 7.05m  CPUload=2048% host=NA
+   START   10:              Pairwise 10 of 78,  21 Thr,    1 R,   78 T,    9 F,   68 Q
+   STOP    10:              Pairwise 10 of 78,  21 Thr,    0 R,   78 T,   10 F,   68 Q  TotalTime= 0h 6.93m  RunTime= 0h 6.93m  CPUload=2048% host=NA
+   START   11:              Pairwise 11 of 78,  21 Thr,    1 R,   78 T,   10 F,   67 Q
+   STOP    11:              Pairwise 11 of 78,  21 Thr,    0 R,   78 T,   11 F,   67 Q  TotalTime= 0h 6.92m  RunTime= 0h 6.92m  CPUload=2056% host=NA
+   START   12:              Pairwise 12 of 78,  21 Thr,    1 R,   78 T,   11 F,   66 Q
+   STOP    12:              Pairwise 12 of 78,  21 Thr,    0 R,   78 T,   12 F,   66 Q  TotalTime= 0h 7.04m  RunTime= 0h 7.04m  CPUload=2055% host=NA
+   START   13:              Pairwise 13 of 78,  21 Thr,    1 R,   78 T,   12 F,   65 Q
+   STOP    13:              Pairwise 13 of 78,  21 Thr,    0 R,   78 T,   13 F,   65 Q  TotalTime= 0h 4.08m  RunTime= 0h 4.08m  CPUload=2059% host=NA
+   START   14:              Pairwise 14 of 78,  21 Thr,    1 R,   78 T,   13 F,   64 Q
+Pairwise: jobName= Pairwise 15 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 16 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 17 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 18 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 19 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 20 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 21 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 22 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 23 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 24 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 25 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 26 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 27 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 28 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 29 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 30 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 31 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 32 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 33 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 34 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 35 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 36 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 37 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 38 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 39 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 40 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 41 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 42 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 43 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 44 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 45 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 46 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 47 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 48 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 49 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 50 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 51 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 52 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 53 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 54 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 55 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 56 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 57 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 58 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 59 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 60 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 61 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 62 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 63 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 64 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 65 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 66 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 67 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 68 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 69 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 70 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 71 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 72 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 73 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 74 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 75 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 76 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 77 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 78 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: waited 5400.0 seconds for job completion: UnsubmittedJobs= 64, ActiveJobs= 1, FinishedJobs= 13
+   STOP    14:              Pairwise 14 of 78,  21 Thr,    0 R,   78 T,   14 F,   64 Q  TotalTime= 0h 6.82m  RunTime= 0h 6.82m  CPUload=2061% host=NA
+   START   15:              Pairwise 15 of 78,  21 Thr,    1 R,   78 T,   14 F,   63 Q
+   STOP    15:              Pairwise 15 of 78,  21 Thr,    0 R,   78 T,   15 F,   63 Q  TotalTime= 0h 6.86m  RunTime= 0h 6.86m  CPUload=2056% host=NA
+   START   16:              Pairwise 16 of 78,  21 Thr,    1 R,   78 T,   15 F,   62 Q
+   STOP    16:              Pairwise 16 of 78,  21 Thr,    0 R,   78 T,   16 F,   62 Q  TotalTime= 0h 6.95m  RunTime= 0h 6.96m  CPUload=2054% host=NA
+   START   17:              Pairwise 17 of 78,  21 Thr,    1 R,   78 T,   16 F,   61 Q
