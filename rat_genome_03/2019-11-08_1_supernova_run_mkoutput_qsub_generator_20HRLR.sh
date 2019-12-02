@@ -38,4 +38,4 @@ supernova mkoutput \
 
 " >> $file_name
 
-qsub $file_name
+#qsub $file_name
