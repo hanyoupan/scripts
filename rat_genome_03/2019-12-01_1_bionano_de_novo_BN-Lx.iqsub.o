@@ -5210,3 +5210,30 @@ refineB1: waited 127800.0 seconds for job completion: UnsubmittedJobs= 13, Activ
    START   62:                 refineB1    70,  21 Thr,    1 R,   72 T,   61 F,   10 Q
    STOP    62:                 refineB1    70,  21 Thr,    0 R,   72 T,   62 F,   10 Q  TotalTime= 0h 7.84m  RunTime= 0h 7.84m  CPUload=1805% host=NA
    START   63:                 refineB1    71,  21 Thr,    1 R,   72 T,   62 F,    9 Q
+refineB1: jobName= refineB1    51 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    57 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    63 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    55 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    59 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    48 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    62 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    50 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    72 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: waited 129600.0 seconds for job completion: UnsubmittedJobs= 9, ActiveJobs= 1, FinishedJobs= 62
+   STOP    63:                 refineB1    71,  21 Thr,    0 R,   72 T,   63 F,    9 Q  TotalTime= 0h 7.10m  RunTime= 0h 7.10m  CPUload=1801% host=NA
+   START   64:                 refineB1    51,  21 Thr,    1 R,   72 T,   63 F,    8 Q
+   STOP    64:                 refineB1    51,  21 Thr,    0 R,   72 T,   64 F,    8 Q  TotalTime= 0h 10.01m  RunTime= 0h 10.01m  CPUload=1863% host=NA
+   START   65:                 refineB1    57,  21 Thr,    1 R,   72 T,   64 F,    7 Q
+   STOP    65:                 refineB1    57,  21 Thr,    0 R,   72 T,   65 F,    7 Q  TotalTime= 0h 9.67m  RunTime= 0h 9.67m  CPUload=1821% host=NA
+   START   66:                 refineB1    63,  21 Thr,    1 R,   72 T,   65 F,    6 Q
+refineB1: jobName= refineB1    55 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    59 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    48 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    62 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    50 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    72 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: waited 131400.0 seconds for job completion: UnsubmittedJobs= 6, ActiveJobs= 1, FinishedJobs= 65
+   STOP    66:                 refineB1    63,  21 Thr,    0 R,   72 T,   66 F,    6 Q  TotalTime= 0h 12.99m  RunTime= 0h 12.99m  CPUload=1847% host=NA
+   START   67:                 refineB1    55,  21 Thr,    1 R,   72 T,   66 F,    5 Q
+   STOP    67:                 refineB1    55,  21 Thr,    0 R,   72 T,   67 F,    5 Q  TotalTime= 0h 7.95m  RunTime= 0h 7.95m  CPUload=1834% host=NA
+   START   68:                 refineB1    59,  21 Thr,    1 R,   72 T,   67 F,    4 Q
