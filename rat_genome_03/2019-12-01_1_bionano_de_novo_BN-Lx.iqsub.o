@@ -5208,3 +5208,5 @@ refineB1: waited 127800.0 seconds for job completion: UnsubmittedJobs= 13, Activ
    START   61:                 refineB1    69,  21 Thr,    1 R,   72 T,   60 F,   11 Q
    STOP    61:                 refineB1    69,  21 Thr,    0 R,   72 T,   61 F,   11 Q  TotalTime= 0h 5.80m  RunTime= 0h 5.80m  CPUload=1738% host=NA
    START   62:                 refineB1    70,  21 Thr,    1 R,   72 T,   61 F,   10 Q
+   STOP    62:                 refineB1    70,  21 Thr,    0 R,   72 T,   62 F,   10 Q  TotalTime= 0h 7.84m  RunTime= 0h 7.84m  CPUload=1805% host=NA
+   START   63:                 refineB1    71,  21 Thr,    1 R,   72 T,   62 F,    9 Q
