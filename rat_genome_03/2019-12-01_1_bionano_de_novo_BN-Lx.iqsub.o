@@ -5267,3 +5267,412 @@ merge: prefPrefix= exp_refineB1, curPrefix= exp_mrg0
   Running 1 jobs with 21 threads, sleepTime=0.05
    START    1:                         Merge0,  20 Thr,    1 R,    1 T,    0 F,    0 Q
 Characterize refineB1 results check completed
+Merge0: waited 1800.0 seconds for job completion: UnsubmittedJobs= 0, ActiveJobs= 1, FinishedJobs= 0
+Merge0: waited 3600.0 seconds for job completion: UnsubmittedJobs= 0, ActiveJobs= 1, FinishedJobs= 0
+Merge0: waited 5400.0 seconds for job completion: UnsubmittedJobs= 0, ActiveJobs= 1, FinishedJobs= 0
+   STOP     1:                         Merge0,  20 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 1h 32.00m  RunTime= 1h 32.04m  CPUload=1894% host=NA
+ Finished Multi-Threaded Process: Merge0
+
+ Starting Multi-Threaded Process: Cmap_Merge_exp_mrg0
+  Running 1 jobs with 1 threads, sleepTime=0.05
+   START    1:                 mrg_exp_mrg0_0,   1 Thr,    1 R,    1 T,    0 F,    0 Q
+   STOP     1:                 mrg_exp_mrg0_0,   1 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 0.06m  RunTime= 0h 0.06m  CPUload=83% host=NA
+ Finished Multi-Threaded Process: Cmap_Merge_exp_mrg0
+
+Characterize Merge0 completed : will check Results
+Rough assembly: waiting for merge0 characterize
+Characterize Merge0 results check completed
+Rough assembly: using reference: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/ref/EXP_MRG0.cmap
+Rough assembly: moving folder /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/contigs to /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/contigs_roughAssembly
+Rough assembly: moving folder /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/align to /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/align_roughAssembly
+
+Executing stage number 8 : AutoNoise + SplitBNX
+
+checkScanScaling: autoNoise= True
+autoNoise: using rough assembly as reference: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/ref/EXP_MRG0.cmap
+autoNoise0
+ Starting Multi-Threaded Process: Autonoise0
+  Running 1 jobs with 21 threads, sleepTime=0.05
+   START    1:                     Autonoise0,  20 Thr,    1 R,    1 T,    0 F,    0 Q
+   STOP     1:                     Autonoise0,  20 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 6.68m  RunTime= 0h 6.68m  CPUload=1652% host=NA
+ Finished Multi-Threaded Process: Autonoise0
+
+Using scan scaled bnx: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/contigs/auto_noise/autoNoise0_rescaled.bnx for autoNoise1
+
+autoNoise1
+ Starting Multi-Threaded Process: Autonoise1
+  Running 1 jobs with 21 threads, sleepTime=0.05
+   START    1:                     Autonoise1,  20 Thr,    1 R,    1 T,    0 F,    0 Q
+   STOP     1:                     Autonoise1,  20 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 9.88m  RunTime= 0h 9.88m  CPUload=1750% host=NA
+ Finished Multi-Threaded Process: Autonoise1
+
+Using scan scaled bnx: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/contigs/auto_noise/autoNoise1_rescaled.bnx
+
+calculateNPairwise: Sorted and filtered file has 987480 molecules, 55135811.0 sites, 320588295224.5 bp length total. blocks= 10 -> 12 (N=4)
+
+Increasing number of blocks from 4 to 12
+Splitting BNX
+Splitting scan-scaled bnx file: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/contigs/auto_noise/autoNoise1_rescaled.bnx
+
+Removing 12 split bnx files
+ Starting Multi-Threaded Process: SplitBNX
+  Running 1 jobs with 21 threads, sleepTime=0.05
+   START    1:                       SplitBNX,  20 Thr,    1 R,    1 T,    0 F,    0 Q
+   STOP     1:                       SplitBNX,  20 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 1.33m  RunTime= 0h 1.33m  CPUload=121% host=NA
+ Finished Multi-Threaded Process: SplitBNX
+
+Executing stage number 9 : Pairwise + Alignmolvref
+
+ Starting Multi-Threaded Process: Pairwise
+  Running 78 jobs with 21 threads, sleepTime=0.05
+   START    1:               Pairwise 1 of 78,  21 Thr,    1 R,   78 T,    0 F,   77 Q
+   STOP     1:               Pairwise 1 of 78,  21 Thr,    0 R,   78 T,    1 F,   77 Q  TotalTime= 0h 0.89m  RunTime= 0h 0.89m  CPUload=1953% host=NA
+   START    2:               Pairwise 2 of 78,  21 Thr,    1 R,   78 T,    1 F,   76 Q
+   STOP     2:               Pairwise 2 of 78,  21 Thr,    0 R,   78 T,    2 F,   76 Q  TotalTime= 0h 1.28m  RunTime= 0h 1.27m  CPUload=1986% host=NA
+   START    3:               Pairwise 3 of 78,  21 Thr,    1 R,   78 T,    2 F,   75 Q
+   STOP     3:               Pairwise 3 of 78,  21 Thr,    0 R,   78 T,    3 F,   75 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=1979% host=NA
+   START    4:               Pairwise 4 of 78,  21 Thr,    1 R,   78 T,    3 F,   74 Q
+   STOP     4:               Pairwise 4 of 78,  21 Thr,    0 R,   78 T,    4 F,   74 Q  TotalTime= 0h 1.28m  RunTime= 0h 1.28m  CPUload=1988% host=NA
+   START    5:               Pairwise 5 of 78,  21 Thr,    1 R,   78 T,    4 F,   73 Q
+   STOP     5:               Pairwise 5 of 78,  21 Thr,    0 R,   78 T,    5 F,   73 Q  TotalTime= 0h 1.32m  RunTime= 0h 1.32m  CPUload=1978% host=NA
+   START    6:               Pairwise 6 of 78,  21 Thr,    1 R,   78 T,    5 F,   72 Q
+   STOP     6:               Pairwise 6 of 78,  21 Thr,    0 R,   78 T,    6 F,   72 Q  TotalTime= 0h 1.28m  RunTime= 0h 1.28m  CPUload=1985% host=NA
+   START    7:               Pairwise 7 of 78,  21 Thr,    1 R,   78 T,    6 F,   71 Q
+   STOP     7:               Pairwise 7 of 78,  21 Thr,    0 R,   78 T,    7 F,   71 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=1982% host=NA
+   START    8:               Pairwise 8 of 78,  21 Thr,    1 R,   78 T,    7 F,   70 Q
+   STOP     8:               Pairwise 8 of 78,  21 Thr,    0 R,   78 T,    8 F,   70 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=1980% host=NA
+   START    9:               Pairwise 9 of 78,  21 Thr,    1 R,   78 T,    8 F,   69 Q
+   STOP     9:               Pairwise 9 of 78,  21 Thr,    0 R,   78 T,    9 F,   69 Q  TotalTime= 0h 1.34m  RunTime= 0h 1.34m  CPUload=1989% host=NA
+   START   10:              Pairwise 10 of 78,  21 Thr,    1 R,   78 T,    9 F,   68 Q
+   STOP    10:              Pairwise 10 of 78,  21 Thr,    0 R,   78 T,   10 F,   68 Q  TotalTime= 0h 1.30m  RunTime= 0h 1.30m  CPUload=1984% host=NA
+   START   11:              Pairwise 11 of 78,  21 Thr,    1 R,   78 T,   10 F,   67 Q
+   STOP    11:              Pairwise 11 of 78,  21 Thr,    0 R,   78 T,   11 F,   67 Q  TotalTime= 0h 1.32m  RunTime= 0h 1.32m  CPUload=1987% host=NA
+   START   12:              Pairwise 12 of 78,  21 Thr,    1 R,   78 T,   11 F,   66 Q
+   STOP    12:              Pairwise 12 of 78,  21 Thr,    0 R,   78 T,   12 F,   66 Q  TotalTime= 0h 1.30m  RunTime= 0h 1.30m  CPUload=1987% host=NA
+   START   13:              Pairwise 13 of 78,  21 Thr,    1 R,   78 T,   12 F,   65 Q
+   STOP    13:              Pairwise 13 of 78,  21 Thr,    0 R,   78 T,   13 F,   65 Q  TotalTime= 0h 0.90m  RunTime= 0h 0.90m  CPUload=1988% host=NA
+   START   14:              Pairwise 14 of 78,  21 Thr,    1 R,   78 T,   13 F,   64 Q
+   STOP    14:              Pairwise 14 of 78,  21 Thr,    0 R,   78 T,   14 F,   64 Q  TotalTime= 0h 1.29m  RunTime= 0h 1.29m  CPUload=1991% host=NA
+   START   15:              Pairwise 15 of 78,  21 Thr,    1 R,   78 T,   14 F,   63 Q
+   STOP    15:              Pairwise 15 of 78,  21 Thr,    0 R,   78 T,   15 F,   63 Q  TotalTime= 0h 1.30m  RunTime= 0h 1.30m  CPUload=1981% host=NA
+   START   16:              Pairwise 16 of 78,  21 Thr,    1 R,   78 T,   15 F,   62 Q
+   STOP    16:              Pairwise 16 of 78,  21 Thr,    0 R,   78 T,   16 F,   62 Q  TotalTime= 0h 1.28m  RunTime= 0h 1.28m  CPUload=1979% host=NA
+   START   17:              Pairwise 17 of 78,  21 Thr,    1 R,   78 T,   16 F,   61 Q
+   STOP    17:              Pairwise 17 of 78,  21 Thr,    0 R,   78 T,   17 F,   61 Q  TotalTime= 0h 1.27m  RunTime= 0h 1.27m  CPUload=1985% host=NA
+   START   18:              Pairwise 18 of 78,  21 Thr,    1 R,   78 T,   17 F,   60 Q
+   STOP    18:              Pairwise 18 of 78,  21 Thr,    0 R,   78 T,   18 F,   60 Q  TotalTime= 0h 1.29m  RunTime= 0h 1.29m  CPUload=1988% host=NA
+   START   19:              Pairwise 19 of 78,  21 Thr,    1 R,   78 T,   18 F,   59 Q
+   STOP    19:              Pairwise 19 of 78,  21 Thr,    0 R,   78 T,   19 F,   59 Q  TotalTime= 0h 1.30m  RunTime= 0h 1.30m  CPUload=1985% host=NA
+   START   20:              Pairwise 20 of 78,  21 Thr,    1 R,   78 T,   19 F,   58 Q
+   STOP    20:              Pairwise 20 of 78,  21 Thr,    0 R,   78 T,   20 F,   58 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=1995% host=NA
+   START   21:              Pairwise 21 of 78,  21 Thr,    1 R,   78 T,   20 F,   57 Q
+   STOP    21:              Pairwise 21 of 78,  21 Thr,    0 R,   78 T,   21 F,   57 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=1984% host=NA
+   START   22:              Pairwise 22 of 78,  21 Thr,    1 R,   78 T,   21 F,   56 Q
+   STOP    22:              Pairwise 22 of 78,  21 Thr,    0 R,   78 T,   22 F,   56 Q  TotalTime= 0h 1.29m  RunTime= 0h 1.29m  CPUload=1991% host=NA
+   START   23:              Pairwise 23 of 78,  21 Thr,    1 R,   78 T,   22 F,   55 Q
+   STOP    23:              Pairwise 23 of 78,  21 Thr,    0 R,   78 T,   23 F,   55 Q  TotalTime= 0h 1.30m  RunTime= 0h 1.30m  CPUload=1973% host=NA
+   START   24:              Pairwise 24 of 78,  21 Thr,    1 R,   78 T,   23 F,   54 Q
+   STOP    24:              Pairwise 24 of 78,  21 Thr,    0 R,   78 T,   24 F,   54 Q  TotalTime= 0h 0.90m  RunTime= 0h 0.90m  CPUload=1977% host=NA
+   START   25:              Pairwise 25 of 78,  21 Thr,    1 R,   78 T,   24 F,   53 Q
+Pairwise: waited 1800.0 seconds during job submission: UnsubmittedJobs= 53
+   STOP    25:              Pairwise 25 of 78,  21 Thr,    0 R,   78 T,   25 F,   53 Q  TotalTime= 0h 1.29m  RunTime= 0h 1.29m  CPUload=1992% host=NA
+   START   26:              Pairwise 26 of 78,  21 Thr,    1 R,   78 T,   25 F,   52 Q
+   STOP    26:              Pairwise 26 of 78,  21 Thr,    0 R,   78 T,   26 F,   52 Q  TotalTime= 0h 1.34m  RunTime= 0h 1.34m  CPUload=1996% host=NA
+   START   27:              Pairwise 27 of 78,  21 Thr,    1 R,   78 T,   26 F,   51 Q
+   STOP    27:              Pairwise 27 of 78,  21 Thr,    0 R,   78 T,   27 F,   51 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=1991% host=NA
+   START   28:              Pairwise 28 of 78,  21 Thr,    1 R,   78 T,   27 F,   50 Q
+   STOP    28:              Pairwise 28 of 78,  21 Thr,    0 R,   78 T,   28 F,   50 Q  TotalTime= 0h 1.33m  RunTime= 0h 1.33m  CPUload=1984% host=NA
+   START   29:              Pairwise 29 of 78,  21 Thr,    1 R,   78 T,   28 F,   49 Q
+   STOP    29:              Pairwise 29 of 78,  21 Thr,    0 R,   78 T,   29 F,   49 Q  TotalTime= 0h 1.34m  RunTime= 0h 1.34m  CPUload=1977% host=NA
+   START   30:              Pairwise 30 of 78,  21 Thr,    1 R,   78 T,   29 F,   48 Q
+   STOP    30:              Pairwise 30 of 78,  21 Thr,    0 R,   78 T,   30 F,   48 Q  TotalTime= 0h 1.38m  RunTime= 0h 1.38m  CPUload=1964% host=NA
+   START   31:              Pairwise 31 of 78,  21 Thr,    1 R,   78 T,   30 F,   47 Q
+   STOP    31:              Pairwise 31 of 78,  21 Thr,    0 R,   78 T,   31 F,   47 Q  TotalTime= 0h 1.33m  RunTime= 0h 1.33m  CPUload=1985% host=NA
+   START   32:              Pairwise 32 of 78,  21 Thr,    1 R,   78 T,   31 F,   46 Q
+   STOP    32:              Pairwise 32 of 78,  21 Thr,    0 R,   78 T,   32 F,   46 Q  TotalTime= 0h 1.33m  RunTime= 0h 1.33m  CPUload=1989% host=NA
+   START   33:              Pairwise 33 of 78,  21 Thr,    1 R,   78 T,   32 F,   45 Q
+   STOP    33:              Pairwise 33 of 78,  21 Thr,    0 R,   78 T,   33 F,   45 Q  TotalTime= 0h 1.32m  RunTime= 0h 1.32m  CPUload=1987% host=NA
+   START   34:              Pairwise 34 of 78,  21 Thr,    1 R,   78 T,   33 F,   44 Q
+   STOP    34:              Pairwise 34 of 78,  21 Thr,    0 R,   78 T,   34 F,   44 Q  TotalTime= 0h 0.90m  RunTime= 0h 0.90m  CPUload=1973% host=NA
+   START   35:              Pairwise 35 of 78,  21 Thr,    1 R,   78 T,   34 F,   43 Q
+   STOP    35:              Pairwise 35 of 78,  21 Thr,    0 R,   78 T,   35 F,   43 Q  TotalTime= 0h 1.27m  RunTime= 0h 1.27m  CPUload=1982% host=NA
+   START   36:              Pairwise 36 of 78,  21 Thr,    1 R,   78 T,   35 F,   42 Q
+   STOP    36:              Pairwise 36 of 78,  21 Thr,    0 R,   78 T,   36 F,   42 Q  TotalTime= 0h 1.29m  RunTime= 0h 1.29m  CPUload=1973% host=NA
+   START   37:              Pairwise 37 of 78,  21 Thr,    1 R,   78 T,   36 F,   41 Q
+   STOP    37:              Pairwise 37 of 78,  21 Thr,    0 R,   78 T,   37 F,   41 Q  TotalTime= 0h 1.29m  RunTime= 0h 1.29m  CPUload=1983% host=NA
+   START   38:              Pairwise 38 of 78,  21 Thr,    1 R,   78 T,   37 F,   40 Q
+   STOP    38:              Pairwise 38 of 78,  21 Thr,    0 R,   78 T,   38 F,   40 Q  TotalTime= 0h 1.32m  RunTime= 0h 1.32m  CPUload=1994% host=NA
+   START   39:              Pairwise 39 of 78,  21 Thr,    1 R,   78 T,   38 F,   39 Q
+   STOP    39:              Pairwise 39 of 78,  21 Thr,    0 R,   78 T,   39 F,   39 Q  TotalTime= 0h 1.30m  RunTime= 0h 1.30m  CPUload=1989% host=NA
+   START   40:              Pairwise 40 of 78,  21 Thr,    1 R,   78 T,   39 F,   38 Q
+   STOP    40:              Pairwise 40 of 78,  21 Thr,    0 R,   78 T,   40 F,   38 Q  TotalTime= 0h 1.33m  RunTime= 0h 1.33m  CPUload=1989% host=NA
+   START   41:              Pairwise 41 of 78,  21 Thr,    1 R,   78 T,   40 F,   37 Q
+   STOP    41:              Pairwise 41 of 78,  21 Thr,    0 R,   78 T,   41 F,   37 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=1992% host=NA
+   START   42:              Pairwise 42 of 78,  21 Thr,    1 R,   78 T,   41 F,   36 Q
+   STOP    42:              Pairwise 42 of 78,  21 Thr,    0 R,   78 T,   42 F,   36 Q  TotalTime= 0h 1.36m  RunTime= 0h 1.36m  CPUload=1984% host=NA
+   START   43:              Pairwise 43 of 78,  21 Thr,    1 R,   78 T,   42 F,   35 Q
+   STOP    43:              Pairwise 43 of 78,  21 Thr,    0 R,   78 T,   43 F,   35 Q  TotalTime= 0h 0.89m  RunTime= 0h 0.89m  CPUload=1980% host=NA
+   START   44:              Pairwise 44 of 78,  21 Thr,    1 R,   78 T,   43 F,   34 Q
+   STOP    44:              Pairwise 44 of 78,  21 Thr,    0 R,   78 T,   44 F,   34 Q  TotalTime= 0h 1.28m  RunTime= 0h 1.28m  CPUload=1987% host=NA
+   START   45:              Pairwise 45 of 78,  21 Thr,    1 R,   78 T,   44 F,   33 Q
+   STOP    45:              Pairwise 45 of 78,  21 Thr,    0 R,   78 T,   45 F,   33 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=1980% host=NA
+   START   46:              Pairwise 46 of 78,  21 Thr,    1 R,   78 T,   45 F,   32 Q
+   STOP    46:              Pairwise 46 of 78,  21 Thr,    0 R,   78 T,   46 F,   32 Q  TotalTime= 0h 1.32m  RunTime= 0h 1.32m  CPUload=1989% host=NA
+   START   47:              Pairwise 47 of 78,  21 Thr,    1 R,   78 T,   46 F,   31 Q
+   STOP    47:              Pairwise 47 of 78,  21 Thr,    0 R,   78 T,   47 F,   31 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=1980% host=NA
+   START   48:              Pairwise 48 of 78,  21 Thr,    1 R,   78 T,   47 F,   30 Q
+Pairwise: jobName= Pairwise 49 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 50 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 51 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 52 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 53 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 54 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 55 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 56 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 57 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 58 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 59 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 60 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 61 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 62 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 63 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 64 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 65 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 66 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 67 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 68 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 69 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 70 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 71 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 72 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 73 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 74 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 75 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 76 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 77 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 78 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: waited 3600.0 seconds for job completion: UnsubmittedJobs= 30, ActiveJobs= 1, FinishedJobs= 47
+   STOP    48:              Pairwise 48 of 78,  21 Thr,    0 R,   78 T,   48 F,   30 Q  TotalTime= 0h 1.30m  RunTime= 0h 1.30m  CPUload=1984% host=NA
+   START   49:              Pairwise 49 of 78,  21 Thr,    1 R,   78 T,   48 F,   29 Q
+   STOP    49:              Pairwise 49 of 78,  21 Thr,    0 R,   78 T,   49 F,   29 Q  TotalTime= 0h 1.30m  RunTime= 0h 1.30m  CPUload=1988% host=NA
+   START   50:              Pairwise 50 of 78,  21 Thr,    1 R,   78 T,   49 F,   28 Q
+   STOP    50:              Pairwise 50 of 78,  21 Thr,    0 R,   78 T,   50 F,   28 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=1987% host=NA
+   START   51:              Pairwise 51 of 78,  21 Thr,    1 R,   78 T,   50 F,   27 Q
+   STOP    51:              Pairwise 51 of 78,  21 Thr,    0 R,   78 T,   51 F,   27 Q  TotalTime= 0h 0.90m  RunTime= 0h 0.90m  CPUload=1982% host=NA
+   START   52:              Pairwise 52 of 78,  21 Thr,    1 R,   78 T,   51 F,   26 Q
+   STOP    52:              Pairwise 52 of 78,  21 Thr,    0 R,   78 T,   52 F,   26 Q  TotalTime= 0h 1.35m  RunTime= 0h 1.35m  CPUload=1981% host=NA
+   START   53:              Pairwise 53 of 78,  21 Thr,    1 R,   78 T,   52 F,   25 Q
+   STOP    53:              Pairwise 53 of 78,  21 Thr,    0 R,   78 T,   53 F,   25 Q  TotalTime= 0h 1.32m  RunTime= 0h 1.32m  CPUload=1977% host=NA
+   START   54:              Pairwise 54 of 78,  21 Thr,    1 R,   78 T,   53 F,   24 Q
+   STOP    54:              Pairwise 54 of 78,  21 Thr,    0 R,   78 T,   54 F,   24 Q  TotalTime= 0h 1.30m  RunTime= 0h 1.30m  CPUload=1979% host=NA
+   START   55:              Pairwise 55 of 78,  21 Thr,    1 R,   78 T,   54 F,   23 Q
+   STOP    55:              Pairwise 55 of 78,  21 Thr,    0 R,   78 T,   55 F,   23 Q  TotalTime= 0h 1.32m  RunTime= 0h 1.32m  CPUload=1988% host=NA
+   START   56:              Pairwise 56 of 78,  21 Thr,    1 R,   78 T,   55 F,   22 Q
+   STOP    56:              Pairwise 56 of 78,  21 Thr,    0 R,   78 T,   56 F,   22 Q  TotalTime= 0h 1.33m  RunTime= 0h 1.33m  CPUload=1974% host=NA
+   START   57:              Pairwise 57 of 78,  21 Thr,    1 R,   78 T,   56 F,   21 Q
+   STOP    57:              Pairwise 57 of 78,  21 Thr,    0 R,   78 T,   57 F,   21 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=1987% host=NA
+   START   58:              Pairwise 58 of 78,  21 Thr,    1 R,   78 T,   57 F,   20 Q
+   STOP    58:              Pairwise 58 of 78,  21 Thr,    0 R,   78 T,   58 F,   20 Q  TotalTime= 0h 0.93m  RunTime= 0h 0.93m  CPUload=1978% host=NA
+   START   59:              Pairwise 59 of 78,  21 Thr,    1 R,   78 T,   58 F,   19 Q
+   STOP    59:              Pairwise 59 of 78,  21 Thr,    0 R,   78 T,   59 F,   19 Q  TotalTime= 0h 1.36m  RunTime= 0h 1.36m  CPUload=1991% host=NA
+   START   60:              Pairwise 60 of 78,  21 Thr,    1 R,   78 T,   59 F,   18 Q
+   STOP    60:              Pairwise 60 of 78,  21 Thr,    0 R,   78 T,   60 F,   18 Q  TotalTime= 0h 1.32m  RunTime= 0h 1.32m  CPUload=1986% host=NA
+   START   61:              Pairwise 61 of 78,  21 Thr,    1 R,   78 T,   60 F,   17 Q
+   STOP    61:              Pairwise 61 of 78,  21 Thr,    0 R,   78 T,   61 F,   17 Q  TotalTime= 0h 1.34m  RunTime= 0h 1.34m  CPUload=1993% host=NA
+   START   62:              Pairwise 62 of 78,  21 Thr,    1 R,   78 T,   61 F,   16 Q
+   STOP    62:              Pairwise 62 of 78,  21 Thr,    0 R,   78 T,   62 F,   16 Q  TotalTime= 0h 1.33m  RunTime= 0h 1.33m  CPUload=1975% host=NA
+   START   63:              Pairwise 63 of 78,  21 Thr,    1 R,   78 T,   62 F,   15 Q
+   STOP    63:              Pairwise 63 of 78,  21 Thr,    0 R,   78 T,   63 F,   15 Q  TotalTime= 0h 1.32m  RunTime= 0h 1.32m  CPUload=1983% host=NA
+   START   64:              Pairwise 64 of 78,  21 Thr,    1 R,   78 T,   63 F,   14 Q
+   STOP    64:              Pairwise 64 of 78,  21 Thr,    0 R,   78 T,   64 F,   14 Q  TotalTime= 0h 0.93m  RunTime= 0h 0.93m  CPUload=1964% host=NA
+   START   65:              Pairwise 65 of 78,  21 Thr,    1 R,   78 T,   64 F,   13 Q
+   STOP    65:              Pairwise 65 of 78,  21 Thr,    0 R,   78 T,   65 F,   13 Q  TotalTime= 0h 1.32m  RunTime= 0h 1.32m  CPUload=1994% host=NA
+   START   66:              Pairwise 66 of 78,  21 Thr,    1 R,   78 T,   65 F,   12 Q
+   STOP    66:              Pairwise 66 of 78,  21 Thr,    0 R,   78 T,   66 F,   12 Q  TotalTime= 0h 1.35m  RunTime= 0h 1.35m  CPUload=1986% host=NA
+   START   67:              Pairwise 67 of 78,  21 Thr,    1 R,   78 T,   66 F,   11 Q
+   STOP    67:              Pairwise 67 of 78,  21 Thr,    0 R,   78 T,   67 F,   11 Q  TotalTime= 0h 1.34m  RunTime= 0h 1.34m  CPUload=1991% host=NA
+   START   68:              Pairwise 68 of 78,  21 Thr,    1 R,   78 T,   67 F,   10 Q
+   STOP    68:              Pairwise 68 of 78,  21 Thr,    0 R,   78 T,   68 F,   10 Q  TotalTime= 0h 1.36m  RunTime= 0h 1.36m  CPUload=1980% host=NA
+   START   69:              Pairwise 69 of 78,  21 Thr,    1 R,   78 T,   68 F,    9 Q
+   STOP    69:              Pairwise 69 of 78,  21 Thr,    0 R,   78 T,   69 F,    9 Q  TotalTime= 0h 0.91m  RunTime= 0h 0.91m  CPUload=1966% host=NA
+   START   70:              Pairwise 70 of 78,  21 Thr,    1 R,   78 T,   69 F,    8 Q
+   STOP    70:              Pairwise 70 of 78,  21 Thr,    0 R,   78 T,   70 F,    8 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=1979% host=NA
+   START   71:              Pairwise 71 of 78,  21 Thr,    1 R,   78 T,   70 F,    7 Q
+   STOP    71:              Pairwise 71 of 78,  21 Thr,    0 R,   78 T,   71 F,    7 Q  TotalTime= 0h 1.32m  RunTime= 0h 1.32m  CPUload=1973% host=NA
+   START   72:              Pairwise 72 of 78,  21 Thr,    1 R,   78 T,   71 F,    6 Q
+Pairwise: jobName= Pairwise 73 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 74 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 75 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 76 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 77 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: jobName= Pairwise 78 of 78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+Pairwise: waited 5400.0 seconds for job completion: UnsubmittedJobs= 6, ActiveJobs= 1, FinishedJobs= 71
+   STOP    72:              Pairwise 72 of 78,  21 Thr,    0 R,   78 T,   72 F,    6 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=1987% host=NA
+   START   73:              Pairwise 73 of 78,  21 Thr,    1 R,   78 T,   72 F,    5 Q
+   STOP    73:              Pairwise 73 of 78,  21 Thr,    0 R,   78 T,   73 F,    5 Q  TotalTime= 0h 0.92m  RunTime= 0h 0.92m  CPUload=1986% host=NA
+   START   74:              Pairwise 74 of 78,  21 Thr,    1 R,   78 T,   73 F,    4 Q
+   STOP    74:              Pairwise 74 of 78,  21 Thr,    0 R,   78 T,   74 F,    4 Q  TotalTime= 0h 1.35m  RunTime= 0h 1.35m  CPUload=1988% host=NA
+   START   75:              Pairwise 75 of 78,  21 Thr,    1 R,   78 T,   74 F,    3 Q
+   STOP    75:              Pairwise 75 of 78,  21 Thr,    0 R,   78 T,   75 F,    3 Q  TotalTime= 0h 1.36m  RunTime= 0h 1.36m  CPUload=1991% host=NA
+   START   76:              Pairwise 76 of 78,  21 Thr,    1 R,   78 T,   75 F,    2 Q
+   STOP    76:              Pairwise 76 of 78,  21 Thr,    0 R,   78 T,   76 F,    2 Q  TotalTime= 0h 0.90m  RunTime= 0h 0.90m  CPUload=1989% host=NA
+   START   77:              Pairwise 77 of 78,  21 Thr,    1 R,   78 T,   76 F,    1 Q
+   STOP    77:              Pairwise 77 of 78,  21 Thr,    0 R,   78 T,   77 F,    1 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=1999% host=NA
+   START   78:              Pairwise 78 of 78,  21 Thr,    1 R,   78 T,   77 F,    0 Q
+   STOP    78:              Pairwise 78 of 78,  21 Thr,    0 R,   78 T,   78 F,    0 Q  TotalTime= 0h 0.94m  RunTime= 0h 0.94m  CPUload=1988% host=NA
+ Finished Multi-Threaded Process: Pairwise
+
+Executing stage number 10 : Assembly
+
+ Starting Multi-Threaded Process: Assembly
+  Running 1 jobs with 21 threads, sleepTime=0.01
+   START    1:                       Assembly,  20 Thr,    1 R,    1 T,    0 F,    0 Q
+   STOP     1:                       Assembly,  20 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 8.27m  RunTime= 0h 8.27m  CPUload=750% host=NA
+ Finished Multi-Threaded Process: Assembly
+
+ Starting Multi-Threaded Process: Cmap_Merge_exp_unrefined
+  Running 1 jobs with 1 threads, sleepTime=0.05
+   START    1:            mrg_exp_unrefined_0,   1 Thr,    1 R,    1 T,    0 F,    0 Q
+   STOP     1:            mrg_exp_unrefined_0,   1 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 0.09m  RunTime= 0h 0.09m  CPUload=59% host=NA
+ Finished Multi-Threaded Process: Cmap_Merge_exp_unrefined
+
+Characterize Assembly completed : will check Results
+Characterize Assembly results check completed
+Executing stage number 11 : refineA
+
+refineA maxthreads=  21  minthreads=  21  totalThreads=  21
+Generating Jobs for refineA, varsP.extensionCount=0
+Calling contigComputeWeights with ExtensionNoES= 0
+
+origMaxWeight = 960.00, witr= 0, threads= 21 (totThreads=21, minthreads=21, maxthreads=21)
+
+NumHostJobs= 2, TotalJobs= 21, HostWeight= 2942.24, TargetWeight= 2223.75, TotalWeight= 22237.47
+Found 21 groups for refineA
+ Starting Multi-Threaded Process: refineA
+  Running 21 jobs with 21 threads, sleepTime=0.05
+   START    1:                  refineA     1,  21 Thr,    1 R,   21 T,    0 F,   20 Q
+   STOP     1:                  refineA     1,  21 Thr,    0 R,   21 T,    1 F,   20 Q  TotalTime= 0h 9.71m  RunTime= 0h 9.71m  CPUload=1970% host=NA
+   START    2:                  refineA     2,  21 Thr,    1 R,   21 T,    1 F,   19 Q
+   STOP     2:                  refineA     2,  21 Thr,    0 R,   21 T,    2 F,   19 Q  TotalTime= 0h 8.74m  RunTime= 0h 8.74m  CPUload=1975% host=NA
+   START    3:                  refineA     3,  21 Thr,    1 R,   21 T,    2 F,   18 Q
+   STOP     3:                  refineA     3,  21 Thr,    0 R,   21 T,    3 F,   18 Q  TotalTime= 0h 7.54m  RunTime= 0h 7.55m  CPUload=1970% host=NA
+   START    4:                  refineA     4,  21 Thr,    1 R,   21 T,    3 F,   17 Q
+refineA: jobName= refineA     5 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA     6 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA     7 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA     8 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA     9 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    10 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    11 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    12 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    13 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    14 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    15 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    16 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    17 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    18 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    19 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    20 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    21 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: waited 1800.0 seconds for job completion: UnsubmittedJobs= 17, ActiveJobs= 1, FinishedJobs= 3
+   STOP     4:                  refineA     4,  21 Thr,    0 R,   21 T,    4 F,   17 Q  TotalTime= 0h 7.64m  RunTime= 0h 7.64m  CPUload=1973% host=NA
+   START    5:                  refineA     5,  21 Thr,    1 R,   21 T,    4 F,   16 Q
+   STOP     5:                  refineA     5,  21 Thr,    0 R,   21 T,    5 F,   16 Q  TotalTime= 0h 5.49m  RunTime= 0h 5.49m  CPUload=1955% host=NA
+   START    6:                  refineA     6,  21 Thr,    1 R,   21 T,    5 F,   15 Q
+   STOP     6:                  refineA     6,  21 Thr,    0 R,   21 T,    6 F,   15 Q  TotalTime= 0h 6.18m  RunTime= 0h 6.18m  CPUload=1960% host=NA
+   START    7:                  refineA     7,  21 Thr,    1 R,   21 T,    6 F,   14 Q
+   STOP     7:                  refineA     7,  21 Thr,    0 R,   21 T,    7 F,   14 Q  TotalTime= 0h 5.71m  RunTime= 0h 5.71m  CPUload=1942% host=NA
+   START    8:                  refineA     8,  21 Thr,    1 R,   21 T,    7 F,   13 Q
+   STOP     8:                  refineA     8,  21 Thr,    0 R,   21 T,    8 F,   13 Q  TotalTime= 0h 5.01m  RunTime= 0h 5.01m  CPUload=1936% host=NA
+   START    9:                  refineA     9,  21 Thr,    1 R,   21 T,    8 F,   12 Q
+refineA: jobName= refineA    10 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    11 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    12 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    13 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    14 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    15 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    16 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    17 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    18 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    19 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    20 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: jobName= refineA    21 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineA: waited 3600.0 seconds for job completion: UnsubmittedJobs= 12, ActiveJobs= 1, FinishedJobs= 8
+   STOP     9:                  refineA     9,  21 Thr,    0 R,   21 T,    9 F,   12 Q  TotalTime= 0h 5.43m  RunTime= 0h 5.43m  CPUload=1930% host=NA
+   START   10:                  refineA    10,  21 Thr,    1 R,   21 T,    9 F,   11 Q
+   STOP    10:                  refineA    10,  21 Thr,    0 R,   21 T,   10 F,   11 Q  TotalTime= 0h 3.06m  RunTime= 0h 3.06m  CPUload=1883% host=NA
+   START   11:                  refineA    11,  21 Thr,    1 R,   21 T,   10 F,   10 Q
+   STOP    11:                  refineA    11,  21 Thr,    0 R,   21 T,   11 F,   10 Q  TotalTime= 0h 2.86m  RunTime= 0h 2.86m  CPUload=1794% host=NA
+   START   12:                  refineA    12,  21 Thr,    1 R,   21 T,   11 F,    9 Q
+   STOP    12:                  refineA    12,  21 Thr,    0 R,   21 T,   12 F,    9 Q  TotalTime= 0h 2.23m  RunTime= 0h 2.23m  CPUload=866% host=NA
+   START   13:                  refineA    13,  21 Thr,    1 R,   21 T,   12 F,    8 Q
+   STOP    13:                  refineA    13,  21 Thr,    0 R,   21 T,   13 F,    8 Q  TotalTime= 0h 1.73m  RunTime= 0h 1.73m  CPUload=370% host=NA
+   START   14:                  refineA    14,  21 Thr,    1 R,   21 T,   13 F,    7 Q
+   STOP    14:                  refineA    14,  21 Thr,    0 R,   21 T,   14 F,    7 Q  TotalTime= 0h 1.57m  RunTime= 0h 1.57m  CPUload=330% host=NA
+   START   15:                  refineA    15,  21 Thr,    1 R,   21 T,   14 F,    6 Q
+   STOP    15:                  refineA    15,  21 Thr,    0 R,   21 T,   15 F,    6 Q  TotalTime= 0h 1.50m  RunTime= 0h 1.51m  CPUload=316% host=NA
+   START   16:                  refineA    16,  21 Thr,    1 R,   21 T,   15 F,    5 Q
+   STOP    16:                  refineA    16,  21 Thr,    0 R,   21 T,   16 F,    5 Q  TotalTime= 0h 1.44m  RunTime= 0h 1.44m  CPUload=300% host=NA
+   START   17:                  refineA    17,  21 Thr,    1 R,   21 T,   16 F,    4 Q
+   STOP    17:                  refineA    17,  21 Thr,    0 R,   21 T,   17 F,    4 Q  TotalTime= 0h 1.41m  RunTime= 0h 1.41m  CPUload=298% host=NA
+   START   18:                  refineA    18,  21 Thr,    1 R,   21 T,   17 F,    3 Q
+   STOP    18:                  refineA    18,  21 Thr,    0 R,   21 T,   18 F,    3 Q  TotalTime= 0h 1.32m  RunTime= 0h 1.33m  CPUload=289% host=NA
+   START   19:                  refineA    19,  21 Thr,    1 R,   21 T,   18 F,    2 Q
+   STOP    19:                  refineA    19,  21 Thr,    0 R,   21 T,   19 F,    2 Q  TotalTime= 0h 1.31m  RunTime= 0h 1.31m  CPUload=277% host=NA
+   START   20:                  refineA    20,  21 Thr,    1 R,   21 T,   19 F,    1 Q
+   STOP    20:                  refineA    20,  21 Thr,    0 R,   21 T,   20 F,    1 Q  TotalTime= 0h 1.23m  RunTime= 0h 1.24m  CPUload=274% host=NA
+   START   21:                  refineA    21,  21 Thr,    1 R,   21 T,   20 F,    0 Q
+   STOP    21:                  refineA    21,  21 Thr,    0 R,   21 T,   21 F,    0 Q  TotalTime= 0h 1.02m  RunTime= 0h 1.02m  CPUload=272% host=NA
+ Finished Multi-Threaded Process: refineA
+
+ Starting Multi-Threaded Process: Cmap_Merge_exp_refineA
+  Running 1 jobs with 1 threads, sleepTime=0.05
+   START    1:              mrg_exp_refineA_0,   1 Thr,    1 R,    1 T,    0 F,    0 Q
+   STOP     1:              mrg_exp_refineA_0,   1 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 0.39m  RunTime= 0h 0.40m  CPUload=23% host=NA
+ Finished Multi-Threaded Process: Cmap_Merge_exp_refineA
+
+Executing stage number 12 : refineB0
+
+refineB0 maxthreads=  21  minthreads=  21  totalThreads=  21
+Generating Jobs for refineB0, varsP.extensionCount=0
+Calling contigComputeWeights with ExtensionNoES= 0
+
+origMaxWeight = 90.00, witr= 0, threads= 21 (totThreads=21, minthreads=21, maxthreads=21)
+
+NumHostJobs= 6, TotalJobs= 163, HostWeight= 5305.33, TargetWeight= 2624.75, TotalWeight= 26247.53
+ Starting Multi-Threaded Process: refineB0
+  Running 12 jobs with 21 threads, sleepTime=0.05
+   START    1:                 refineB0     1,  21 Thr,    1 R,   12 T,    0 F,   11 Q
+   STOP     1:                 refineB0     1,  21 Thr,    0 R,   12 T,    1 F,   11 Q  TotalTime= 0h 0.54m  RunTime= 0h 0.54m  CPUload=1335% host=NA
+   START    2:                 refineB0     2,  21 Thr,    1 R,   12 T,    1 F,   10 Q
+   STOP     2:                 refineB0     2,  21 Thr,    0 R,   12 T,    2 F,   10 Q  TotalTime= 0h 0.53m  RunTime= 0h 0.53m  CPUload=1363% host=NA
+   START    3:                 refineB0     3,  21 Thr,    1 R,   12 T,    2 F,    9 Q
+   STOP     3:                 refineB0     3,  21 Thr,    0 R,   12 T,    3 F,    9 Q  TotalTime= 0h 0.53m  RunTime= 0h 0.53m  CPUload=1385% host=NA
+   START    4:                 refineB0     4,  21 Thr,    1 R,   12 T,    3 F,    8 Q
+   STOP     4:                 refineB0     4,  21 Thr,    0 R,   12 T,    4 F,    8 Q  TotalTime= 0h 0.52m  RunTime= 0h 0.52m  CPUload=1384% host=NA
+   START    5:                 refineB0     5,  21 Thr,    1 R,   12 T,    4 F,    7 Q
+   STOP     5:                 refineB0     5,  21 Thr,    0 R,   12 T,    5 F,    7 Q  TotalTime= 0h 0.52m  RunTime= 0h 0.52m  CPUload=1378% host=NA
+   START    6:                 refineB0     6,  21 Thr,    1 R,   12 T,    5 F,    6 Q
+   STOP     6:                 refineB0     6,  21 Thr,    0 R,   12 T,    6 F,    6 Q  TotalTime= 0h 0.54m  RunTime= 0h 0.54m  CPUload=1339% host=NA
+   START    7:                 refineB0     7,  21 Thr,    1 R,   12 T,    6 F,    5 Q
+   STOP     7:                 refineB0     7,  21 Thr,    0 R,   12 T,    7 F,    5 Q  TotalTime= 0h 0.53m  RunTime= 0h 0.53m  CPUload=1380% host=NA
+   START    8:                 refineB0     8,  21 Thr,    1 R,   12 T,    7 F,    4 Q
+   STOP     8:                 refineB0     8,  21 Thr,    0 R,   12 T,    8 F,    4 Q  TotalTime= 0h 0.53m  RunTime= 0h 0.53m  CPUload=1390% host=NA
+   START    9:                 refineB0     9,  21 Thr,    1 R,   12 T,    8 F,    3 Q
+   STOP     9:                 refineB0     9,  21 Thr,    0 R,   12 T,    9 F,    3 Q  TotalTime= 0h 0.52m  RunTime= 0h 0.52m  CPUload=1400% host=NA
+   START   10:                 refineB0    10,  21 Thr,    1 R,   12 T,    9 F,    2 Q
+   STOP    10:                 refineB0    10,  21 Thr,    0 R,   12 T,   10 F,    2 Q  TotalTime= 0h 0.52m  RunTime= 0h 0.52m  CPUload=1400% host=NA
+   START   11:                 refineB0    11,  21 Thr,    1 R,   12 T,   10 F,    1 Q
+   STOP    11:                 refineB0    11,  21 Thr,    0 R,   12 T,   11 F,    1 Q  TotalTime= 0h 0.52m  RunTime= 0h 0.52m  CPUload=1387% host=NA
+   START   12:                 refineB0    12,  21 Thr,    1 R,   12 T,   11 F,    0 Q
+   STOP    12:                 refineB0    12,  21 Thr,    0 R,   12 T,   12 F,    0 Q  TotalTime= 0h 0.53m  RunTime= 0h 0.53m  CPUload=1365% host=NA
+ Finished Multi-Threaded Process: refineB0
+
+Executing stage number 13 : refineB1
+
+refineB1 maxthreads=  21  minthreads=  21  totalThreads=  21
+Generating Jobs for refineB1, varsP.extensionCount=0
+inputContigFolder= /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/contigs/exp_refineB0 , inputContigPrefix= exp_refineB0
+ Starting Multi-Threaded Process: refineB1
+  Running 163 jobs with 21 threads, sleepTime=0.05
+   START    1:                 refineB1     1,  21 Thr,    1 R,  163 T,    0 F,  162 Q
