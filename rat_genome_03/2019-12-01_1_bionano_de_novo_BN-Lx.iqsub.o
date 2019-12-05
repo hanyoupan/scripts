@@ -16843,3 +16843,40 @@ refineB1: jobName= refineB1    65 : Not On Cluster : availableThreads= 0, sJob.m
 refineB1: jobName= refineB1   147 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
 refineB1: jobName= refineB1   163 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
 refineB1: waited 153000.0 seconds for job completion: UnsubmittedJobs= 8, ActiveJobs= 1, FinishedJobs= 154
+   STOP   155:                 refineB1   141,  21 Thr,    0 R,  163 T,  155 F,    8 Q  TotalTime= 0h 6.89m  RunTime= 0h 6.89m  CPUload=1782% host=NA
+   START  156:                 refineB1   127,  21 Thr,    1 R,  163 T,  155 F,    7 Q
+   STOP   156:                 refineB1   127,  21 Thr,    0 R,  163 T,  156 F,    7 Q  TotalTime= 0h 6.25m  RunTime= 0h 6.25m  CPUload=1745% host=NA
+   START  157:                 refineB1   114,  21 Thr,    1 R,  163 T,  156 F,    6 Q
+   STOP   157:                 refineB1   114,  21 Thr,    0 R,  163 T,  157 F,    6 Q  TotalTime= 0h 5.21m  RunTime= 0h 5.21m  CPUload=1734% host=NA
+   START  158:                 refineB1    86,  21 Thr,    1 R,  163 T,  157 F,    5 Q
+   STOP   158:                 refineB1    86,  21 Thr,    0 R,  163 T,  158 F,    5 Q  TotalTime= 0h 4.54m  RunTime= 0h 4.54m  CPUload=1749% host=NA
+   START  159:                 refineB1   100,  21 Thr,    1 R,  163 T,  158 F,    4 Q
+   STOP   159:                 refineB1   100,  21 Thr,    0 R,  163 T,  159 F,    4 Q  TotalTime= 0h 5.65m  RunTime= 0h 5.65m  CPUload=1754% host=NA
+   START  160:                 refineB1    73,  21 Thr,    1 R,  163 T,  159 F,    3 Q
+   STOP   160:                 refineB1    73,  21 Thr,    0 R,  163 T,  160 F,    3 Q  TotalTime= 0h 5.32m  RunTime= 0h 5.32m  CPUload=1790% host=NA
+   START  161:                 refineB1    65,  21 Thr,    1 R,  163 T,  160 F,    2 Q
+refineB1: jobName= refineB1   147 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   163 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: waited 154800.0 seconds for job completion: UnsubmittedJobs= 2, ActiveJobs= 1, FinishedJobs= 160
+   STOP   161:                 refineB1    65,  21 Thr,    0 R,  163 T,  161 F,    2 Q  TotalTime= 0h 5.19m  RunTime= 0h 5.19m  CPUload=1810% host=NA
+   START  162:                 refineB1   147,  21 Thr,    1 R,  163 T,  161 F,    1 Q
+   STOP   162:                 refineB1   147,  21 Thr,    0 R,  163 T,  162 F,    1 Q  TotalTime= 0h 6.31m  RunTime= 0h 6.31m  CPUload=1741% host=NA
+   START  163:                 refineB1   163,  21 Thr,    1 R,  163 T,  162 F,    0 Q
+   STOP   163:                 refineB1   163,  21 Thr,    0 R,  163 T,  163 F,    0 Q  TotalTime= 0h 4.64m  RunTime= 0h 4.64m  CPUload=1717% host=NA
+ Finished Multi-Threaded Process: refineB1
+
+ Starting Multi-Threaded Process: Cmap_Merge_exp_refineB1
+  Running 1 jobs with 1 threads, sleepTime=0.05
+   START    1:             mrg_exp_refineB1_0,   1 Thr,    1 R,    1 T,    0 F,    0 Q
+   STOP     1:             mrg_exp_refineB1_0,   1 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 1.20m  RunTime= 0h 1.27m  CPUload=11% host=NA
+ Finished Multi-Threaded Process: Cmap_Merge_exp_refineB1
+
+Characterize refineB1 completed : will check ResultsExecuting stage number 14 : Merge0
+
+
+merge: prefPrefix= exp_refineB1, curPrefix= exp_mrg0 
+extensionCount= 0 : Adding firstMerge args
+Characterize refineB1 results check completed
+ Starting Multi-Threaded Process: Merge0
+  Running 1 jobs with 21 threads, sleepTime=0.05
+   START    1:                         Merge0,  20 Thr,    1 R,    1 T,    0 F,    0 Q
