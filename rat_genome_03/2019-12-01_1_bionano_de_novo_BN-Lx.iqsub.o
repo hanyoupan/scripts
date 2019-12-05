@@ -16476,3 +16476,220 @@ refineB1: waited 136800.0 seconds for job completion: UnsubmittedJobs= 58, Activ
    START  108:                 refineB1    81,  21 Thr,    1 R,  163 T,  107 F,   55 Q
    STOP   108:                 refineB1    81,  21 Thr,    0 R,  163 T,  108 F,   55 Q  TotalTime= 0h 4.58m  RunTime= 0h 4.58m  CPUload=1739% host=NA
    START  109:                 refineB1   123,  21 Thr,    1 R,  163 T,  108 F,   54 Q
+   STOP   109:                 refineB1   123,  21 Thr,    0 R,  163 T,  109 F,   54 Q  TotalTime= 0h 5.65m  RunTime= 0h 5.65m  CPUload=1781% host=NA
+   START  110:                 refineB1   132,  21 Thr,    1 R,  163 T,  109 F,   53 Q
+   STOP   110:                 refineB1   132,  21 Thr,    0 R,  163 T,  110 F,   53 Q  TotalTime= 0h 5.94m  RunTime= 0h 5.94m  CPUload=1751% host=NA
+   START  111:                 refineB1    95,  21 Thr,    1 R,  163 T,  110 F,   52 Q
+refineB1: jobName= refineB1    70 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   149 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    82 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   109 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   150 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   151 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   152 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   153 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   154 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   155 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   156 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   157 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   158 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   159 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   160 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   161 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   162 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    55 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   124 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    96 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   145 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   133 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   110 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   139 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    83 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    71 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   125 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    97 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   111 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    64 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    84 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   134 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   112 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   126 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    72 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   140 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    98 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   146 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    59 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   113 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    85 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    99 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   135 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   141 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   127 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   114 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    86 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   100 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    73 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    65 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   147 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   163 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: waited 138600.0 seconds for job completion: UnsubmittedJobs= 52, ActiveJobs= 1, FinishedJobs= 110
+   STOP   111:                 refineB1    95,  21 Thr,    0 R,  163 T,  111 F,   52 Q  TotalTime= 0h 4.35m  RunTime= 0h 4.35m  CPUload=1725% host=NA
+   START  112:                 refineB1    70,  21 Thr,    1 R,  163 T,  111 F,   51 Q
+   STOP   112:                 refineB1    70,  21 Thr,    0 R,  163 T,  112 F,   51 Q  TotalTime= 0h 5.80m  RunTime= 0h 5.80m  CPUload=1815% host=NA
+   START  113:                 refineB1   149,  21 Thr,    1 R,  163 T,  112 F,   50 Q
+   STOP   113:                 refineB1   149,  21 Thr,    0 R,  163 T,  113 F,   50 Q  TotalTime= 0h 4.95m  RunTime= 0h 4.95m  CPUload=1744% host=NA
+   START  114:                 refineB1    82,  21 Thr,    1 R,  163 T,  113 F,   49 Q
+   STOP   114:                 refineB1    82,  21 Thr,    0 R,  163 T,  114 F,   49 Q  TotalTime= 0h 4.55m  RunTime= 0h 4.55m  CPUload=1754% host=NA
+   START  115:                 refineB1   109,  21 Thr,    1 R,  163 T,  114 F,   48 Q
+   STOP   115:                 refineB1   109,  21 Thr,    0 R,  163 T,  115 F,   48 Q  TotalTime= 0h 5.07m  RunTime= 0h 5.07m  CPUload=1747% host=NA
+   START  116:                 refineB1   150,  21 Thr,    1 R,  163 T,  115 F,   47 Q
+   STOP   116:                 refineB1   150,  21 Thr,    0 R,  163 T,  116 F,   47 Q  TotalTime= 0h 4.41m  RunTime= 0h 4.41m  CPUload=1704% host=NA
+   START  117:                 refineB1   151,  21 Thr,    1 R,  163 T,  116 F,   46 Q
+refineB1: jobName= refineB1   152 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   153 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   154 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   155 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   156 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   157 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   158 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   159 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   160 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   161 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   162 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    55 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   124 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    96 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   145 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   133 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   110 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   139 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    83 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    71 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   125 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    97 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   111 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    64 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    84 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   134 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   112 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   126 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    72 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   140 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    98 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   146 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    59 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   113 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    85 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    99 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   135 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   141 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   127 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   114 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    86 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   100 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    73 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    65 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   147 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   163 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: waited 140400.0 seconds for job completion: UnsubmittedJobs= 46, ActiveJobs= 1, FinishedJobs= 116
+   STOP   117:                 refineB1   151,  21 Thr,    0 R,  163 T,  117 F,   46 Q  TotalTime= 0h 6.44m  RunTime= 0h 6.44m  CPUload=1750% host=NA
+   START  118:                 refineB1   152,  21 Thr,    1 R,  163 T,  117 F,   45 Q
+   STOP   118:                 refineB1   152,  21 Thr,    0 R,  163 T,  118 F,   45 Q  TotalTime= 0h 6.25m  RunTime= 0h 6.25m  CPUload=1761% host=NA
+   START  119:                 refineB1   153,  21 Thr,    1 R,  163 T,  118 F,   44 Q
+   STOP   119:                 refineB1   153,  21 Thr,    0 R,  163 T,  119 F,   44 Q  TotalTime= 0h 4.62m  RunTime= 0h 4.62m  CPUload=1668% host=NA
+   START  120:                 refineB1   154,  21 Thr,    1 R,  163 T,  119 F,   43 Q
+   STOP   120:                 refineB1   154,  21 Thr,    0 R,  163 T,  120 F,   43 Q  TotalTime= 0h 4.96m  RunTime= 0h 4.96m  CPUload=1699% host=NA
+   START  121:                 refineB1   155,  21 Thr,    1 R,  163 T,  120 F,   42 Q
+   STOP   121:                 refineB1   155,  21 Thr,    0 R,  163 T,  121 F,   42 Q  TotalTime= 0h 4.77m  RunTime= 0h 4.77m  CPUload=1737% host=NA
+   START  122:                 refineB1   156,  21 Thr,    1 R,  163 T,  121 F,   41 Q
+   STOP   122:                 refineB1   156,  21 Thr,    0 R,  163 T,  122 F,   41 Q  TotalTime= 0h 4.07m  RunTime= 0h 4.08m  CPUload=1635% host=NA
+   START  123:                 refineB1   157,  21 Thr,    1 R,  163 T,  122 F,   40 Q
+refineB1: jobName= refineB1   158 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   159 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   160 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   161 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   162 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    55 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   124 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    96 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   145 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   133 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   110 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   139 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    83 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    71 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   125 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    97 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   111 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    64 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    84 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   134 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   112 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   126 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    72 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   140 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    98 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   146 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    59 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   113 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    85 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    99 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   135 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   141 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   127 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   114 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    86 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   100 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    73 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    65 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   147 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   163 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: waited 142200.0 seconds for job completion: UnsubmittedJobs= 40, ActiveJobs= 1, FinishedJobs= 122
+   STOP   123:                 refineB1   157,  21 Thr,    0 R,  163 T,  123 F,   40 Q  TotalTime= 0h 4.72m  RunTime= 0h 4.72m  CPUload=1712% host=NA
+   START  124:                 refineB1   158,  21 Thr,    1 R,  163 T,  123 F,   39 Q
+   STOP   124:                 refineB1   158,  21 Thr,    0 R,  163 T,  124 F,   39 Q  TotalTime= 0h 5.30m  RunTime= 0h 5.30m  CPUload=1709% host=NA
+   START  125:                 refineB1   159,  21 Thr,    1 R,  163 T,  124 F,   38 Q
+   STOP   125:                 refineB1   159,  21 Thr,    0 R,  163 T,  125 F,   38 Q  TotalTime= 0h 5.12m  RunTime= 0h 5.12m  CPUload=1721% host=NA
+   START  126:                 refineB1   160,  21 Thr,    1 R,  163 T,  125 F,   37 Q
+   STOP   126:                 refineB1   160,  21 Thr,    0 R,  163 T,  126 F,   37 Q  TotalTime= 0h 4.04m  RunTime= 0h 4.04m  CPUload=1674% host=NA
+   START  127:                 refineB1   161,  21 Thr,    1 R,  163 T,  126 F,   36 Q
+   STOP   127:                 refineB1   161,  21 Thr,    0 R,  163 T,  127 F,   36 Q  TotalTime= 0h 5.01m  RunTime= 0h 5.01m  CPUload=1752% host=NA
+   START  128:                 refineB1   162,  21 Thr,    1 R,  163 T,  127 F,   35 Q
+refineB1: jobName= refineB1    55 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   124 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    96 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   145 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   133 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   110 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   139 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    83 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    71 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   125 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    97 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   111 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    64 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    84 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   134 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   112 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   126 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    72 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   140 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    98 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   146 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    59 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   113 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    85 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    99 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   135 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   141 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   127 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   114 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    86 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   100 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    73 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1    65 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   147 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: jobName= refineB1   163 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineB1: waited 144000.0 seconds for job completion: UnsubmittedJobs= 35, ActiveJobs= 1, FinishedJobs= 127
+   STOP   128:                 refineB1   162,  21 Thr,    0 R,  163 T,  128 F,   35 Q  TotalTime= 0h 7.13m  RunTime= 0h 7.13m  CPUload=1784% host=NA
+   START  129:                 refineB1    55,  21 Thr,    1 R,  163 T,  128 F,   34 Q
