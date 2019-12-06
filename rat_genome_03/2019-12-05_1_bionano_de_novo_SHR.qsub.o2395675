@@ -1925,3 +1925,5 @@ refineB1: jobName= refineB1    50 : Not On Cluster : availableThreads= 0, sJob.m
 refineB1: jobName= refineB1    42 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 39 (skipping)
 refineB1: jobName= refineB1    57 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 39 (skipping)
 refineB1: waited 34200.0 seconds for job completion: UnsubmittedJobs= 50, ActiveJobs= 1, FinishedJobs= 6
+   STOP     7:                 refineB1     7,  39 Thr,    0 R,   57 T,    7 F,   50 Q  TotalTime= 1h 4.33m  RunTime= 1h 4.34m  CPUload=3678% host=NA
+   START    8:                 refineB1     8,  39 Thr,    1 R,   57 T,    7 F,   49 Q
