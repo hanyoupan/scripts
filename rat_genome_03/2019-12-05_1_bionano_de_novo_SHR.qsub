@@ -1,4 +1,12 @@
-qsub -I -A ACF-UTHSC0013 -l nodes=1:ppn=40,walltime=140:00:00 -m abe -M hanyou@umich.edu -l partition=general,feature=skylake
+#!/bin/bash                                                                                                                                               
+
+#PBS -S /bin/bash                                                                                                                                          
+#PBS -A ACF-UTHSC0013                                                                                                                                      
+#PBS -l nodes=1:ppn=40,walltime=140:00:00                                                                                                
+#PBS -m abe                                                                                                                                                
+#PBS -M hanyou@umich.edu                                                                                                                                   
+#PBS -j oe                                                                                                                                                 
+#PBS -l partition=general,feature=skylake                                                                                                                   
 
 cd
 . .bashrc
@@ -6,8 +14,9 @@ conda activate bionano
 
 mkdir -p /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/SHR
 python /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/Pipeline/09262019/pipelineCL.py \
--T 76 \
--j 76 \
+-T 39 \
+-J 39 \
+-j 39 \
 -N 4 \
 -f 0.2 \
 -i 5 \
@@ -16,11 +25,6 @@ python /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262
 -t /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel \
 -a /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/optArguments_nonhaplotype_DLE1_saphyr.xml \
 -l /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/SHR \
--J 76 \
--R \
--V 0 \
--m > ~/scripts/rat_genome_03/2019-12-02_3_bionano_de_novo_SHR.iqsub.o 2>&1
-
-
+-R
 
 
