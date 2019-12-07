@@ -23522,3 +23522,1356 @@ refineFinal1: jobName= refineFinal1   171 : Not On Cluster : availableThreads= 0
 refineFinal1: waited 57600.0 seconds for job completion: UnsubmittedJobs= 149, ActiveJobs= 1, FinishedJobs= 21
    STOP    22:             refineFinal1    22,  21 Thr,    0 R,  171 T,   22 F,  149 Q  TotalTime= 0h 19.56m  RunTime= 0h 19.57m  CPUload=2039% host=NA
    START   23:             refineFinal1    23,  21 Thr,    1 R,  171 T,   22 F,  148 Q
+   STOP    23:             refineFinal1    23,  21 Thr,    0 R,  171 T,   23 F,  148 Q  TotalTime= 0h 20.50m  RunTime= 0h 20.50m  CPUload=2037% host=NA
+   START   24:             refineFinal1    24,  21 Thr,    1 R,  171 T,   23 F,  147 Q
+refineFinal1: jobName= refineFinal1    25 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    26 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    27 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    28 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    29 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    30 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    31 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    32 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    33 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    34 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    35 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    36 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    37 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    38 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    39 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    40 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    41 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    42 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    43 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    44 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    64 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    45 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    65 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    46 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    66 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    67 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    47 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    68 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    48 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    69 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    49 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   119 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    70 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   120 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   121 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   122 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   123 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    71 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   124 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    72 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   125 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    50 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   126 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   127 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   128 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   129 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    73 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    51 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   130 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    74 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   131 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    52 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    75 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   132 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   133 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    76 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   134 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    53 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   135 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   136 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   137 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   138 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    77 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   139 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   140 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   141 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   142 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    79 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    54 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    55 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    56 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   143 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    80 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   144 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   145 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    81 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    57 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    82 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   146 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   147 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    83 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    84 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   148 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    85 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   149 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    86 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    87 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    88 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    89 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   150 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    90 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   151 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    58 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    59 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   152 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    91 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    92 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    60 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   153 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   154 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   155 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   156 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   157 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   158 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   159 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   160 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   161 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   162 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   163 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   164 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   165 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   166 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   167 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   168 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   169 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   170 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    61 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    93 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    94 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    95 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    96 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    97 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    98 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    99 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   100 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   101 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   102 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   103 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   104 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   105 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   106 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   107 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    62 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   108 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   109 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   110 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   111 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   112 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    63 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   113 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   114 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   115 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   116 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   117 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   118 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   171 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: waited 59400.0 seconds for job completion: UnsubmittedJobs= 147, ActiveJobs= 1, FinishedJobs= 23
+   STOP    24:             refineFinal1    24,  21 Thr,    0 R,  171 T,   24 F,  147 Q  TotalTime= 0h 20.33m  RunTime= 0h 20.34m  CPUload=2037% host=NA
+   START   25:             refineFinal1    25,  21 Thr,    1 R,  171 T,   24 F,  146 Q
+refineFinal1: jobName= refineFinal1    26 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    27 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    28 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    29 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    30 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    31 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    32 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    33 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    34 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    35 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    36 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    37 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    38 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    39 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    40 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    41 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    42 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    43 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    44 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    64 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    45 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    65 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    46 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    66 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    67 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    47 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    68 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    48 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    69 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    49 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   119 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    70 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   120 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   121 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   122 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   123 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    71 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   124 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    72 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   125 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    50 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   126 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   127 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   128 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   129 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    73 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    51 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   130 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    74 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   131 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    52 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    75 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   132 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   133 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    76 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   134 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    53 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   135 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   136 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   137 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   138 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    77 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   139 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   140 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   141 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   142 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    79 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    54 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    55 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    56 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   143 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    80 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   144 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   145 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    81 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    57 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    82 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   146 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   147 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    83 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    84 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   148 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    85 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   149 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    86 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    87 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    88 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    89 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   150 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    90 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   151 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    58 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    59 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   152 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    91 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    92 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    60 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   153 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   154 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   155 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   156 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   157 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   158 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   159 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   160 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   161 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   162 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   163 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   164 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   165 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   166 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   167 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   168 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   169 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   170 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    61 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    93 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    94 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    95 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    96 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    97 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    98 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    99 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   100 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   101 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   102 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   103 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   104 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   105 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   106 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   107 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    62 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   108 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   109 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   110 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   111 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   112 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    63 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   113 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   114 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   115 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   116 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   117 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   118 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   171 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: waited 61200.0 seconds for job completion: UnsubmittedJobs= 146, ActiveJobs= 1, FinishedJobs= 24
+   STOP    25:             refineFinal1    25,  21 Thr,    0 R,  171 T,   25 F,  146 Q  TotalTime= 0h 18.28m  RunTime= 0h 18.28m  CPUload=2040% host=NA
+   START   26:             refineFinal1    26,  21 Thr,    1 R,  171 T,   25 F,  145 Q
+   STOP    26:             refineFinal1    26,  21 Thr,    0 R,  171 T,   26 F,  145 Q  TotalTime= 0h 17.42m  RunTime= 0h 17.42m  CPUload=2035% host=NA
+   START   27:             refineFinal1    27,  21 Thr,    1 R,  171 T,   26 F,  144 Q
+refineFinal1: jobName= refineFinal1    28 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    29 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    30 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    31 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    32 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    33 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    34 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    35 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    36 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    37 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    38 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    39 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    40 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    41 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    42 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    43 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    44 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    64 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    45 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    65 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    46 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    66 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    67 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    47 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    68 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    48 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    69 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    49 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   119 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    70 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   120 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   121 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   122 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   123 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    71 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   124 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    72 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   125 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    50 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   126 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   127 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   128 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   129 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    73 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    51 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   130 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    74 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   131 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    52 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    75 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   132 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   133 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    76 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   134 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    53 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   135 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   136 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   137 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   138 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    77 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   139 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   140 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   141 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   142 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    79 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    54 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    55 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    56 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   143 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    80 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   144 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   145 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    81 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    57 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    82 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   146 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   147 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    83 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    84 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   148 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    85 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   149 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    86 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    87 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    88 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    89 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   150 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    90 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   151 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    58 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    59 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   152 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    91 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    92 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    60 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   153 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   154 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   155 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   156 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   157 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   158 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   159 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   160 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   161 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   162 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   163 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   164 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   165 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   166 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   167 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   168 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   169 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   170 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    61 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    93 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    94 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    95 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    96 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    97 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    98 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    99 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   100 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   101 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   102 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   103 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   104 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   105 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   106 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   107 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    62 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   108 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   109 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   110 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   111 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   112 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    63 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   113 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   114 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   115 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   116 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   117 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   118 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   171 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: waited 63000.0 seconds for job completion: UnsubmittedJobs= 144, ActiveJobs= 1, FinishedJobs= 26
+   STOP    27:             refineFinal1    27,  21 Thr,    0 R,  171 T,   27 F,  144 Q  TotalTime= 0h 14.80m  RunTime= 0h 14.80m  CPUload=2033% host=NA
+   START   28:             refineFinal1    28,  21 Thr,    1 R,  171 T,   27 F,  143 Q
+   STOP    28:             refineFinal1    28,  21 Thr,    0 R,  171 T,   28 F,  143 Q  TotalTime= 0h 10.25m  RunTime= 0h 10.25m  CPUload=2029% host=NA
+   START   29:             refineFinal1    29,  21 Thr,    1 R,  171 T,   28 F,  142 Q
+   STOP    29:             refineFinal1    29,  21 Thr,    0 R,  171 T,   29 F,  142 Q  TotalTime= 0h 12.30m  RunTime= 0h 12.30m  CPUload=2035% host=NA
+   START   30:             refineFinal1    30,  21 Thr,    1 R,  171 T,   29 F,  141 Q
+refineFinal1: jobName= refineFinal1    31 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    32 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    33 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    34 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    35 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    36 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    37 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    38 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    39 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    40 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    41 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    42 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    43 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    44 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    64 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    45 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    65 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    46 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    66 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    67 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    47 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    68 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    48 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    69 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    49 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   119 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    70 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   120 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   121 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   122 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   123 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    71 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   124 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    72 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   125 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    50 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   126 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   127 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   128 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   129 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    73 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    51 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   130 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    74 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   131 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    52 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    75 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   132 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   133 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    76 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   134 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    53 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   135 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   136 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   137 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   138 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    77 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   139 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   140 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   141 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   142 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    79 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    54 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    55 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    56 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   143 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    80 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   144 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   145 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    81 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    57 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    82 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   146 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   147 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    83 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    84 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   148 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    85 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   149 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    86 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    87 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    88 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    89 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   150 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    90 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   151 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    58 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    59 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   152 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    91 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    92 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    60 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   153 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   154 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   155 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   156 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   157 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   158 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   159 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   160 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   161 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   162 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   163 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   164 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   165 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   166 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   167 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   168 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   169 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   170 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    61 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    93 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    94 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    95 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    96 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    97 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    98 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    99 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   100 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   101 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   102 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   103 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   104 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   105 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   106 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   107 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    62 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   108 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   109 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   110 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   111 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   112 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    63 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   113 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   114 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   115 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   116 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   117 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   118 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   171 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: waited 64800.0 seconds for job completion: UnsubmittedJobs= 141, ActiveJobs= 1, FinishedJobs= 29
+   STOP    30:             refineFinal1    30,  21 Thr,    0 R,  171 T,   30 F,  141 Q  TotalTime= 0h 10.97m  RunTime= 0h 10.97m  CPUload=2034% host=NA
+   START   31:             refineFinal1    31,  21 Thr,    1 R,  171 T,   30 F,  140 Q
+   STOP    31:             refineFinal1    31,  21 Thr,    0 R,  171 T,   31 F,  140 Q  TotalTime= 0h 7.23m  RunTime= 0h 7.23m  CPUload=2032% host=NA
+   START   32:             refineFinal1    32,  21 Thr,    1 R,  171 T,   31 F,  139 Q
+   STOP    32:             refineFinal1    32,  21 Thr,    0 R,  171 T,   32 F,  139 Q  TotalTime= 0h 8.57m  RunTime= 0h 8.57m  CPUload=2038% host=NA
+   START   33:             refineFinal1    33,  21 Thr,    1 R,  171 T,   32 F,  138 Q
+refineFinal1: jobName= refineFinal1    34 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    35 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    36 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    37 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    38 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    39 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    40 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    41 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    42 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    43 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    44 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    64 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    45 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    65 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    46 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    66 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    67 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    47 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    68 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    48 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    69 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    49 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   119 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    70 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   120 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   121 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   122 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   123 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    71 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   124 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    72 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   125 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    50 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   126 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   127 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   128 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   129 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    73 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    51 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   130 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    74 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   131 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    52 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    75 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   132 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   133 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    76 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   134 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    53 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   135 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   136 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   137 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   138 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    77 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   139 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   140 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   141 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   142 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    79 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    54 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    55 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    56 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   143 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    80 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   144 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   145 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    81 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    57 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    82 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   146 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   147 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    83 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    84 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   148 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    85 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   149 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    86 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    87 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    88 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    89 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   150 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    90 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   151 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    58 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    59 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   152 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    91 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    92 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    60 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   153 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   154 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   155 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   156 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   157 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   158 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   159 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   160 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   161 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   162 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   163 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   164 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   165 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   166 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   167 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   168 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   169 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   170 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    61 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    93 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    94 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    95 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    96 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    97 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    98 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    99 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   100 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   101 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   102 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   103 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   104 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   105 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   106 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   107 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    62 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   108 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   109 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   110 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   111 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   112 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    63 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   113 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   114 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   115 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   116 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   117 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   118 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   171 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: waited 66600.0 seconds for job completion: UnsubmittedJobs= 138, ActiveJobs= 1, FinishedJobs= 32
+   STOP    33:             refineFinal1    33,  21 Thr,    0 R,  171 T,   33 F,  138 Q  TotalTime= 0h 9.38m  RunTime= 0h 9.38m  CPUload=2039% host=NA
+   START   34:             refineFinal1    34,  21 Thr,    1 R,  171 T,   33 F,  137 Q
+   STOP    34:             refineFinal1    34,  21 Thr,    0 R,  171 T,   34 F,  137 Q  TotalTime= 0h 7.70m  RunTime= 0h 7.70m  CPUload=2036% host=NA
+   START   35:             refineFinal1    35,  21 Thr,    1 R,  171 T,   34 F,  136 Q
+   STOP    35:             refineFinal1    35,  21 Thr,    0 R,  171 T,   35 F,  136 Q  TotalTime= 0h 8.31m  RunTime= 0h 8.32m  CPUload=2029% host=NA
+   START   36:             refineFinal1    36,  21 Thr,    1 R,  171 T,   35 F,  135 Q
+   STOP    36:             refineFinal1    36,  21 Thr,    0 R,  171 T,   36 F,  135 Q  TotalTime= 0h 3.41m  RunTime= 0h 3.41m  CPUload=2015% host=NA
+   START   37:             refineFinal1    37,  21 Thr,    1 R,  171 T,   36 F,  134 Q
+   STOP    37:             refineFinal1    37,  21 Thr,    0 R,  171 T,   37 F,  134 Q  TotalTime= 0h 3.48m  RunTime= 0h 3.48m  CPUload=2003% host=NA
+   START   38:             refineFinal1    38,  21 Thr,    1 R,  171 T,   37 F,  133 Q
+   STOP    38:             refineFinal1    38,  21 Thr,    0 R,  171 T,   38 F,  133 Q  TotalTime= 0h 3.45m  RunTime= 0h 3.45m  CPUload=2015% host=NA
+   START   39:             refineFinal1    39,  21 Thr,    1 R,  171 T,   38 F,  132 Q
+refineFinal1: jobName= refineFinal1    40 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    41 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    42 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    43 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    44 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    64 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    45 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    65 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    46 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    66 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    67 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    47 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    68 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    48 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    69 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    49 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   119 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    70 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   120 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   121 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   122 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   123 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    71 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   124 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    72 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   125 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    50 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   126 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   127 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   128 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   129 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    73 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    51 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   130 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    74 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   131 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    52 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    75 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   132 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   133 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    76 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   134 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    53 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   135 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   136 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   137 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   138 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    77 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   139 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   140 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   141 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   142 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    79 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    54 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    55 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    56 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   143 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    80 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   144 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   145 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    81 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    57 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    82 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   146 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   147 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    83 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    84 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   148 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    85 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   149 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    86 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    87 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    88 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    89 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   150 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    90 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   151 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    58 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    59 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   152 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    91 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    92 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    60 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   153 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   154 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   155 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   156 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   157 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   158 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   159 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   160 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   161 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   162 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   163 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   164 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   165 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   166 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   167 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   168 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   169 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   170 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    61 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    93 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    94 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    95 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    96 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    97 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    98 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    99 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   100 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   101 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   102 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   103 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   104 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   105 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   106 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   107 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    62 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   108 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   109 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   110 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   111 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   112 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    63 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   113 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   114 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   115 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   116 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   117 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   118 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   171 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: waited 68400.0 seconds for job completion: UnsubmittedJobs= 132, ActiveJobs= 1, FinishedJobs= 38
+   STOP    39:             refineFinal1    39,  21 Thr,    0 R,  171 T,   39 F,  132 Q  TotalTime= 0h 5.54m  RunTime= 0h 5.54m  CPUload=2028% host=NA
+   START   40:             refineFinal1    40,  21 Thr,    1 R,  171 T,   39 F,  131 Q
+   STOP    40:             refineFinal1    40,  21 Thr,    0 R,  171 T,   40 F,  131 Q  TotalTime= 0h 4.59m  RunTime= 0h 4.59m  CPUload=2025% host=NA
+   START   41:             refineFinal1    41,  21 Thr,    1 R,  171 T,   40 F,  130 Q
+   STOP    41:             refineFinal1    41,  21 Thr,    0 R,  171 T,   41 F,  130 Q  TotalTime= 0h 4.48m  RunTime= 0h 4.48m  CPUload=2016% host=NA
+   START   42:             refineFinal1    42,  21 Thr,    1 R,  171 T,   41 F,  129 Q
+   STOP    42:             refineFinal1    42,  21 Thr,    0 R,  171 T,   42 F,  129 Q  TotalTime= 0h 2.14m  RunTime= 0h 2.14m  CPUload=1952% host=NA
+   START   43:             refineFinal1    43,  21 Thr,    1 R,  171 T,   42 F,  128 Q
+   STOP    43:             refineFinal1    43,  21 Thr,    0 R,  171 T,   43 F,  128 Q  TotalTime= 0h 2.15m  RunTime= 0h 2.15m  CPUload=2027% host=NA
+   START   44:             refineFinal1    44,  21 Thr,    1 R,  171 T,   43 F,  127 Q
+   STOP    44:             refineFinal1    44,  21 Thr,    0 R,  171 T,   44 F,  127 Q  TotalTime= 0h 1.13m  RunTime= 0h 1.13m  CPUload=1992% host=NA
+   START   45:             refineFinal1    64,  21 Thr,    1 R,  171 T,   44 F,  126 Q
+   STOP    45:             refineFinal1    64,  21 Thr,    0 R,  171 T,   45 F,  126 Q  TotalTime= 0h 0.51m  RunTime= 0h 0.51m  CPUload=1864% host=NA
+   START   46:             refineFinal1    45,  21 Thr,    1 R,  171 T,   45 F,  125 Q
+   STOP    46:             refineFinal1    45,  21 Thr,    0 R,  171 T,   46 F,  125 Q  TotalTime= 0h 1.55m  RunTime= 0h 1.55m  CPUload=2021% host=NA
+   START   47:             refineFinal1    65,  21 Thr,    1 R,  171 T,   46 F,  124 Q
+   STOP    47:             refineFinal1    65,  21 Thr,    0 R,  171 T,   47 F,  124 Q  TotalTime= 0h 0.91m  RunTime= 0h 0.91m  CPUload=1944% host=NA
+   START   48:             refineFinal1    46,  21 Thr,    1 R,  171 T,   47 F,  123 Q
+   STOP    48:             refineFinal1    46,  21 Thr,    0 R,  171 T,   48 F,  123 Q  TotalTime= 0h 0.78m  RunTime= 0h 0.78m  CPUload=1976% host=NA
+   START   49:             refineFinal1    66,  21 Thr,    1 R,  171 T,   48 F,  122 Q
+   STOP    49:             refineFinal1    66,  21 Thr,    0 R,  171 T,   49 F,  122 Q  TotalTime= 0h 0.70m  RunTime= 0h 0.70m  CPUload=1892% host=NA
+   START   50:             refineFinal1    67,  21 Thr,    1 R,  171 T,   49 F,  121 Q
+   STOP    50:             refineFinal1    67,  21 Thr,    0 R,  171 T,   50 F,  121 Q  TotalTime= 0h 0.48m  RunTime= 0h 0.48m  CPUload=1842% host=NA
+   START   51:             refineFinal1    47,  21 Thr,    1 R,  171 T,   50 F,  120 Q
+   STOP    51:             refineFinal1    47,  21 Thr,    0 R,  171 T,   51 F,  120 Q  TotalTime= 0h 1.23m  RunTime= 0h 1.23m  CPUload=1992% host=NA
+   START   52:             refineFinal1    68,  21 Thr,    1 R,  171 T,   51 F,  119 Q
+   STOP    52:             refineFinal1    68,  21 Thr,    0 R,  171 T,   52 F,  119 Q  TotalTime= 0h 1.07m  RunTime= 0h 1.07m  CPUload=1932% host=NA
+   START   53:             refineFinal1    48,  21 Thr,    1 R,  171 T,   52 F,  118 Q
+   STOP    53:             refineFinal1    48,  21 Thr,    0 R,  171 T,   53 F,  118 Q  TotalTime= 0h 1.26m  RunTime= 0h 1.26m  CPUload=2010% host=NA
+   START   54:             refineFinal1    69,  21 Thr,    1 R,  171 T,   53 F,  117 Q
+   STOP    54:             refineFinal1    69,  21 Thr,    0 R,  171 T,   54 F,  117 Q  TotalTime= 0h 0.43m  RunTime= 0h 0.43m  CPUload=1811% host=NA
+   START   55:             refineFinal1    49,  21 Thr,    1 R,  171 T,   54 F,  116 Q
+   STOP    55:             refineFinal1    49,  21 Thr,    0 R,  171 T,   55 F,  116 Q  TotalTime= 0h 0.25m  RunTime= 0h 0.25m  CPUload=1261% host=NA
+   START   56:             refineFinal1   119,  21 Thr,    1 R,  171 T,   55 F,  115 Q
+   STOP    56:             refineFinal1   119,  21 Thr,    0 R,  171 T,   56 F,  115 Q  TotalTime= 0h 0.44m  RunTime= 0h 0.44m  CPUload=1717% host=NA
+   START   57:             refineFinal1    70,  21 Thr,    1 R,  171 T,   56 F,  114 Q
+   STOP    57:             refineFinal1    70,  21 Thr,    0 R,  171 T,   57 F,  114 Q  TotalTime= 0h 0.57m  RunTime= 0h 0.57m  CPUload=1849% host=NA
+   START   58:             refineFinal1   120,  21 Thr,    1 R,  171 T,   57 F,  113 Q
+refineFinal1: jobName= refineFinal1   121 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   122 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   123 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    71 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   124 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    72 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   125 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    50 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   126 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   127 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   128 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   129 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    73 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    51 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   130 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    74 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   131 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    52 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    75 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   132 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   133 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    76 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   134 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    53 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   135 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   136 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   137 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   138 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    77 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   139 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   140 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    78 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   141 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   142 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    79 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    54 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    55 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    56 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   143 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    80 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   144 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   145 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    81 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    57 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    82 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   146 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   147 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    83 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    84 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   148 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    85 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   149 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    86 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    87 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    88 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    89 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   150 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    90 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   151 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    58 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    59 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   152 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    91 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    92 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    60 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   153 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   154 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   155 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   156 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   157 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   158 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   159 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   160 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   161 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   162 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   163 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   164 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   165 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   166 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   167 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   168 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   169 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   170 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    61 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    93 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    94 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    95 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    96 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    97 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    98 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    99 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   100 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   101 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   102 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   103 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   104 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   105 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   106 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   107 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    62 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   108 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   109 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   110 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   111 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   112 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    63 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   113 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   114 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   115 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   116 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   117 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   118 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   171 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: waited 70200.0 seconds for job completion: UnsubmittedJobs= 113, ActiveJobs= 1, FinishedJobs= 57
+   STOP    58:             refineFinal1   120,  21 Thr,    0 R,  171 T,   58 F,  113 Q  TotalTime= 0h 0.52m  RunTime= 0h 0.52m  CPUload=1778% host=NA
+   START   59:             refineFinal1   121,  21 Thr,    1 R,  171 T,   58 F,  112 Q
+   STOP    59:             refineFinal1   121,  21 Thr,    0 R,  171 T,   59 F,  112 Q  TotalTime= 0h 0.35m  RunTime= 0h 0.35m  CPUload=1620% host=NA
+   START   60:             refineFinal1   122,  21 Thr,    1 R,  171 T,   59 F,  111 Q
+   STOP    60:             refineFinal1   122,  21 Thr,    0 R,  171 T,   60 F,  111 Q  TotalTime= 0h 0.27m  RunTime= 0h 0.27m  CPUload=1597% host=NA
+   START   61:             refineFinal1   123,  21 Thr,    1 R,  171 T,   60 F,  110 Q
+   STOP    61:             refineFinal1   123,  21 Thr,    0 R,  171 T,   61 F,  110 Q  TotalTime= 0h 0.42m  RunTime= 0h 0.41m  CPUload=1726% host=NA
+   START   62:             refineFinal1    71,  21 Thr,    1 R,  171 T,   61 F,  109 Q
+   STOP    62:             refineFinal1    71,  21 Thr,    0 R,  171 T,   62 F,  109 Q  TotalTime= 0h 0.38m  RunTime= 0h 0.38m  CPUload=1716% host=NA
+   START   63:             refineFinal1   124,  21 Thr,    1 R,  171 T,   62 F,  108 Q
+   STOP    63:             refineFinal1   124,  21 Thr,    0 R,  171 T,   63 F,  108 Q  TotalTime= 0h 0.25m  RunTime= 0h 0.25m  CPUload=1393% host=NA
+   START   64:             refineFinal1    72,  21 Thr,    1 R,  171 T,   63 F,  107 Q
+   STOP    64:             refineFinal1    72,  21 Thr,    0 R,  171 T,   64 F,  107 Q  TotalTime= 0h 0.40m  RunTime= 0h 0.40m  CPUload=1794% host=NA
+   START   65:             refineFinal1   125,  21 Thr,    1 R,  171 T,   64 F,  106 Q
+   STOP    65:             refineFinal1   125,  21 Thr,    0 R,  171 T,   65 F,  106 Q  TotalTime= 0h 0.24m  RunTime= 0h 0.24m  CPUload=1267% host=NA
+   START   66:             refineFinal1    50,  21 Thr,    1 R,  171 T,   65 F,  105 Q
+   STOP    66:             refineFinal1    50,  21 Thr,    0 R,  171 T,   66 F,  105 Q  TotalTime= 0h 0.53m  RunTime= 0h 0.53m  CPUload=1921% host=NA
+   START   67:             refineFinal1   126,  21 Thr,    1 R,  171 T,   66 F,  104 Q
+   STOP    67:             refineFinal1   126,  21 Thr,    0 R,  171 T,   67 F,  104 Q  TotalTime= 0h 0.48m  RunTime= 0h 0.48m  CPUload=1711% host=NA
+   START   68:             refineFinal1   127,  21 Thr,    1 R,  171 T,   67 F,  103 Q
+   STOP    68:             refineFinal1   127,  21 Thr,    0 R,  171 T,   68 F,  103 Q  TotalTime= 0h 0.43m  RunTime= 0h 0.43m  CPUload=1692% host=NA
+   START   69:             refineFinal1   128,  21 Thr,    1 R,  171 T,   68 F,  102 Q
+   STOP    69:             refineFinal1   128,  21 Thr,    0 R,  171 T,   69 F,  102 Q  TotalTime= 0h 0.49m  RunTime= 0h 0.49m  CPUload=1816% host=NA
+   START   70:             refineFinal1   129,  21 Thr,    1 R,  171 T,   69 F,  101 Q
+   STOP    70:             refineFinal1   129,  21 Thr,    0 R,  171 T,   70 F,  101 Q  TotalTime= 0h 0.44m  RunTime= 0h 0.44m  CPUload=1724% host=NA
+   START   71:             refineFinal1    73,  21 Thr,    1 R,  171 T,   70 F,  100 Q
+   STOP    71:             refineFinal1    73,  21 Thr,    0 R,  171 T,   71 F,  100 Q  TotalTime= 0h 0.47m  RunTime= 0h 0.47m  CPUload=1842% host=NA
+   START   72:             refineFinal1    51,  21 Thr,    1 R,  171 T,   71 F,   99 Q
+   STOP    72:             refineFinal1    51,  21 Thr,    0 R,  171 T,   72 F,   99 Q  TotalTime= 0h 0.56m  RunTime= 0h 0.56m  CPUload=1946% host=NA
+   START   73:             refineFinal1   130,  21 Thr,    1 R,  171 T,   72 F,   98 Q
+   STOP    73:             refineFinal1   130,  21 Thr,    0 R,  171 T,   73 F,   98 Q  TotalTime= 0h 0.32m  RunTime= 0h 0.32m  CPUload=1679% host=NA
+   START   74:             refineFinal1    74,  21 Thr,    1 R,  171 T,   73 F,   97 Q
+   STOP    74:             refineFinal1    74,  21 Thr,    0 R,  171 T,   74 F,   97 Q  TotalTime= 0h 0.68m  RunTime= 0h 0.68m  CPUload=1853% host=NA
+   START   75:             refineFinal1   131,  21 Thr,    1 R,  171 T,   74 F,   96 Q
+   STOP    75:             refineFinal1   131,  21 Thr,    0 R,  171 T,   75 F,   96 Q  TotalTime= 0h 0.42m  RunTime= 0h 0.42m  CPUload=1718% host=NA
+   START   76:             refineFinal1    52,  21 Thr,    1 R,  171 T,   75 F,   95 Q
+   STOP    76:             refineFinal1    52,  21 Thr,    0 R,  171 T,   76 F,   95 Q  TotalTime= 0h 0.41m  RunTime= 0h 0.41m  CPUload=1886% host=NA
+   START   77:             refineFinal1    75,  21 Thr,    1 R,  171 T,   76 F,   94 Q
+   STOP    77:             refineFinal1    75,  21 Thr,    0 R,  171 T,   77 F,   94 Q  TotalTime= 0h 0.58m  RunTime= 0h 0.58m  CPUload=1865% host=NA
+   START   78:             refineFinal1   132,  21 Thr,    1 R,  171 T,   77 F,   93 Q
+   STOP    78:             refineFinal1   132,  21 Thr,    0 R,  171 T,   78 F,   93 Q  TotalTime= 0h 0.31m  RunTime= 0h 0.31m  CPUload=1606% host=NA
+   START   79:             refineFinal1   133,  21 Thr,    1 R,  171 T,   78 F,   92 Q
+   STOP    79:             refineFinal1   133,  21 Thr,    0 R,  171 T,   79 F,   92 Q  TotalTime= 0h 0.23m  RunTime= 0h 0.23m  CPUload=1395% host=NA
+   START   80:             refineFinal1    76,  21 Thr,    1 R,  171 T,   79 F,   91 Q
+   STOP    80:             refineFinal1    76,  21 Thr,    0 R,  171 T,   80 F,   91 Q  TotalTime= 0h 0.52m  RunTime= 0h 0.52m  CPUload=1834% host=NA
+   START   81:             refineFinal1   134,  21 Thr,    1 R,  171 T,   80 F,   90 Q
+   STOP    81:             refineFinal1   134,  21 Thr,    0 R,  171 T,   81 F,   90 Q  TotalTime= 0h 0.87m  RunTime= 0h 0.87m  CPUload=1862% host=NA
+   START   82:             refineFinal1    53,  21 Thr,    1 R,  171 T,   81 F,   89 Q
+   STOP    82:             refineFinal1    53,  21 Thr,    0 R,  171 T,   82 F,   89 Q  TotalTime= 0h 0.38m  RunTime= 0h 0.38m  CPUload=1886% host=NA
+   START   83:             refineFinal1   135,  21 Thr,    1 R,  171 T,   82 F,   88 Q
+   STOP    83:             refineFinal1   135,  21 Thr,    0 R,  171 T,   83 F,   88 Q  TotalTime= 0h 0.45m  RunTime= 0h 0.45m  CPUload=1782% host=NA
+   START   84:             refineFinal1   136,  21 Thr,    1 R,  171 T,   83 F,   87 Q
+   STOP    84:             refineFinal1   136,  21 Thr,    0 R,  171 T,   84 F,   87 Q  TotalTime= 0h 0.25m  RunTime= 0h 0.25m  CPUload=1501% host=NA
+   START   85:             refineFinal1   137,  21 Thr,    1 R,  171 T,   84 F,   86 Q
+   STOP    85:             refineFinal1   137,  21 Thr,    0 R,  171 T,   85 F,   86 Q  TotalTime= 0h 0.33m  RunTime= 0h 0.33m  CPUload=1559% host=NA
+   START   86:             refineFinal1   138,  21 Thr,    1 R,  171 T,   85 F,   85 Q
+   STOP    86:             refineFinal1   138,  21 Thr,    0 R,  171 T,   86 F,   85 Q  TotalTime= 0h 0.39m  RunTime= 0h 0.39m  CPUload=1678% host=NA
+   START   87:             refineFinal1    77,  21 Thr,    1 R,  171 T,   86 F,   84 Q
+   STOP    87:             refineFinal1    77,  21 Thr,    0 R,  171 T,   87 F,   84 Q  TotalTime= 0h 0.40m  RunTime= 0h 0.40m  CPUload=1776% host=NA
+   START   88:             refineFinal1   139,  21 Thr,    1 R,  171 T,   87 F,   83 Q
+   STOP    88:             refineFinal1   139,  21 Thr,    0 R,  171 T,   88 F,   83 Q  TotalTime= 0h 0.29m  RunTime= 0h 0.29m  CPUload=1621% host=NA
+   START   89:             refineFinal1   140,  21 Thr,    1 R,  171 T,   88 F,   82 Q
+   STOP    89:             refineFinal1   140,  21 Thr,    0 R,  171 T,   89 F,   82 Q  TotalTime= 0h 0.44m  RunTime= 0h 0.44m  CPUload=1783% host=NA
+   START   90:             refineFinal1    78,  21 Thr,    1 R,  171 T,   89 F,   81 Q
+   STOP    90:             refineFinal1    78,  21 Thr,    0 R,  171 T,   90 F,   81 Q  TotalTime= 0h 0.37m  RunTime= 0h 0.37m  CPUload=1662% host=NA
+   START   91:             refineFinal1   141,  21 Thr,    1 R,  171 T,   90 F,   80 Q
+   STOP    91:             refineFinal1   141,  21 Thr,    0 R,  171 T,   91 F,   80 Q  TotalTime= 0h 0.40m  RunTime= 0h 0.40m  CPUload=1732% host=NA
+   START   92:             refineFinal1   142,  21 Thr,    1 R,  171 T,   91 F,   79 Q
+   STOP    92:             refineFinal1   142,  21 Thr,    0 R,  171 T,   92 F,   79 Q  TotalTime= 0h 0.27m  RunTime= 0h 0.27m  CPUload=1591% host=NA
+   START   93:             refineFinal1    79,  21 Thr,    1 R,  171 T,   92 F,   78 Q
+   STOP    93:             refineFinal1    79,  21 Thr,    0 R,  171 T,   93 F,   78 Q  TotalTime= 0h 0.54m  RunTime= 0h 0.54m  CPUload=1871% host=NA
+   START   94:             refineFinal1    54,  21 Thr,    1 R,  171 T,   93 F,   77 Q
+   STOP    94:             refineFinal1    54,  21 Thr,    0 R,  171 T,   94 F,   77 Q  TotalTime= 0h 0.44m  RunTime= 0h 0.44m  CPUload=1868% host=NA
+   START   95:             refineFinal1    55,  21 Thr,    1 R,  171 T,   94 F,   76 Q
+   STOP    95:             refineFinal1    55,  21 Thr,    0 R,  171 T,   95 F,   76 Q  TotalTime= 0h 0.53m  RunTime= 0h 0.53m  CPUload=1943% host=NA
+   START   96:             refineFinal1    56,  21 Thr,    1 R,  171 T,   95 F,   75 Q
+   STOP    96:             refineFinal1    56,  21 Thr,    0 R,  171 T,   96 F,   75 Q  TotalTime= 0h 0.65m  RunTime= 0h 0.65m  CPUload=1920% host=NA
+   START   97:             refineFinal1   143,  21 Thr,    1 R,  171 T,   96 F,   74 Q
+   STOP    97:             refineFinal1   143,  21 Thr,    0 R,  171 T,   97 F,   74 Q  TotalTime= 0h 0.24m  RunTime= 0h 0.24m  CPUload=1492% host=NA
+   START   98:             refineFinal1    80,  21 Thr,    1 R,  171 T,   97 F,   73 Q
+   STOP    98:             refineFinal1    80,  21 Thr,    0 R,  171 T,   98 F,   73 Q  TotalTime= 0h 0.74m  RunTime= 0h 0.74m  CPUload=1881% host=NA
+   START   99:             refineFinal1   144,  21 Thr,    1 R,  171 T,   98 F,   72 Q
+   STOP    99:             refineFinal1   144,  21 Thr,    0 R,  171 T,   99 F,   72 Q  TotalTime= 0h 0.15m  RunTime= 0h 0.15m  CPUload=1354% host=NA
+   START  100:             refineFinal1   145,  21 Thr,    1 R,  171 T,   99 F,   71 Q
+   STOP   100:             refineFinal1   145,  21 Thr,    0 R,  171 T,  100 F,   71 Q  TotalTime= 0h 0.22m  RunTime= 0h 0.22m  CPUload=1358% host=NA
+   START  101:             refineFinal1    81,  21 Thr,    1 R,  171 T,  100 F,   70 Q
+   STOP   101:             refineFinal1    81,  21 Thr,    0 R,  171 T,  101 F,   70 Q  TotalTime= 0h 0.34m  RunTime= 0h 0.34m  CPUload=1775% host=NA
+   START  102:             refineFinal1    57,  21 Thr,    1 R,  171 T,  101 F,   69 Q
+   STOP   102:             refineFinal1    57,  21 Thr,    0 R,  171 T,  102 F,   69 Q  TotalTime= 0h 0.32m  RunTime= 0h 0.32m  CPUload=1809% host=NA
+   START  103:             refineFinal1    82,  21 Thr,    1 R,  171 T,  102 F,   68 Q
+   STOP   103:             refineFinal1    82,  21 Thr,    0 R,  171 T,  103 F,   68 Q  TotalTime= 0h 0.53m  RunTime= 0h 0.53m  CPUload=1828% host=NA
+   START  104:             refineFinal1   146,  21 Thr,    1 R,  171 T,  103 F,   67 Q
+   STOP   104:             refineFinal1   146,  21 Thr,    0 R,  171 T,  104 F,   67 Q  TotalTime= 0h 0.17m  RunTime= 0h 0.17m  CPUload=1276% host=NA
+   START  105:             refineFinal1   147,  21 Thr,    1 R,  171 T,  104 F,   66 Q
+   STOP   105:             refineFinal1   147,  21 Thr,    0 R,  171 T,  105 F,   66 Q  TotalTime= 0h 0.35m  RunTime= 0h 0.35m  CPUload=1720% host=NA
+   START  106:             refineFinal1    83,  21 Thr,    1 R,  171 T,  105 F,   65 Q
+   STOP   106:             refineFinal1    83,  21 Thr,    0 R,  171 T,  106 F,   65 Q  TotalTime= 0h 0.42m  RunTime= 0h 0.42m  CPUload=1806% host=NA
+   START  107:             refineFinal1    84,  21 Thr,    1 R,  171 T,  106 F,   64 Q
+   STOP   107:             refineFinal1    84,  21 Thr,    0 R,  171 T,  107 F,   64 Q  TotalTime= 0h 0.48m  RunTime= 0h 0.48m  CPUload=1845% host=NA
+   START  108:             refineFinal1   148,  21 Thr,    1 R,  171 T,  107 F,   63 Q
+   STOP   108:             refineFinal1   148,  21 Thr,    0 R,  171 T,  108 F,   63 Q  TotalTime= 0h 0.40m  RunTime= 0h 0.40m  CPUload=1768% host=NA
+   START  109:             refineFinal1    85,  21 Thr,    1 R,  171 T,  108 F,   62 Q
+   STOP   109:             refineFinal1    85,  21 Thr,    0 R,  171 T,  109 F,   62 Q  TotalTime= 0h 0.27m  RunTime= 0h 0.27m  CPUload=1571% host=NA
+   START  110:             refineFinal1   149,  21 Thr,    1 R,  171 T,  109 F,   61 Q
+   STOP   110:             refineFinal1   149,  21 Thr,    0 R,  171 T,  110 F,   61 Q  TotalTime= 0h 0.34m  RunTime= 0h 0.34m  CPUload=1693% host=NA
+   START  111:             refineFinal1    86,  21 Thr,    1 R,  171 T,  110 F,   60 Q
+   STOP   111:             refineFinal1    86,  21 Thr,    0 R,  171 T,  111 F,   60 Q  TotalTime= 0h 0.36m  RunTime= 0h 0.36m  CPUload=1713% host=NA
+   START  112:             refineFinal1    87,  21 Thr,    1 R,  171 T,  111 F,   59 Q
+   STOP   112:             refineFinal1    87,  21 Thr,    0 R,  171 T,  112 F,   59 Q  TotalTime= 0h 0.65m  RunTime= 0h 0.65m  CPUload=1872% host=NA
+   START  113:             refineFinal1    88,  21 Thr,    1 R,  171 T,  112 F,   58 Q
+   STOP   113:             refineFinal1    88,  21 Thr,    0 R,  171 T,  113 F,   58 Q  TotalTime= 0h 0.29m  RunTime= 0h 0.29m  CPUload=1676% host=NA
+   START  114:             refineFinal1    89,  21 Thr,    1 R,  171 T,  113 F,   57 Q
+   STOP   114:             refineFinal1    89,  21 Thr,    0 R,  171 T,  114 F,   57 Q  TotalTime= 0h 0.49m  RunTime= 0h 0.49m  CPUload=1826% host=NA
+   START  115:             refineFinal1   150,  21 Thr,    1 R,  171 T,  114 F,   56 Q
+   STOP   115:             refineFinal1   150,  21 Thr,    0 R,  171 T,  115 F,   56 Q  TotalTime= 0h 0.38m  RunTime= 0h 0.38m  CPUload=1739% host=NA
+   START  116:             refineFinal1    90,  21 Thr,    1 R,  171 T,  115 F,   55 Q
+   STOP   116:             refineFinal1    90,  21 Thr,    0 R,  171 T,  116 F,   55 Q  TotalTime= 0h 0.21m  RunTime= 0h 0.21m  CPUload=1612% host=NA
+   START  117:             refineFinal1   151,  21 Thr,    1 R,  171 T,  116 F,   54 Q
+   STOP   117:             refineFinal1   151,  21 Thr,    0 R,  171 T,  117 F,   54 Q  TotalTime= 0h 0.25m  RunTime= 0h 0.25m  CPUload=1429% host=NA
+   START  118:             refineFinal1    58,  21 Thr,    1 R,  171 T,  117 F,   53 Q
+   STOP   118:             refineFinal1    58,  21 Thr,    0 R,  171 T,  118 F,   53 Q  TotalTime= 0h 0.21m  RunTime= 0h 0.21m  CPUload=1695% host=NA
+   START  119:             refineFinal1    59,  21 Thr,    1 R,  171 T,  118 F,   52 Q
+   STOP   119:             refineFinal1    59,  21 Thr,    0 R,  171 T,  119 F,   52 Q  TotalTime= 0h 1.00m  RunTime= 0h 1.00m  CPUload=1967% host=NA
+   START  120:             refineFinal1   152,  21 Thr,    1 R,  171 T,  119 F,   51 Q
+   STOP   120:             refineFinal1   152,  21 Thr,    0 R,  171 T,  120 F,   51 Q  TotalTime= 0h 0.42m  RunTime= 0h 0.42m  CPUload=1742% host=NA
+   START  121:             refineFinal1    91,  21 Thr,    1 R,  171 T,  120 F,   50 Q
+   STOP   121:             refineFinal1    91,  21 Thr,    0 R,  171 T,  121 F,   50 Q  TotalTime= 0h 0.30m  RunTime= 0h 0.30m  CPUload=1686% host=NA
+   START  122:             refineFinal1    92,  21 Thr,    1 R,  171 T,  121 F,   49 Q
+   STOP   122:             refineFinal1    92,  21 Thr,    0 R,  171 T,  122 F,   49 Q  TotalTime= 0h 0.41m  RunTime= 0h 0.41m  CPUload=1699% host=NA
+   START  123:             refineFinal1    60,  21 Thr,    1 R,  171 T,  122 F,   48 Q
+   STOP   123:             refineFinal1    60,  21 Thr,    0 R,  171 T,  123 F,   48 Q  TotalTime= 0h 0.18m  RunTime= 0h 0.18m  CPUload=1650% host=NA
+   START  124:             refineFinal1   153,  21 Thr,    1 R,  171 T,  123 F,   47 Q
+   STOP   124:             refineFinal1   153,  21 Thr,    0 R,  171 T,  124 F,   47 Q  TotalTime= 0h 0.14m  RunTime= 0h 0.14m  CPUload=1356% host=NA
+   START  125:             refineFinal1   154,  21 Thr,    1 R,  171 T,  124 F,   46 Q
+   STOP   125:             refineFinal1   154,  21 Thr,    0 R,  171 T,  125 F,   46 Q  TotalTime= 0h 0.13m  RunTime= 0h 0.13m  CPUload=1329% host=NA
+   START  126:             refineFinal1   155,  21 Thr,    1 R,  171 T,  125 F,   45 Q
+   STOP   126:             refineFinal1   155,  21 Thr,    0 R,  171 T,  126 F,   45 Q  TotalTime= 0h 0.32m  RunTime= 0h 0.32m  CPUload=1699% host=NA
+   START  127:             refineFinal1   156,  21 Thr,    1 R,  171 T,  126 F,   44 Q
+   STOP   127:             refineFinal1   156,  21 Thr,    0 R,  171 T,  127 F,   44 Q  TotalTime= 0h 0.32m  RunTime= 0h 0.32m  CPUload=1631% host=NA
+   START  128:             refineFinal1   157,  21 Thr,    1 R,  171 T,  127 F,   43 Q
+   STOP   128:             refineFinal1   157,  21 Thr,    0 R,  171 T,  128 F,   43 Q  TotalTime= 0h 0.13m  RunTime= 0h 0.13m  CPUload=1306% host=NA
+   START  129:             refineFinal1   158,  21 Thr,    1 R,  171 T,  128 F,   42 Q
+   STOP   129:             refineFinal1   158,  21 Thr,    0 R,  171 T,  129 F,   42 Q  TotalTime= 0h 0.28m  RunTime= 0h 0.28m  CPUload=1491% host=NA
+   START  130:             refineFinal1   159,  21 Thr,    1 R,  171 T,  129 F,   41 Q
+   STOP   130:             refineFinal1   159,  21 Thr,    0 R,  171 T,  130 F,   41 Q  TotalTime= 0h 0.20m  RunTime= 0h 0.20m  CPUload=1573% host=NA
+   START  131:             refineFinal1   160,  21 Thr,    1 R,  171 T,  130 F,   40 Q
+   STOP   131:             refineFinal1   160,  21 Thr,    0 R,  171 T,  131 F,   40 Q  TotalTime= 0h 0.43m  RunTime= 0h 0.43m  CPUload=1681% host=NA
+   START  132:             refineFinal1   161,  21 Thr,    1 R,  171 T,  131 F,   39 Q
+   STOP   132:             refineFinal1   161,  21 Thr,    0 R,  171 T,  132 F,   39 Q  TotalTime= 0h 0.29m  RunTime= 0h 0.29m  CPUload=1601% host=NA
+   START  133:             refineFinal1   162,  21 Thr,    1 R,  171 T,  132 F,   38 Q
+   STOP   133:             refineFinal1   162,  21 Thr,    0 R,  171 T,  133 F,   38 Q  TotalTime= 0h 0.24m  RunTime= 0h 0.24m  CPUload=1622% host=NA
+   START  134:             refineFinal1   163,  21 Thr,    1 R,  171 T,  133 F,   37 Q
+   STOP   134:             refineFinal1   163,  21 Thr,    0 R,  171 T,  134 F,   37 Q  TotalTime= 0h 0.26m  RunTime= 0h 0.26m  CPUload=1597% host=NA
+   START  135:             refineFinal1   164,  21 Thr,    1 R,  171 T,  134 F,   36 Q
+   STOP   135:             refineFinal1   164,  21 Thr,    0 R,  171 T,  135 F,   36 Q  TotalTime= 0h 0.20m  RunTime= 0h 0.20m  CPUload=1584% host=NA
+   START  136:             refineFinal1   165,  21 Thr,    1 R,  171 T,  135 F,   35 Q
+   STOP   136:             refineFinal1   165,  21 Thr,    0 R,  171 T,  136 F,   35 Q  TotalTime= 0h 0.07m  RunTime= 0h 0.07m  CPUload=957% host=NA
+   START  137:             refineFinal1   166,  21 Thr,    1 R,  171 T,  136 F,   34 Q
+   STOP   137:             refineFinal1   166,  21 Thr,    0 R,  171 T,  137 F,   34 Q  TotalTime= 0h 0.08m  RunTime= 0h 0.08m  CPUload=1079% host=NA
+   START  138:             refineFinal1   167,  21 Thr,    1 R,  171 T,  137 F,   33 Q
+   STOP   138:             refineFinal1   167,  21 Thr,    0 R,  171 T,  138 F,   33 Q  TotalTime= 0h 0.15m  RunTime= 0h 0.15m  CPUload=1403% host=NA
+   START  139:             refineFinal1   168,  21 Thr,    1 R,  171 T,  138 F,   32 Q
+refineFinal1: jobName= refineFinal1   169 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   170 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    61 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    93 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    94 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    95 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    96 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    97 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    98 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    99 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   100 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   101 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   102 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   103 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   104 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   105 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   106 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   107 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    62 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   108 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   109 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   110 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   111 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   112 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1    63 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   113 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   114 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   115 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   116 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   117 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   118 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: jobName= refineFinal1   171 : Not On Cluster : availableThreads= 0, sJob.maxThreads= 21 (skipping)
+refineFinal1: waited 72000.0 seconds for job completion: UnsubmittedJobs= 32, ActiveJobs= 1, FinishedJobs= 138
+   STOP   139:             refineFinal1   168,  21 Thr,    0 R,  171 T,  139 F,   32 Q  TotalTime= 0h 0.32m  RunTime= 0h 0.32m  CPUload=1742% host=NA
+   START  140:             refineFinal1   169,  21 Thr,    1 R,  171 T,  139 F,   31 Q
+   STOP   140:             refineFinal1   169,  21 Thr,    0 R,  171 T,  140 F,   31 Q  TotalTime= 0h 0.12m  RunTime= 0h 0.12m  CPUload=1304% host=NA
+   START  141:             refineFinal1   170,  21 Thr,    1 R,  171 T,  140 F,   30 Q
+   STOP   141:             refineFinal1   170,  21 Thr,    0 R,  171 T,  141 F,   30 Q  TotalTime= 0h 0.12m  RunTime= 0h 0.12m  CPUload=1389% host=NA
+   START  142:             refineFinal1    61,  21 Thr,    1 R,  171 T,  141 F,   29 Q
+   STOP   142:             refineFinal1    61,  21 Thr,    0 R,  171 T,  142 F,   29 Q  TotalTime= 0h 0.37m  RunTime= 0h 0.37m  CPUload=1855% host=NA
+   START  143:             refineFinal1    93,  21 Thr,    1 R,  171 T,  142 F,   28 Q
+   STOP   143:             refineFinal1    93,  21 Thr,    0 R,  171 T,  143 F,   28 Q  TotalTime= 0h 0.37m  RunTime= 0h 0.37m  CPUload=1751% host=NA
+   START  144:             refineFinal1    94,  21 Thr,    1 R,  171 T,  143 F,   27 Q
+   STOP   144:             refineFinal1    94,  21 Thr,    0 R,  171 T,  144 F,   27 Q  TotalTime= 0h 0.36m  RunTime= 0h 0.36m  CPUload=1719% host=NA
+   START  145:             refineFinal1    95,  21 Thr,    1 R,  171 T,  144 F,   26 Q
+   STOP   145:             refineFinal1    95,  21 Thr,    0 R,  171 T,  145 F,   26 Q  TotalTime= 0h 0.33m  RunTime= 0h 0.33m  CPUload=1751% host=NA
+   START  146:             refineFinal1    96,  21 Thr,    1 R,  171 T,  145 F,   25 Q
+   STOP   146:             refineFinal1    96,  21 Thr,    0 R,  171 T,  146 F,   25 Q  TotalTime= 0h 0.32m  RunTime= 0h 0.32m  CPUload=1746% host=NA
+   START  147:             refineFinal1    97,  21 Thr,    1 R,  171 T,  146 F,   24 Q
+   STOP   147:             refineFinal1    97,  21 Thr,    0 R,  171 T,  147 F,   24 Q  TotalTime= 0h 0.28m  RunTime= 0h 0.28m  CPUload=1575% host=NA
+   START  148:             refineFinal1    98,  21 Thr,    1 R,  171 T,  147 F,   23 Q
+   STOP   148:             refineFinal1    98,  21 Thr,    0 R,  171 T,  148 F,   23 Q  TotalTime= 0h 0.46m  RunTime= 0h 0.46m  CPUload=1806% host=NA
+   START  149:             refineFinal1    99,  21 Thr,    1 R,  171 T,  148 F,   22 Q
+   STOP   149:             refineFinal1    99,  21 Thr,    0 R,  171 T,  149 F,   22 Q  TotalTime= 0h 0.17m  RunTime= 0h 0.17m  CPUload=1421% host=NA
+   START  150:             refineFinal1   100,  21 Thr,    1 R,  171 T,  149 F,   21 Q
+   STOP   150:             refineFinal1   100,  21 Thr,    0 R,  171 T,  150 F,   21 Q  TotalTime= 0h 0.28m  RunTime= 0h 0.28m  CPUload=1608% host=NA
+   START  151:             refineFinal1   101,  21 Thr,    1 R,  171 T,  150 F,   20 Q
+   STOP   151:             refineFinal1   101,  21 Thr,    0 R,  171 T,  151 F,   20 Q  TotalTime= 0h 0.28m  RunTime= 0h 0.28m  CPUload=1617% host=NA
+   START  152:             refineFinal1   102,  21 Thr,    1 R,  171 T,  151 F,   19 Q
+   STOP   152:             refineFinal1   102,  21 Thr,    0 R,  171 T,  152 F,   19 Q  TotalTime= 0h 0.22m  RunTime= 0h 0.22m  CPUload=1532% host=NA
+   START  153:             refineFinal1   103,  21 Thr,    1 R,  171 T,  152 F,   18 Q
+   STOP   153:             refineFinal1   103,  21 Thr,    0 R,  171 T,  153 F,   18 Q  TotalTime= 0h 0.58m  RunTime= 0h 0.58m  CPUload=1860% host=NA
+   START  154:             refineFinal1   104,  21 Thr,    1 R,  171 T,  153 F,   17 Q
+   STOP   154:             refineFinal1   104,  21 Thr,    0 R,  171 T,  154 F,   17 Q  TotalTime= 0h 0.30m  RunTime= 0h 0.30m  CPUload=1667% host=NA
+   START  155:             refineFinal1   105,  21 Thr,    1 R,  171 T,  154 F,   16 Q
+   STOP   155:             refineFinal1   105,  21 Thr,    0 R,  171 T,  155 F,   16 Q  TotalTime= 0h 0.40m  RunTime= 0h 0.40m  CPUload=1792% host=NA
+   START  156:             refineFinal1   106,  21 Thr,    1 R,  171 T,  155 F,   15 Q
+   STOP   156:             refineFinal1   106,  21 Thr,    0 R,  171 T,  156 F,   15 Q  TotalTime= 0h 0.37m  RunTime= 0h 0.37m  CPUload=1785% host=NA
+   START  157:             refineFinal1   107,  21 Thr,    1 R,  171 T,  156 F,   14 Q
+   STOP   157:             refineFinal1   107,  21 Thr,    0 R,  171 T,  157 F,   14 Q  TotalTime= 0h 0.52m  RunTime= 0h 0.52m  CPUload=1852% host=NA
+   START  158:             refineFinal1    62,  21 Thr,    1 R,  171 T,  157 F,   13 Q
+   STOP   158:             refineFinal1    62,  21 Thr,    0 R,  171 T,  158 F,   13 Q  TotalTime= 0h 0.36m  RunTime= 0h 0.35m  CPUload=1827% host=NA
+   START  159:             refineFinal1   108,  21 Thr,    1 R,  171 T,  158 F,   12 Q
+   STOP   159:             refineFinal1   108,  21 Thr,    0 R,  171 T,  159 F,   12 Q  TotalTime= 0h 0.26m  RunTime= 0h 0.25m  CPUload=1576% host=NA
+   START  160:             refineFinal1   109,  21 Thr,    1 R,  171 T,  159 F,   11 Q
+   STOP   160:             refineFinal1   109,  21 Thr,    0 R,  171 T,  160 F,   11 Q  TotalTime= 0h 0.14m  RunTime= 0h 0.14m  CPUload=1145% host=NA
+   START  161:             refineFinal1   110,  21 Thr,    1 R,  171 T,  160 F,   10 Q
+   STOP   161:             refineFinal1   110,  21 Thr,    0 R,  171 T,  161 F,   10 Q  TotalTime= 0h 0.25m  RunTime= 0h 0.25m  CPUload=1637% host=NA
+   START  162:             refineFinal1   111,  21 Thr,    1 R,  171 T,  161 F,    9 Q
+   STOP   162:             refineFinal1   111,  21 Thr,    0 R,  171 T,  162 F,    9 Q  TotalTime= 0h 0.32m  RunTime= 0h 0.32m  CPUload=1669% host=NA
+   START  163:             refineFinal1   112,  21 Thr,    1 R,  171 T,  162 F,    8 Q
+   STOP   163:             refineFinal1   112,  21 Thr,    0 R,  171 T,  163 F,    8 Q  TotalTime= 0h 0.35m  RunTime= 0h 0.35m  CPUload=1798% host=NA
+   START  164:             refineFinal1    63,  21 Thr,    1 R,  171 T,  163 F,    7 Q
+   STOP   164:             refineFinal1    63,  21 Thr,    0 R,  171 T,  164 F,    7 Q  TotalTime= 0h 0.88m  RunTime= 0h 0.88m  CPUload=1971% host=NA
+   START  165:             refineFinal1   113,  21 Thr,    1 R,  171 T,  164 F,    6 Q
+   STOP   165:             refineFinal1   113,  21 Thr,    0 R,  171 T,  165 F,    6 Q  TotalTime= 0h 0.20m  RunTime= 0h 0.20m  CPUload=1425% host=NA
+   START  166:             refineFinal1   114,  21 Thr,    1 R,  171 T,  165 F,    5 Q
+   STOP   166:             refineFinal1   114,  21 Thr,    0 R,  171 T,  166 F,    5 Q  TotalTime= 0h 0.29m  RunTime= 0h 0.29m  CPUload=1706% host=NA
+   START  167:             refineFinal1   115,  21 Thr,    1 R,  171 T,  166 F,    4 Q
+   STOP   167:             refineFinal1   115,  21 Thr,    0 R,  171 T,  167 F,    4 Q  TotalTime= 0h 0.24m  RunTime= 0h 0.24m  CPUload=1647% host=NA
+   START  168:             refineFinal1   116,  21 Thr,    1 R,  171 T,  167 F,    3 Q
+   STOP   168:             refineFinal1   116,  21 Thr,    0 R,  171 T,  168 F,    3 Q  TotalTime= 0h 0.18m  RunTime= 0h 0.18m  CPUload=1548% host=NA
+   START  169:             refineFinal1   117,  21 Thr,    1 R,  171 T,  168 F,    2 Q
+   STOP   169:             refineFinal1   117,  21 Thr,    0 R,  171 T,  169 F,    2 Q  TotalTime= 0h 0.47m  RunTime= 0h 0.46m  CPUload=1848% host=NA
+   START  170:             refineFinal1   118,  21 Thr,    1 R,  171 T,  169 F,    1 Q
+   STOP   170:             refineFinal1   118,  21 Thr,    0 R,  171 T,  170 F,    1 Q  TotalTime= 0h 0.23m  RunTime= 0h 0.23m  CPUload=1625% host=NA
+   START  171:             refineFinal1   171,  21 Thr,    1 R,  171 T,  170 F,    0 Q
+   STOP   171:             refineFinal1   171,  21 Thr,    0 R,  171 T,  171 F,    0 Q  TotalTime= 0h 0.33m  RunTime= 0h 0.33m  CPUload=1750% host=NA
+ Finished Multi-Threaded Process: refineFinal1
+
+ Starting Multi-Threaded Process: Cmap_Merge_exp_refineFinal1
+  Running 1 jobs with 1 threads, sleepTime=0.05
+   START    1:         mrg_exp_refineFinal1_0,   1 Thr,    1 R,    1 T,    0 F,    0 Q
+   STOP     1:         mrg_exp_refineFinal1_0,   1 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 0.16m  RunTime= 0h 0.16m  CPUload=42% host=NA
+ Finished Multi-Threaded Process: Cmap_Merge_exp_refineFinal1
+
+Characterize refineFinal1 completed : will check Results
+Executing stage number 32 : alignmol
+
+ Starting Multi-Threaded Process: alignmol
+  Running 1 jobs with 21 threads, sleepTime=0.05
+   START    1:                       alignmol,  20 Thr,    1 R,    1 T,    0 F,    0 Q
+Characterize refineFinal1 results check completed
+   STOP     1:                       alignmol,  20 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 4.33m  RunTime= 0h 4.34m  CPUload=1506% host=NA
+ Finished Multi-Threaded Process: alignmol
+
+Starting AlignModule Align Stats stage for alignmol
+totAssemblyLenMb : reflen= 3044.8649
+Molecule Stats (/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/contigs/auto_noise/autoNoise1_rescaled.bnx):
+Total number of molecules: 987480
+Total length (Mbp)       : 320588.295
+Average length (kbp)     :    324.653
+Molecule N50 (kbp)       :    354.130
+Label density (/100kb)   :     16.890
+Raw coverage of assembly (X):    105.288
+
+Warning in getAlignStats: missing .err file: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/contigs/exp_refineFinal1/alignmol/merge/exp_refineFinal1.err
+Molecules aligned to assembly:
+Total number of aligned molecules  :    932207
+Fraction of aligned molecules      :         0.944
+Total molecule align length (Mbp)  :    262623.2
+Total  assembly align length (Mbp) :    263461.0
+Effective coverage of  assembly (X):        86.526
+Average aligned length (kbp)       :       281.7
+Fraction aligned length            :         0.819
+Average confidence                 :        47.1
+Finished AlignModule Align Stats stage for alignmol
+
+
+
+Warning/Error messages:
+warning : Found text in \"/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/all.stdout\" after \"END of output\"\n
+
+Warning summary:
+	1 warning(s)
+
+  Pipeline end time: Sat Dec  7 04:08:59 2019
+  Elapsed time: 7954.32m; 132.57h; 5.52d
+
+Starting compression script:
+/bin/bash /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/Pipeline/09262019/compressPipeline.sh --targetFolder /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx --outputFolder /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx --prefix pipeline_results --gzip --verbose
+Creating compress job log: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx/pipeline_results.log
+Pipeline has successfully completed
