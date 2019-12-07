@@ -14,14 +14,14 @@ conda activate bionano
 
 cd /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/95-39694/fasta
 
-mkdir -p /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694_2
+mkdir -p /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694_1
 
 perl /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/HybridScaffold/09262019/hybridScaffold.pl \
 -n /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/95-39694/fasta/95-39694_pseudohap.fasta \
 -b /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/data/95-39694/contigs/exp_refineFinal1/EXP_REFINEFINAL1.cmap \
--c /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/HybridScaffold/09262019/hybridScaffold_DLE1_config.xml \
+-c /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/HybridScaffold/09262019/hybridScaffold_DLE1_config_skylake_1.xml \
 -r /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner \
--o /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694_2 \
+-o /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/95-39694_1 \
 -B 2 \
 -N 2 \
 -f
