@@ -16,7 +16,7 @@ mkdir -p /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/
 python /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/Pipeline/09262019/pipelineCL.py \
 -T 39 \
 -J 39 \
-0j 39 \
+-j 39 \
 -N 4 \
 -f 0.2 \
 -i 5 \

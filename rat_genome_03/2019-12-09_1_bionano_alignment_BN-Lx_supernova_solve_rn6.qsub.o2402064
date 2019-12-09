@@ -1,0 +1,36 @@
+Tools Version: N/A
+Solve Version: N/A
+Pipeline Version: 10026
+RefAligner Version: 10020
+
+Assembly ID: None
+
+  Pipeline start time: Mon Dec  9 04:53:51 2019
+
+checkScanScaling: autoNoise= False
+Not performing autoNoise (see -y): setting doScanScale = False, hence not using _rescaled.bnx for BNX splits
+
+Running Characterization with arguments:
+-M 1 3 -Msave 1 -T 1e-12 -A 13 -S 0.1 -L 60.0 -outlier 3e-4 -endoutlier 3e-2 -outlierBC -res 2.6 -resSD 0.7 -extend 1 -nosplit 2 -biaswt 0.2 -biaswtEnd 0.0 -biaswtOutlier 0.0 -deltaX 6 -deltaY 6 -PVres 2 -PVendoutlier -hashgen 5 11 2.4 1.4 0.05 3.0 1 1 1 -hash -hashdelta 27 -hashoffset 1 -hashrange 0 -MultiMatchesTotScore 2 50.0 -RefSplit 1e-4 12 1e-5 -RefSplitStitch 1 -mres 1e-3 -hashGrouped 6 11 -hashMultiMatch 50 -hashGC 300 -hashT2 1 -hashkeys 1 -HSDrange 1.0 -insertThreads 4 -ScaleDelta 0.05 2 -ScaleDeltaBPP -hashScaleDelta 2 -xmapchim 14 2000.0 -xmapUnique 14 -xmaplen -AlignRes 2.0 -outlierExtend 6 120 -Kmax 4 -rres 0.9 -resEstimate -MultiMatchesDelta 50.0 -MultiMatchesFilter 2 -outlierLambda 10.0 -outlierType1 0 -FP 0.2 -FN 0.02 -sf 0.1 -sd 0.0 -sr 0.02 -se 0.2 -MinSF 0.05 -MaxSF 0.1 -MinSD 0.0 -MaxSD 0.0 -MaxSR 0.02 -MaxSE 0.5 -indel -finalsort-sitesdec -RAmem 3 300 -f -maxmem 120 -maxvirtmem 0
+
+ Starting Multi-Threaded Process: CharacterizeD_BN-Lx_supernova_solve_DLE-1_0kb_0labels
+  Running 1 jobs with 39 threads, sleepTime=0.01
+   START    1: CharD_BN-Lx_supernova_solve_DL,  38 Thr,    1 R,    1 T,    0 F,    0 Q
+WARNING: Job CharD_BN-Lx_supernova_solve_DLE-1_0kb_0labels has cpuTime= 0.0000, cpuPercent= 0.0000
+
+   STOP     1: CharD_BN-Lx_supernova_solve_DL,  38 Thr,    0 R,    1 T,    1 F,    0 Q  TotalTime= 0h 2.09m  RunTime= 0h 0.00m  CPUload=0% host=NA
+ Finished Multi-Threaded Process: CharacterizeD_BN-Lx_supernova_solve_DLE-1_0kb_0labels
+
+Number Genome Maps: 54
+Total Genome Map Length  (Mbp): 2639.376
+Mean Genome Map Length   (Mbp):   48.877
+Median Genome Map Length (Mbp):   32.065
+Genome Map N50           (Mbp):   88.524
+Total Reference Length   (Mbp): 2870.184
+Total Genome Map Length / Reference Length :    0.920
+Total number of aligned Genome Maps    : 48 (0.89)
+Total Aligned Length (Mbp)             :  518.522
+Total Aligned Length / Reference Length:    0.181
+Total Unique Aligned Length (Mbp)      :  518.309
+Total Unique Aligned Length / Reference Length:    0.181
+
