@@ -1,0 +1,23 @@
+qsub -I -A ACF-UTHSC0013 -l nodes=1:ppn=24,walltime=140:00:00 -m abe -M hanyou@umich.edu -l partition=monster
+
+cd
+. .bashrc
+conda activate bionano
+
+mkdir -p /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx
+python /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/Pipeline/09262019/pipelineCL.py \
+-l /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx \
+-t /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel \
+-b /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/data/BN-Lx/all.bnx \
+-R \
+-y \
+-i 5 \
+-a /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/optArguments_nonhaplotype_DLE1_saphyr.xml \
+-N 4 \
+-f 0.1 \
+-T 21 \
+-J 21 \
+-j 21  > /nics/c/home/hanyou/scripts/rat_genome_03/2019-12-01_1_bionano_de_novo_BN-Lx.iqsub.o 2>&1
+
+
+

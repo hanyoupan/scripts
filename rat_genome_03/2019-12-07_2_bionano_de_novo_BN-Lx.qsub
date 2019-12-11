@@ -1,0 +1,34 @@
+#!/bin/bash
+
+#PBS -S /bin/bash
+#PBS -A ACF-UTHSC0013
+#PBS -l nodes=1:ppn=40,walltime=140:00:00
+#PBS -m abe 
+#PBS -M hanyou@umich.edu 
+#PBS -j oe 
+#PBS -l partition=general,feature=skylake
+
+cd
+. .bashrc
+conda activate bionano
+
+mkdir -p /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx_1
+python /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/Pipeline/09262019/pipelineCL.py \
+-T 39 \
+-J 39 \
+-j 39 \
+-N 4 \
+-f 0.2 \
+-i 5 \
+-y \
+-b /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/data/BN-Lx/all.bnx \
+-t /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel \
+-a /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/optArguments_nonhaplotype_DLE1_saphyr.xml \
+-l /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/de_novo/BN-Lx_1 \
+-R \
+-r /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/ref_cmap/rn6_ensembl/rattus_norvegicus.rnor_6.0.dna.toplevel_DLE-1_0kb_0labels.cmap
+
+
+
+
+
