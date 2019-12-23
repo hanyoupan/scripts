@@ -580,3 +580,779 @@ Running preflight checks (please wait)...
 2019-12-19 18:04:52 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
 2019-12-19 18:10:53 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
 2019-12-19 18:16:51 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 18:22:52 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 18:28:53 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 18:34:54 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 18:40:52 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 18:46:53 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 18:52:54 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 18:58:55 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 19:04:53 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 19:10:54 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 19:16:55 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 19:22:52 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 19:28:53 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 19:34:54 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 19:40:55 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 19:46:53 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 19:52:53 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 19:58:54 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 20:04:54 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 20:10:55 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 20:16:55 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 20:22:56 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 20:28:54 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 20:34:54 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 20:40:55 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 20:46:56 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 20:52:54 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 20:58:55 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 21:04:55 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 21:10:56 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 21:16:57 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 21:22:54 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 21:28:55 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 21:34:56 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 21:40:54 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 21:46:56 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 21:52:56 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 21:58:56 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 22:04:57 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 22:10:57 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0 chunks_running
+2019-12-19 22:12:52 [runtime] (chunks_complete) ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2
+2019-12-19 22:12:52 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2.fork0.join
+2019-12-19 22:12:58 [runtime] (join_complete)   ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_D2
+2019-12-19 22:13:02 [runtime] (ready)           ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR
+2019-12-19 22:13:02 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0.split
+2019-12-19 22:13:05 [runtime] (split_complete)  ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR
+2019-12-19 22:13:05 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0.chnk0.main
+2019-12-19 22:19:06 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 22:25:06 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 22:31:07 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 22:37:06 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 22:43:07 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 22:49:07 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 22:55:08 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 23:01:06 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 23:07:06 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 23:13:07 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 23:19:08 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 23:25:06 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 23:31:08 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 23:37:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 23:43:07 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 23:49:07 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-19 23:55:08 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 00:01:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 00:07:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 00:13:10 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 00:19:08 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 00:25:08 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 00:31:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 00:37:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 00:43:10 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 00:49:08 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 00:55:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 01:01:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 01:07:10 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 01:13:10 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 01:19:08 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 01:25:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 01:31:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0 chunks_running
+2019-12-20 01:31:45 [runtime] (chunks_complete) ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR
+2019-12-20 01:31:45 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR.fork0.join
+2019-12-20 01:31:52 [runtime] (join_complete)   ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_TR
+2019-12-20 01:31:59 [runtime] (ready)           ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC
+2019-12-20 01:31:59 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0.split
+2019-12-20 01:32:02 [runtime] (split_complete)  ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC
+2019-12-20 01:32:02 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0.chnk0.main
+2019-12-20 01:38:02 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 01:44:03 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 01:50:04 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 01:56:04 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 02:02:04 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 02:08:05 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 02:14:02 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 02:20:03 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 02:26:03 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 02:32:03 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 02:38:02 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 02:44:03 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 02:50:03 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 02:56:04 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 03:02:05 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 03:08:03 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 03:14:03 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 03:20:04 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 03:26:05 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 03:32:05 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 03:38:03 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 03:44:04 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 03:50:04 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 03:56:05 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 04:02:06 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 04:08:03 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 04:14:04 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 04:20:04 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 04:26:05 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 04:32:06 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 04:38:03 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 04:44:04 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0 chunks_running
+2019-12-20 04:44:25 [runtime] (chunks_complete) ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC
+2019-12-20 04:44:25 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC.fork0.join
+2019-12-20 04:44:31 [runtime] (join_complete)   ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MC
+2019-12-20 04:44:38 [runtime] (ready)           ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CP
+2019-12-20 04:44:38 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CP.fork0.split
+2019-12-20 04:44:41 [runtime] (split_complete)  ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CP
+2019-12-20 04:44:41 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CP.fork0.chnk0.main
+2019-12-20 04:50:41 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CP.fork0 chunks_running
+2019-12-20 04:56:42 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CP.fork0 chunks_running
+2019-12-20 05:02:42 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CP.fork0 chunks_running
+2019-12-20 05:08:43 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CP.fork0 chunks_running
+2019-12-20 05:14:43 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CP.fork0 chunks_running
+2019-12-20 05:20:42 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CP.fork0 chunks_running
+2019-12-20 05:23:19 [runtime] (chunks_complete) ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CP
+2019-12-20 05:23:19 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CP.fork0.join
+2019-12-20 05:23:22 [runtime] (join_complete)   ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CP
+2019-12-20 05:23:28 [runtime] (ready)           ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML
+2019-12-20 05:23:28 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0.split
+2019-12-20 05:23:31 [runtime] (split_complete)  ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML
+2019-12-20 05:23:31 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0.chnk0.main
+2019-12-20 05:29:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 05:35:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 05:41:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 05:47:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 05:53:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 05:59:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 06:05:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 06:11:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 06:17:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 06:23:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 06:29:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 06:35:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 06:41:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 06:47:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 06:53:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 06:59:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 07:05:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 07:11:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 07:17:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 07:23:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 07:29:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 07:35:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 07:41:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 07:47:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 07:53:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 07:59:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 08:05:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 08:11:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 08:17:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 08:23:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 08:29:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 08:35:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 08:41:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 08:47:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 08:53:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 08:59:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 09:05:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 09:11:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 09:17:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 09:23:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 09:29:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 09:35:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 09:41:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 09:47:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 09:53:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 09:59:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 10:05:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 10:11:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 10:17:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 10:23:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 10:29:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 10:35:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 10:41:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 10:47:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 10:53:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 10:59:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 11:05:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 11:11:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 11:17:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 11:23:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 11:29:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 11:35:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 11:41:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 11:47:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 11:53:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 11:59:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 12:05:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 12:11:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 12:17:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 12:23:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 12:29:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 12:35:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 12:41:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 12:47:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 12:53:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 12:59:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 13:05:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 13:11:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 13:17:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 13:23:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 13:29:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 13:35:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 13:41:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 13:47:40 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 13:53:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 13:59:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 14:05:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 14:11:40 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 14:17:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 14:23:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 14:29:40 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 14:35:40 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 14:41:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 14:47:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 14:53:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 14:59:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 15:05:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 15:11:40 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 15:17:40 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 15:23:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 15:29:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 15:35:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 15:41:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 15:47:40 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 15:53:40 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 15:59:40 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 16:05:42 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 16:11:44 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 16:17:44 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 16:23:42 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 16:29:43 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 16:35:42 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 16:41:45 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 16:47:44 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 16:53:42 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 16:59:44 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 17:05:44 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 17:11:44 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 17:17:46 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 17:23:43 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 17:29:44 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 17:35:44 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 17:41:44 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 17:47:44 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 17:53:46 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 17:59:45 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 18:05:44 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 18:11:45 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 18:17:43 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 18:23:45 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 18:29:43 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 18:35:44 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 18:41:45 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 18:47:45 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 18:53:44 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 18:59:45 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 19:05:45 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 19:11:46 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 19:17:45 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 19:23:46 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 19:29:47 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 19:35:45 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 19:41:46 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 19:47:47 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 19:53:45 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 19:59:47 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 20:05:45 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 20:11:45 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 20:17:46 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 20:23:46 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 20:29:45 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 20:35:46 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 20:41:47 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 20:47:48 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 20:53:46 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 20:59:47 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 21:05:48 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 21:11:49 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 21:17:47 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 21:23:48 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 21:29:48 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 21:35:46 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 21:41:47 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 21:47:48 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 21:53:48 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 21:59:49 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 22:05:47 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 22:11:47 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 22:17:48 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 22:23:48 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 22:29:49 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 22:35:49 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 22:41:47 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 22:47:48 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 22:53:49 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 22:59:47 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 23:05:48 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 23:11:48 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 23:17:49 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 23:23:47 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 23:29:06 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0 chunks_running
+2019-12-20 23:29:09 [runtime] (chunks_complete) ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML
+2019-12-20 23:29:09 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML.fork0.join
+2019-12-20 23:29:15 [runtime] (join_complete)   ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ML
+2019-12-20 23:29:22 [runtime] (ready)           ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL
+2019-12-20 23:29:22 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0.split
+2019-12-20 23:29:25 [runtime] (split_complete)  ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL
+2019-12-20 23:29:25 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0.chnk0.main
+2019-12-20 23:35:26 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-20 23:41:26 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-20 23:47:27 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-20 23:53:28 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-20 23:59:25 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 00:05:26 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 00:11:27 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 00:17:28 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 00:23:26 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 00:29:28 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 00:35:28 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 00:41:29 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 00:47:27 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 00:53:27 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 00:59:28 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 01:05:29 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 01:11:27 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 01:17:28 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 01:23:29 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 01:29:30 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 01:35:28 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 01:41:30 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 01:47:30 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 01:53:28 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 01:59:30 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 02:05:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 02:11:29 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 02:17:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 02:23:29 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 02:29:30 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 02:35:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 02:41:30 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 02:47:30 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 02:53:29 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 02:59:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 03:05:29 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 03:11:30 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 03:17:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 03:23:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 03:29:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 03:35:30 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 03:41:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 03:47:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 03:53:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 03:59:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 04:05:30 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 04:11:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 04:17:30 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 04:23:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 04:29:30 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 04:35:30 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 04:41:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 04:47:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 04:53:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 04:59:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 05:05:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 05:11:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 05:17:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 05:23:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 05:29:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 05:35:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 05:41:30 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 05:47:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 05:53:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 05:59:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 06:05:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 06:11:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 06:17:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 06:23:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 06:29:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 06:35:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 06:41:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 06:47:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 06:53:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 06:59:31 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 07:05:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 07:11:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 07:17:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 07:23:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 07:29:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 07:35:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 07:41:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 07:47:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 07:53:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 07:59:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 08:05:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 08:11:32 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 08:17:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 08:23:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 08:29:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 08:35:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 08:41:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 08:47:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 08:53:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 08:59:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 09:05:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 09:11:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 09:17:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 09:23:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 09:29:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 09:35:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 09:41:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 09:47:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 09:53:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 09:59:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 10:05:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 10:11:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 10:17:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0 chunks_running
+2019-12-21 10:17:57 [runtime] (chunks_complete) ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL
+2019-12-21 10:17:57 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL.fork0.join
+2019-12-21 10:18:04 [runtime] (join_complete)   ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_CL
+2019-12-21 10:18:07 [runtime] (ready)           ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM
+2019-12-21 10:18:07 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0.split
+2019-12-21 10:18:10 [runtime] (split_complete)  ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM
+2019-12-21 10:18:10 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0.chnk0.main
+2019-12-21 10:24:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 10:30:12 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 10:36:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 10:42:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 10:48:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 10:54:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 11:00:12 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 11:06:12 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 11:12:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 11:18:15 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 11:24:14 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 11:30:15 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 11:36:14 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 11:42:18 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 11:48:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 11:54:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 12:00:15 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 12:06:16 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 12:12:16 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 12:18:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 12:24:15 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 12:30:16 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 12:36:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 12:42:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 12:48:15 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 12:54:16 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 13:00:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 13:06:18 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 13:12:15 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 13:18:16 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 13:24:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 13:30:18 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 13:36:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 13:42:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 13:48:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 13:54:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 14:00:18 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 14:06:18 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 14:12:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 14:18:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 14:24:18 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 14:30:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 14:36:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 14:42:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 14:48:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 14:54:18 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 15:00:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 15:06:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 15:12:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0 chunks_running
+2019-12-21 15:17:27 [runtime] (chunks_complete) ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM
+2019-12-21 15:17:28 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM.fork0.join
+2019-12-21 15:17:35 [runtime] (join_complete)   ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_DM
+2019-12-21 15:17:42 [runtime] (ready)           ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ACP
+2019-12-21 15:17:42 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ACP.fork0.split
+2019-12-21 15:17:45 [runtime] (split_complete)  ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ACP
+2019-12-21 15:17:45 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ACP.fork0.chnk0.main
+2019-12-21 15:23:46 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ACP.fork0 chunks_running
+2019-12-21 15:25:31 [runtime] (chunks_complete) ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ACP
+2019-12-21 15:25:31 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ACP.fork0.join
+2019-12-21 15:25:34 [runtime] (join_complete)   ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_ACP
+2019-12-21 15:25:38 [runtime] (ready)           ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MP
+2019-12-21 15:25:38 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MP.fork0.split
+2019-12-21 15:25:41 [runtime] (split_complete)  ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MP
+2019-12-21 15:25:41 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MP.fork0.chnk0.main
+2019-12-21 15:31:43 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MP.fork0 chunks_running
+2019-12-21 15:37:44 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MP.fork0 chunks_running
+2019-12-21 15:43:43 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MP.fork0 chunks_running
+2019-12-21 15:49:44 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MP.fork0 chunks_running
+2019-12-21 15:54:53 [runtime] (chunks_complete) ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MP
+2019-12-21 15:54:53 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MP.fork0.join
+2019-12-21 15:54:56 [runtime] (join_complete)   ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_MP
+2019-12-21 15:55:02 [runtime] (ready)           ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2
+2019-12-21 15:55:02 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0.split
+2019-12-21 15:55:06 [runtime] (split_complete)  ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2
+2019-12-21 15:55:06 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0.chnk0.main
+2019-12-21 16:01:06 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 16:07:07 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 16:13:08 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 16:19:06 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 16:25:08 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 16:31:06 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 16:37:07 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 16:43:07 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 16:49:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 16:55:06 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 17:01:10 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 17:07:08 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 17:13:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 17:19:10 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 17:25:10 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 17:31:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 17:37:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 17:43:10 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 17:49:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 17:55:08 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 18:01:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 18:07:10 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 18:13:10 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 18:19:08 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 18:25:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 18:31:10 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 18:37:08 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 18:43:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 18:49:10 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 18:55:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 19:01:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 19:07:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 19:13:10 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 19:19:10 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 19:25:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 19:31:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 19:37:09 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 19:43:10 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 19:49:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 19:55:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 20:01:12 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 20:07:12 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 20:13:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 20:19:12 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 20:25:12 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 20:31:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 20:37:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 20:43:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 20:49:12 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 20:55:12 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 21:01:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 21:07:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 21:13:12 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 21:19:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 21:25:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 21:31:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 21:37:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 21:43:12 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 21:49:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 21:55:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 22:01:12 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 22:07:12 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 22:13:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 22:19:14 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 22:25:11 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 22:31:12 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 22:37:12 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 22:43:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 22:49:14 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 22:55:15 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 23:01:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 23:07:14 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 23:13:15 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 23:19:14 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 23:25:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 23:31:15 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 23:37:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 23:43:14 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 23:49:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-21 23:55:14 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 00:01:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 00:07:14 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 00:13:15 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 00:19:15 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 00:25:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 00:31:14 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 00:37:15 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 00:43:13 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 00:49:14 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 00:55:14 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 01:01:15 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 01:07:14 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 01:13:14 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 01:19:14 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 01:25:16 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 01:31:15 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 01:37:15 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 01:43:16 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 01:49:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 01:55:16 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 02:01:18 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 02:07:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 02:13:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 02:19:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 02:25:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 02:31:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 02:37:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 02:43:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 02:49:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 02:55:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 03:01:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 03:07:18 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 03:13:20 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 03:19:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 03:25:20 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 03:31:17 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 03:37:18 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 03:43:18 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 03:49:18 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 03:55:20 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 04:01:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 04:07:20 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 04:13:20 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 04:19:18 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 04:25:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 04:31:20 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 04:37:18 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 04:43:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 04:49:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 04:55:20 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 05:01:20 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 05:07:18 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 05:13:19 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0 chunks_running
+2019-12-22 05:14:16 [runtime] (chunks_complete) ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2
+2019-12-22 05:14:17 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2.fork0.join
+2019-12-22 05:14:23 [runtime] (join_complete)   ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_M2
+2019-12-22 05:14:29 [runtime] (ready)           ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR
+2019-12-22 05:14:29 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0.split
+2019-12-22 05:14:32 [runtime] (split_complete)  ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR
+2019-12-22 05:14:32 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0.chnk0.main
+2019-12-22 05:20:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 05:26:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 05:32:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 05:38:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 05:44:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 05:50:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 05:56:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 06:02:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 06:08:33 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 06:14:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 06:20:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 06:26:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 06:32:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 06:38:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 06:44:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 06:50:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 06:56:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 07:02:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 07:08:34 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 07:14:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 07:20:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 07:26:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 07:32:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 07:38:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 07:44:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 07:50:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 07:56:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 08:02:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 08:08:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 08:14:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 08:20:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 08:26:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 08:32:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 08:38:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 08:44:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 08:50:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 08:56:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 09:02:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 09:08:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 09:14:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 09:20:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 09:26:35 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 09:32:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 09:38:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 09:44:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 09:50:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 09:56:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 10:02:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 10:08:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 10:14:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 10:20:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 10:26:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 10:32:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 10:38:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 10:44:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 10:50:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 10:56:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 11:02:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 11:08:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 11:14:36 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 11:20:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 11:26:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 11:32:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 11:38:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 11:44:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 11:50:40 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 11:56:38 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 12:02:37 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 12:08:39 [runtime] (update)          ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0 chunks_running
+2019-12-22 12:14:01 [runtime] (chunks_complete) ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR
+2019-12-22 12:14:01 [runtime] (run:local)       ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR.fork0.join
+2019-12-22 12:14:08 [runtime] (join_complete)   ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR
+Alerts for ID.5739-JL-0029.ASSEMBLER_CS._ASSEMBLER.ASSEMBLER_PR:
+The length-weighted mean molecule length is 18578.80 bases. The molecule length estimation was successful, however, ideally we would expect a larger value. Standard methods starting from blood can yield 100 kb or larger DNA, but it can be difficult to obtain long DNA from other sample types. Short molecules may reduce the scaffold and phase block N50 length, and could result in misassemblies. We have observed assembly quality to improve with longer DNA.
+
+
+Outputs:
+- Run summary:        /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/5739-JL-0029/5739-JL-0029/outs/summary.csv
+- Run report:         /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/5739-JL-0029/5739-JL-0029/outs/report.txt
+- Raw assembly files: /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova/5739-JL-0029/5739-JL-0029/outs/assembly
+
+Alerts:
+The length-weighted mean molecule length is 18578.80 bases. The molecule length estimation was successful, however, ideally we would expect a larger value. Standard methods starting from blood can yield 100 kb or larger DNA, but it can be difficult to obtain long DNA from other sample types. Short molecules may reduce the scaffold and phase block N50 length, and could result in misassemblies. We have observed assembly quality to improve with longer DNA.
+
+
+Running onfinish handler...
+Waiting 6 seconds for UI to do final refresh.
+Pipestance completed successfully!
+
+Saving pipestance info to 5739-JL-0029/5739-JL-0029.mri.tgz
+supernova mkoutput (2.1.1)
+Copyright (c) 2018 10x Genomics, Inc.  All rights reserved.
+-------------------------------------------------------------------------------
+
+Sun Dec 22 12:15:55 2019: using 1 threads
+
+--------------------------------------------------------------------------------
+Sun Dec 22 12:15:56 2019 on acf-monster, pid=108193 [Aug 28 2018 15:15:30 6bb16452a]
+MakeFasta OUT_HEAD=5739-JL-0029_pseudohap                                      \
+          DIR=/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/supernova \
+          /5739-JL-0029/5739-JL-0029/outs/assembly/a.base/gang/micro/final     \
+          FLAVOR=pseudohap MINSIZE=10000 ABBREV=True
+--------------------------------------------------------------------------------
+
+version=1.10 style=3
+Sun Dec 22 12:15:56 2019: loading assembly files
+Sun Dec 22 12:16:31 2019: cell reinsertion
+Sun Dec 22 12:18:40 2019: building lines-of-lines
+Sun Dec 22 12:18:41 2019: forming lines of lines
+Sun Dec 22 12:18:43 2019: found 378290 lines, and 364658 lines of lines
+Sun Dec 22 12:18:44 2019: writing the FASTA portion of output to 5739-JL-0029_pseudohap.fasta
+writing 100 dots in 10 groups of 10:
+.......... .......... .......... .......... ..........
+.......... .......... .......... .......... ..........
+writing gzipped object
+Sun Dec 22 12:23:47 2019: graph info
+final graph has 4843886 edges
+reinserted cells start at edge 4193280
+431 cell(s) at dead-ends
+completed conversion in 7.86 minutes
