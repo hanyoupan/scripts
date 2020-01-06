@@ -13750,3 +13750,5 @@ CharacterizeD_refineB1: waited 82800.0 seconds for job completion: UnsubmittedJo
 CharacterizeD_extension1_2: waited 68400.0 seconds for job completion: UnsubmittedJobs= 0, ActiveJobs= 1, FinishedJobs= 0
 CharacterizeD_extension1_1: waited 75600.0 seconds for job completion: UnsubmittedJobs= 0, ActiveJobs= 1, FinishedJobs= 0
 CharacterizeD_refineB1: waited 84600.0 seconds for job completion: UnsubmittedJobs= 0, ActiveJobs= 1, FinishedJobs= 0
+CharacterizeD_extension1_2: waited 70200.0 seconds for job completion: UnsubmittedJobs= 0, ActiveJobs= 1, FinishedJobs= 0
+CharacterizeD_extension1_1: waited 77400.0 seconds for job completion: UnsubmittedJobs= 0, ActiveJobs= 1, FinishedJobs= 0

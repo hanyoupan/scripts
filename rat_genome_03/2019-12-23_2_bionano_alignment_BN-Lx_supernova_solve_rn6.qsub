@@ -13,6 +13,7 @@ cd
 conda activate bionano
 
 mkdir -p /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/alignment/BN-Lx_supernova_solve_rn6
+cd /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/alignment/BN-Lx_supernova_solve_rn6
 
 python /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/Pipeline/09262019/runCharacterize.py \
 -t /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner \

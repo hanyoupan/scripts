@@ -1,0 +1,27 @@
+#!/bin/bash
+
+#PBS -S /bin/bash
+#PBS -A ACF-UTHSC0013
+#PBS -l nodes=1:ppn=40,walltime=40:00:00
+#PBS -m abe 
+#PBS -M hanyou@umich.edu 
+#PBS -j oe 
+#PBS -l partition=general,feature=skylake
+
+cd
+. .bashrc
+conda activate bionano
+
+mkdir -p /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/alignment/BN-Lx_supernova_solve_rn6_direct
+cd /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/alignment/BN-Lx_supernova_solve_rn6_direct
+
+python /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/Pipeline/09262019/runCharacterize.py \
+-t /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/RefAligner \
+-q /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/hybrid_scaffold/BN_Lx/hybrid_scaffolds/EXP_REFINEFINAL1_bppAdjust_cmap_95-39694_pseudohap_fasta_HYBRID_SCAFFOLD.cmap \
+-r /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/bionano/ref_cmap/rn6_ensembl/rattus_norvegicus.rnor_6.0.dna.toplevel_DLE-1_0kb_0labels.cmap \
+-p /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/Pipeline/09262019/ \
+-a /lustre/haven/proj/UTHSC0013/UM/apps/bionano_solve_3.4.1/Solve3.4.1_09262019/RefAligner/8949.10020rel/optArguments_nonhaplotype_DLE1_saphyr.xml \
+-n 39
+
+
+
