@@ -1,0 +1,23 @@
+vcf-merge \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0021_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0022_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0023_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0024_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0025_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0026_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0027_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0028_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0029_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0030_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0031_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0032_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0033_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0034_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0035_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0036_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0037_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0038_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0039_chr1.vcf.gz \
+/lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/5739-JL-0040_chr1.vcf.gz \
+-d -R "0/0" \
+> /lustre/haven/proj/UTHSC0013/UM/projects/rat_genome_03/long_ranger/20_hrlr_rn6/vcfs/combined/20hrlr_rn6_chr1_0fs0.vcf
